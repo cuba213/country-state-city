@@ -4899,103 +4899,222 @@
       "latitude": "47.35953600",
       "longitude": "8.63564520"
    },
-   {
-      "name": "Abidjan",
-      "isoCode": "AB",
+{
+      "name": "Agnéby-Tiassa",
+      "isoCode": "AG",
       "countryCode": "CI",
-      "latitude": "5.345317",
-      "longitude": "-4.024429"
+      "latitude": "5.900",
+      "longitude": "-4.833"
    },
    {
-      "name": "Bas-Sassandra",
-      "isoCode": "BS",
+      "name": "Bafing",
+      "isoCode": "BF",
       "countryCode": "CI",
-      "latitude": "5.27983560",
-      "longitude": "-6.15269850"
+      "latitude": "8.283",
+      "longitude": "-7.683"
    },
    {
-      "name": "Comoé",
-      "isoCode": "CM",
+      "name": "Bagoué",
+      "isoCode": "BA",
       "countryCode": "CI",
-      "latitude": "5.55279300",
-      "longitude": "-3.25836260"
+      "latitude": "9.783",
+      "longitude": "-6.300"
    },
    {
-      "name": "Denguélé",
-      "isoCode": "DN",
+      "name": "Bélier",
+      "isoCode": "BE",
       "countryCode": "CI",
-      "latitude": "9.46623720",
-      "longitude": "-7.43813550"
+      "latitude": "6.920",
+      "longitude": "-5.050"
    },
    {
-      "name": "Gôh-Djiboua",
-      "isoCode": "GD",
+      "name": "Béré",
+      "isoCode": "BR",
       "countryCode": "CI",
-      "latitude": "5.87113930",
-      "longitude": "-5.56172790"
+      "latitude": "8.067",
+      "longitude": "-6.183"
    },
    {
-      "name": "Lacs",
-      "isoCode": "LC",
+      "name": "Bounkani",
+      "isoCode": "BN",
       "countryCode": "CI",
-      "latitude": "6.82762280",
-      "longitude": "-5.28934330"
+      "latitude": "9.200",
+      "longitude": "-2.783"
    },
    {
-      "name": "Lagunes",
-      "isoCode": "LG",
+      "name": "Cavally",
+      "isoCode": "CV",
       "countryCode": "CI",
-      "latitude": "5.88273340",
-      "longitude": "-4.23333550"
+      "latitude": "6.533",
+      "longitude": "-7.483"
    },
    {
-      "name": "Montagnes",
-      "isoCode": "MG",
+      "name": "Folon",
+      "isoCode": "FO",
       "countryCode": "CI",
-      "latitude": "7.37623730",
-      "longitude": "-7.43813550"
+      "latitude": "9.800",
+      "longitude": "-7.667"
    },
    {
-      "name": "Sassandra-Marahoué",
-      "isoCode": "SM",
+      "name": "Gbêkê",
+      "isoCode": "GK",
       "countryCode": "CI",
-      "latitude": "6.88033480",
-      "longitude": "-6.23759470"
+      "latitude": "7.683",
+      "longitude": "-5.033"
    },
    {
-      "name": "Savanes",
-      "isoCode": "SV",
+      "name": "Gbôklé",
+      "isoCode": "GB",
       "countryCode": "CI",
-      "latitude": "9.416667",
-      "longitude": "-5.616667"
+      "latitude": "5.032",
+      "longitude": "-6.150"
    },
    {
-      "name": "Vallée du Bandama",
-      "isoCode": "VB",
+      "name": "Gôh",
+      "isoCode": "GO",
       "countryCode": "CI",
-      "latitude": "8.27897800",
-      "longitude": "-4.89356270"
+      "latitude": "6.135",
+      "longitude": "-5.936"
    },
    {
-      "name": "Woroba",
-      "isoCode": "WR",
+      "name": "Gontougo",
+      "isoCode": "GT",
       "countryCode": "CI",
-      "latitude": "8.24913720",
-      "longitude": "-6.92091350"
+      "latitude": "8.033",
+      "longitude": "-2.783"
    },
    {
-      "name": "Yamoussoukro",
-      "isoCode": "YM",
+      "name": "Grands-Ponts",
+      "isoCode": "GP",
       "countryCode": "CI",
-      "latitude": "6.82762280",
-      "longitude": "-5.28934330"
+      "latitude": "5.333",
+      "longitude": "-4.383"
    },
    {
-      "name": "Zanzan",
-      "isoCode": "ZZ",
+      "name": "Guémon",
+      "isoCode": "GM",
       "countryCode": "CI",
-      "latitude": "8.82079040",
-      "longitude": "-3.41955270"
+      "latitude": "6.450",
+      "longitude": "-7.500"
+   },
+   {
+      "name": "Hambol",
+      "isoCode": "HB",
+      "countryCode": "CI",
+      "latitude": "7.683",
+      "longitude": "-5.017"
+   },
+   {
+      "name": "Haut-Sassandra",
+      "isoCode": "HS",
+      "countryCode": "CI",
+      "latitude": "7.000",
+      "longitude": "-6.583"
+   },
+   {
+      "name": "Iffou",
+      "isoCode": "IF",
+      "countryCode": "CI",
+      "latitude": "7.250",
+      "longitude": "-3.867"
+   },
+   {
+      "name": "Indénié-Djuablin",
+      "isoCode": "ID",
+      "countryCode": "CI",
+      "latitude": "7.217",
+      "longitude": "-3.333"
+   },
+   {
+      "name": "Kabadougou",
+      "isoCode": "KB",
+      "countryCode": "CI",
+      "latitude": "9.500",
+      "longitude": "-7.567"
+   },
+   {
+      "name": "La Mé",
+      "isoCode": "LM",
+      "countryCode": "CI",
+      "latitude": "5.950",
+      "longitude": "-3.667"
+   },
+   {
+      "name": "Lôh-Djiboua",
+      "isoCode": "LD",
+      "countryCode": "CI",
+      "latitude": "6.000",
+      "longitude": "-5.383"
+   },
+   {
+      "name": "Marahoué",
+      "isoCode": "MH",
+      "countryCode": "CI",
+      "latitude": "7.000",
+      "longitude": "-5.833"
+   },
+   {
+      "name": "Moronou",
+      "isoCode": "MR",
+      "countryCode": "CI",
+      "latitude": "6.833",
+      "longitude": "-4.250"
+   },
+   {
+      "name": "Nawa",
+      "isoCode": "NW",
+      "countryCode": "CI",
+      "latitude": "5.600",
+      "longitude": "-6.067"
+   },
+   {
+      "name": "N'zi",
+      "isoCode": "NZ",
+      "countryCode": "CI",
+      "latitude": "7.000",
+      "longitude": "-4.733"
+   },
+   {
+      "name": "Poro",
+      "isoCode": "PO",
+      "countryCode": "CI",
+      "latitude": "9.450",
+      "longitude": "-5.617"
+   },
+   {
+      "name": "San-Pédro",
+      "isoCode": "SP",
+      "countryCode": "CI",
+      "latitude": "4.749",
+      "longitude": "-6.637"
+   },
+   {
+      "name": "Sud-Comoé",
+      "isoCode": "SC",
+      "countryCode": "CI",
+      "latitude": "5.467",
+      "longitude": "-3.300"
+   },
+   {
+      "name": "Tchologo",
+      "isoCode": "TC",
+      "countryCode": "CI",
+      "latitude": "9.950",
+      "longitude": "-4.700"
+   },
+   {
+      "name": "Tonkpi",
+      "isoCode": "TP",
+      "countryCode": "CI",
+      "latitude": "7.400",
+      "longitude": "-7.667"
+   },
+   {
+      "name": "Worodougou",
+      "isoCode": "WO",
+      "countryCode": "CI",
+      "latitude": "8.000",
+      "longitude": "-6.600"
    },
    {
       "name": "Aisén del General Carlos Ibañez del Campo",
