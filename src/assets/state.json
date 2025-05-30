@@ -8302,6 +8302,20 @@
       "longitude": "38.31657250"
    },
    {
+      "name": "Sidama Region",
+      "isoCode": "SI",
+      "countryCode": "ET",
+      "latitude": "6.8333", 
+      "longitude": "38.4833" 
+   },
+   {
+      "name": "South West Ethiopia Peoples' Region",
+      "isoCode": "SW",
+      "countryCode": "ET",
+      "latitude": "6.9167", 
+      "longitude": "36.0333" 
+   },
+   {
       "name": "Åland Islands",
       "isoCode": "01",
       "countryCode": "FI",
