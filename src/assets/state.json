@@ -4899,7 +4899,7 @@
       "latitude": "47.35953600",
       "longitude": "8.63564520"
    },
-{
+   {
       "name": "Agnéby-Tiassa",
       "isoCode": "AG",
       "countryCode": "CI",
@@ -8424,15 +8424,15 @@
       "name": "Sidama Region",
       "isoCode": "SI",
       "countryCode": "ET",
-      "latitude": "6.8333", 
-      "longitude": "38.4833" 
+      "latitude": "6.8333",
+      "longitude": "38.4833"
    },
    {
       "name": "South West Ethiopia Peoples' Region",
       "isoCode": "SW",
       "countryCode": "ET",
-      "latitude": "6.9167", 
-      "longitude": "36.0333" 
+      "latitude": "6.9167",
+      "longitude": "36.0333"
    },
    {
       "name": "Åland Islands",
@@ -11600,7 +11600,7 @@
    },
    {
       "name": "Northern",
-      "isoCode": "NP",
+      "isoCode": "NR",
       "countryCode": "GH",
       "latitude": "9.50000000",
       "longitude": "-1.00000000"
@@ -22176,6 +22176,13 @@
       "longitude": null
    },
    {
+      "name": "Southern Region",
+      "isoCode": "S",
+      "countryCode": "MW",
+      "latitude": null,
+      "longitude": null
+   },
+   {
       "name": "Aguascalientes",
       "isoCode": "AGU",
       "countryCode": "MX",
@@ -31843,11 +31850,11 @@
       "longitude": "30.5000"
    },
    {
-   "name": "Alaska",
-   "isoCode": "AK",
-   "countryCode": "US",
-   "latitude": "64.0000",
-   "longitude": "-150.0000"
+      "name": "Alaska",
+      "isoCode": "AK",
+      "countryCode": "US",
+      "latitude": "64.0000",
+      "longitude": "-150.0000"
    },
    {
       "name": "Alabama",
