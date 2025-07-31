@@ -18304,831 +18304,306 @@
       "latitude": "49.96622000",
       "longitude": "5.93243060"
    },
-   {
-      "name": "Aglona Municipality",
-      "isoCode": "001",
+    {
+      "name": "Ādaži Municipality",
+      "isoCode": "ADA",
       "countryCode": "LV",
-      "latitude": "56.10890060",
-      "longitude": "27.12862270"
+      "latitude": "57.0980",
+      "longitude": "24.3361"
    },
    {
       "name": "Aizkraukle Municipality",
-      "isoCode": "002",
+      "isoCode": "AIZ",
       "countryCode": "LV",
-      "latitude": "56.64610800",
-      "longitude": "25.23708540"
-   },
-   {
-      "name": "Aizpute Municipality",
-      "isoCode": "003",
-      "countryCode": "LV",
-      "latitude": "56.71825960",
-      "longitude": "21.60727590"
-   },
-   {
-      "name": "Aknīste Municipality",
-      "isoCode": "004",
-      "countryCode": "LV",
-      "latitude": "56.16130370",
-      "longitude": "25.74848270"
-   },
-   {
-      "name": "Aloja Municipality",
-      "isoCode": "005",
-      "countryCode": "LV",
-      "latitude": "57.76713600",
-      "longitude": "24.87708390"
-   },
-   {
-      "name": "Alsunga Municipality",
-      "isoCode": "006",
-      "countryCode": "LV",
-      "latitude": "56.98285310",
-      "longitude": "21.55559190"
+      "latitude": "56.6000",
+      "longitude": "25.1500"
    },
    {
       "name": "Alūksne Municipality",
-      "isoCode": "007",
+      "isoCode": "ALU",
       "countryCode": "LV",
-      "latitude": "57.42544850",
-      "longitude": "27.04249680"
+      "latitude": "57.4500",
+      "longitude": "26.9000"
    },
    {
-      "name": "Amata Municipality",
-      "isoCode": "008",
+      "name": "Augšdaugava Municipality",
+      "isoCode": "AUG",
       "countryCode": "LV",
-      "latitude": "56.99387260",
-      "longitude": "25.26276750"
-   },
-   {
-      "name": "Ape Municipality",
-      "isoCode": "009",
-      "countryCode": "LV",
-      "latitude": "57.53926970",
-      "longitude": "26.69416490"
-   },
-   {
-      "name": "Auce Municipality",
-      "isoCode": "010",
-      "countryCode": "LV",
-      "latitude": "56.46016800",
-      "longitude": "22.90547810"
-   },
-   {
-      "name": "Babīte Municipality",
-      "isoCode": "012",
-      "countryCode": "LV",
-      "latitude": "56.95415500",
-      "longitude": "23.94539900"
-   },
-   {
-      "name": "Baldone Municipality",
-      "isoCode": "013",
-      "countryCode": "LV",
-      "latitude": "56.74246000",
-      "longitude": "24.39115440"
-   },
-   {
-      "name": "Baltinava Municipality",
-      "isoCode": "014",
-      "countryCode": "LV",
-      "latitude": "56.94584680",
-      "longitude": "27.64410660"
+      "latitude": "55.9333",
+      "longitude": "26.5000"
    },
    {
       "name": "Balvi Municipality",
-      "isoCode": "015",
+      "isoCode": "BAL",
       "countryCode": "LV",
-      "latitude": "57.13262400",
-      "longitude": "27.26466850"
+      "latitude": "57.0500",
+      "longitude": "27.4000"
    },
    {
       "name": "Bauska Municipality",
-      "isoCode": "016",
+      "isoCode": "BAU",
       "countryCode": "LV",
-      "latitude": "56.41018680",
-      "longitude": "24.20006890"
-   },
-   {
-      "name": "Beverīna Municipality",
-      "isoCode": "017",
-      "countryCode": "LV",
-      "latitude": "57.51971090",
-      "longitude": "25.60736540"
-   },
-   {
-      "name": "Brocēni Municipality",
-      "isoCode": "018",
-      "countryCode": "LV",
-      "latitude": "56.73475410",
-      "longitude": "22.63573710"
-   },
-   {
-      "name": "Burtnieki Municipality",
-      "isoCode": "019",
-      "countryCode": "LV",
-      "latitude": "57.69490040",
-      "longitude": "25.27647770"
-   },
-   {
-      "name": "Carnikava Municipality",
-      "isoCode": "020",
-      "countryCode": "LV",
-      "latitude": "57.10241210",
-      "longitude": "24.21086620"
-   },
-   {
-      "name": "Cesvaine Municipality",
-      "isoCode": "021",
-      "countryCode": "LV",
-      "latitude": "56.96792640",
-      "longitude": "26.30831720"
+      "latitude": "56.4167",
+      "longitude": "24.2500"
    },
    {
       "name": "Cēsis Municipality",
-      "isoCode": "022",
+      "isoCode": "CES",
       "countryCode": "LV",
-      "latitude": "57.31028970",
-      "longitude": "25.26761250"
-   },
-   {
-      "name": "Cibla Municipality",
-      "isoCode": "023",
-      "countryCode": "LV",
-      "latitude": "56.61023440",
-      "longitude": "27.86965980"
-   },
-   {
-      "name": "Dagda Municipality",
-      "isoCode": "024",
-      "countryCode": "LV",
-      "latitude": "56.09560890",
-      "longitude": "27.53245900"
-   },
-   {
-      "name": "Daugavpils Municipality",
-      "isoCode": "025",
-      "countryCode": "LV",
-      "latitude": "55.89917830",
-      "longitude": "26.61020120"
-   },
-   {
-      "name": "Dobele Municipality",
-      "isoCode": "026",
-      "countryCode": "LV",
-      "latitude": "56.62630500",
-      "longitude": "23.28090660"
-   },
-   {
-      "name": "Dundaga Municipality",
-      "isoCode": "027",
-      "countryCode": "LV",
-      "latitude": "57.50491670",
-      "longitude": "22.35051140"
-   },
-   {
-      "name": "Durbe Municipality",
-      "isoCode": "028",
-      "countryCode": "LV",
-      "latitude": "56.62798570",
-      "longitude": "21.49162450"
-   },
-   {
-      "name": "Engure Municipality",
-      "isoCode": "029",
-      "countryCode": "LV",
-      "latitude": "57.16235000",
-      "longitude": "23.21966340"
-   },
-   {
-      "name": "Ērgļi Municipality",
-      "isoCode": "030",
-      "countryCode": "LV",
-      "latitude": "56.92370650",
-      "longitude": "25.67538520"
-   },
-   {
-      "name": "Garkalne Municipality",
-      "isoCode": "031",
-      "countryCode": "LV",
-      "latitude": "57.01903870",
-      "longitude": "24.38261810"
-   },
-   {
-      "name": "Grobiņa Municipality",
-      "isoCode": "032",
-      "countryCode": "LV",
-      "latitude": "56.53963200",
-      "longitude": "21.16689200"
-   },
-   {
-      "name": "Gulbene Municipality",
-      "isoCode": "033",
-      "countryCode": "LV",
-      "latitude": "57.21556450",
-      "longitude": "26.64529550"
-   },
-   {
-      "name": "Iecava Municipality",
-      "isoCode": "034",
-      "countryCode": "LV",
-      "latitude": "56.59867930",
-      "longitude": "24.19962720"
-   },
-   {
-      "name": "Ikšķile Municipality",
-      "isoCode": "035",
-      "countryCode": "LV",
-      "latitude": "56.83736670",
-      "longitude": "24.49747450"
-   },
-   {
-      "name": "Ilūkste Municipality",
-      "isoCode": "036",
-      "countryCode": "LV",
-      "latitude": "55.97825470",
-      "longitude": "26.29650880"
-   },
-   {
-      "name": "Inčukalns Municipality",
-      "isoCode": "037",
-      "countryCode": "LV",
-      "latitude": "57.09943420",
-      "longitude": "24.68555700"
-   },
-   {
-      "name": "Jaunjelgava Municipality",
-      "isoCode": "038",
-      "countryCode": "LV",
-      "latitude": "56.52836590",
-      "longitude": "25.39214430"
-   },
-   {
-      "name": "Jaunpiebalga Municipality",
-      "isoCode": "039",
-      "countryCode": "LV",
-      "latitude": "57.14334710",
-      "longitude": "25.99518880"
-   },
-   {
-      "name": "Jaunpils Municipality",
-      "isoCode": "040",
-      "countryCode": "LV",
-      "latitude": "56.73141940",
-      "longitude": "23.01256160"
-   },
-   {
-      "name": "Jelgava Municipality",
-      "isoCode": "041",
-      "countryCode": "LV",
-      "latitude": "56.58956890",
-      "longitude": "23.66104810"
-   },
-   {
-      "name": "Jēkabpils Municipality",
-      "isoCode": "042",
-      "countryCode": "LV",
-      "latitude": "56.29193200",
-      "longitude": "25.98120170"
-   },
-   {
-      "name": "Kandava Municipality",
-      "isoCode": "043",
-      "countryCode": "LV",
-      "latitude": "57.03406730",
-      "longitude": "22.78018130"
-   },
-   {
-      "name": "Kārsava Municipality",
-      "isoCode": "044",
-      "countryCode": "LV",
-      "latitude": "56.76458420",
-      "longitude": "27.73582950"
-   },
-   {
-      "name": "Kocēni Municipality",
-      "isoCode": "045",
-      "countryCode": "LV",
-      "latitude": "57.52262920",
-      "longitude": "25.33495070"
-   },
-   {
-      "name": "Koknese Municipality",
-      "isoCode": "046",
-      "countryCode": "LV",
-      "latitude": "56.72055600",
-      "longitude": "25.48939090"
-   },
-   {
-      "name": "Krāslava Municipality",
-      "isoCode": "047",
-      "countryCode": "LV",
-      "latitude": "55.89514640",
-      "longitude": "27.18145770"
-   },
-   {
-      "name": "Krimulda Municipality",
-      "isoCode": "048",
-      "countryCode": "LV",
-      "latitude": "57.17912730",
-      "longitude": "24.71401270"
-   },
-   {
-      "name": "Krustpils Municipality",
-      "isoCode": "049",
-      "countryCode": "LV",
-      "latitude": "56.54155780",
-      "longitude": "26.24463970"
-   },
-   {
-      "name": "Kuldīga Municipality",
-      "isoCode": "050",
-      "countryCode": "LV",
-      "latitude": "56.96872570",
-      "longitude": "21.96137390"
-   },
-   {
-      "name": "Ķegums Municipality",
-      "isoCode": "051",
-      "countryCode": "LV",
-      "latitude": "56.74753570",
-      "longitude": "24.71736450"
-   },
-   {
-      "name": "Ķekava Municipality",
-      "isoCode": "052",
-      "countryCode": "LV",
-      "latitude": "56.80643510",
-      "longitude": "24.19394930"
-   },
-   {
-      "name": "Lielvārde Municipality",
-      "isoCode": "053",
-      "countryCode": "LV",
-      "latitude": "56.73929760",
-      "longitude": "24.97116180"
-   },
-   {
-      "name": "Limbaži Municipality",
-      "isoCode": "054",
-      "countryCode": "LV",
-      "latitude": "57.54032270",
-      "longitude": "24.71344510"
-   },
-   {
-      "name": "Līgatne Municipality",
-      "isoCode": "055",
-      "countryCode": "LV",
-      "latitude": "57.19442040",
-      "longitude": "25.09406810"
-   },
-   {
-      "name": "Līvāni Municipality",
-      "isoCode": "056",
-      "countryCode": "LV",
-      "latitude": "56.35509420",
-      "longitude": "26.17251900"
-   },
-   {
-      "name": "Lubāna Municipality",
-      "isoCode": "057",
-      "countryCode": "LV",
-      "latitude": "56.89992690",
-      "longitude": "26.71987890"
-   },
-   {
-      "name": "Ludza Municipality",
-      "isoCode": "058",
-      "countryCode": "LV",
-      "latitude": "56.54595900",
-      "longitude": "27.71431990"
-   },
-   {
-      "name": "Madona Municipality",
-      "isoCode": "059",
-      "countryCode": "LV",
-      "latitude": "56.85989230",
-      "longitude": "26.22762010"
-   },
-   {
-      "name": "Mazsalaca Municipality",
-      "isoCode": "060",
-      "countryCode": "LV",
-      "latitude": "57.92677490",
-      "longitude": "25.06698950"
-   },
-   {
-      "name": "Mālpils Municipality",
-      "isoCode": "061",
-      "countryCode": "LV",
-      "latitude": "57.00841190",
-      "longitude": "24.95742780"
-   },
-   {
-      "name": "Mārupe Municipality",
-      "isoCode": "062",
-      "countryCode": "LV",
-      "latitude": "56.89657170",
-      "longitude": "24.04600490"
-   },
-   {
-      "name": "Mērsrags Municipality",
-      "isoCode": "063",
-      "countryCode": "LV",
-      "latitude": "57.33068810",
-      "longitude": "23.10237070"
-   },
-   {
-      "name": "Naukšēni Municipality",
-      "isoCode": "064",
-      "countryCode": "LV",
-      "latitude": "57.92953610",
-      "longitude": "25.51192660"
-   },
-   {
-      "name": "Nereta Municipality",
-      "isoCode": "065",
-      "countryCode": "LV",
-      "latitude": "56.19866550",
-      "longitude": "25.32529690"
-   },
-   {
-      "name": "Nīca Municipality",
-      "isoCode": "066",
-      "countryCode": "LV",
-      "latitude": "56.34649830",
-      "longitude": "21.06549300"
-   },
-   {
-      "name": "Ogre Municipality",
-      "isoCode": "067",
-      "countryCode": "LV",
-      "latitude": "56.81473550",
-      "longitude": "24.60445550"
-   },
-   {
-      "name": "Olaine Municipality",
-      "isoCode": "068",
-      "countryCode": "LV",
-      "latitude": "56.79523530",
-      "longitude": "24.01535890"
-   },
-   {
-      "name": "Ozolnieki Municipality",
-      "isoCode": "069",
-      "countryCode": "LV",
-      "latitude": "56.67563050",
-      "longitude": "23.89948160"
-   },
-   {
-      "name": "Pārgauja Municipality",
-      "isoCode": "070",
-      "countryCode": "LV",
-      "latitude": "57.36481220",
-      "longitude": "24.98220450"
-   },
-   {
-      "name": "Pāvilosta Municipality",
-      "isoCode": "071",
-      "countryCode": "LV",
-      "latitude": "56.88654240",
-      "longitude": "21.19468490"
-   },
-   {
-      "name": "Pļaviņas Municipality",
-      "isoCode": "072",
-      "countryCode": "LV",
-      "latitude": "56.61773130",
-      "longitude": "25.71940430"
-   },
-   {
-      "name": "Preiļi Municipality",
-      "isoCode": "073",
-      "countryCode": "LV",
-      "latitude": "56.15111570",
-      "longitude": "26.74397670"
-   },
-   {
-      "name": "Priekule Municipality",
-      "isoCode": "074",
-      "countryCode": "LV",
-      "latitude": "56.41794130",
-      "longitude": "21.55033360"
-   },
-   {
-      "name": "Priekuļi Municipality",
-      "isoCode": "075",
-      "countryCode": "LV",
-      "latitude": "57.36171380",
-      "longitude": "25.44104230"
-   },
-   {
-      "name": "Rauna Municipality",
-      "isoCode": "076",
-      "countryCode": "LV",
-      "latitude": "57.33169300",
-      "longitude": "25.61003390"
-   },
-   {
-      "name": "Rēzekne Municipality",
-      "isoCode": "077",
-      "countryCode": "LV",
-      "latitude": "56.32736380",
-      "longitude": "27.32843310"
-   },
-   {
-      "name": "Riebiņi Municipality",
-      "isoCode": "078",
-      "countryCode": "LV",
-      "latitude": "56.34361900",
-      "longitude": "26.80181380"
-   },
-   {
-      "name": "Roja Municipality",
-      "isoCode": "079",
-      "countryCode": "LV",
-      "latitude": "57.50467130",
-      "longitude": "22.80121640"
-   },
-   {
-      "name": "Ropaži Municipality",
-      "isoCode": "080",
-      "countryCode": "LV",
-      "latitude": "56.96157860",
-      "longitude": "24.60104760"
-   },
-   {
-      "name": "Rucava Municipality",
-      "isoCode": "081",
-      "countryCode": "LV",
-      "latitude": "56.15931240",
-      "longitude": "21.16181210"
-   },
-   {
-      "name": "Rugāji Municipality",
-      "isoCode": "082",
-      "countryCode": "LV",
-      "latitude": "57.00560230",
-      "longitude": "27.13172030"
-   },
-   {
-      "name": "Rundāle Municipality",
-      "isoCode": "083",
-      "countryCode": "LV",
-      "latitude": "56.40972100",
-      "longitude": "24.01241390"
-   },
-   {
-      "name": "Rūjiena Municipality",
-      "isoCode": "084",
-      "countryCode": "LV",
-      "latitude": "57.89372910",
-      "longitude": "25.33910080"
-   },
-   {
-      "name": "Sala Municipality",
-      "isoCode": "085",
-      "countryCode": "LV",
-      "latitude": "59.96796130",
-      "longitude": "16.49782170"
-   },
-   {
-      "name": "Salacgrīva Municipality",
-      "isoCode": "086",
-      "countryCode": "LV",
-      "latitude": "57.75808830",
-      "longitude": "24.35431810"
-   },
-   {
-      "name": "Salaspils Municipality",
-      "isoCode": "087",
-      "countryCode": "LV",
-      "latitude": "56.86081520",
-      "longitude": "24.34978810"
-   },
-   {
-      "name": "Saldus Municipality",
-      "isoCode": "088",
-      "countryCode": "LV",
-      "latitude": "56.66650880",
-      "longitude": "22.49354930"
-   },
-   {
-      "name": "Saulkrasti Municipality",
-      "isoCode": "089",
-      "countryCode": "LV",
-      "latitude": "57.25794180",
-      "longitude": "24.41831460"
-   },
-   {
-      "name": "Sēja Municipality",
-      "isoCode": "090",
-      "countryCode": "LV",
-      "latitude": "57.20069950",
-      "longitude": "24.59228210"
-   },
-   {
-      "name": "Sigulda Municipality",
-      "isoCode": "091",
-      "countryCode": "LV",
-      "latitude": "57.10550920",
-      "longitude": "24.83142590"
-   },
-   {
-      "name": "Skrīveri Municipality",
-      "isoCode": "092",
-      "countryCode": "LV",
-      "latitude": "56.67613910",
-      "longitude": "25.09788490"
-   },
-   {
-      "name": "Skrunda Municipality",
-      "isoCode": "093",
-      "countryCode": "LV",
-      "latitude": "56.66434580",
-      "longitude": "22.00457290"
-   },
-   {
-      "name": "Smiltene Municipality",
-      "isoCode": "094",
-      "countryCode": "LV",
-      "latitude": "57.42303320",
-      "longitude": "25.90027800"
-   },
-   {
-      "name": "Stopiņi Municipality",
-      "isoCode": "095",
-      "countryCode": "LV",
-      "latitude": "56.93644900",
-      "longitude": "24.28729490"
-   },
-   {
-      "name": "Strenči Municipality",
-      "isoCode": "096",
-      "countryCode": "LV",
-      "latitude": "57.62254710",
-      "longitude": "25.80480860"
-   },
-   {
-      "name": "Talsi Municipality",
-      "isoCode": "097",
-      "countryCode": "LV",
-      "latitude": "57.34152080",
-      "longitude": "22.57131250"
-   },
-   {
-      "name": "Tērvete Municipality",
-      "isoCode": "098",
-      "countryCode": "LV",
-      "latitude": "56.41192010",
-      "longitude": "23.31883320"
-   },
-   {
-      "name": "Tukums Municipality",
-      "isoCode": "099",
-      "countryCode": "LV",
-      "latitude": "56.96728680",
-      "longitude": "23.15243790"
-   },
-   {
-      "name": "Vaiņode Municipality",
-      "isoCode": "100",
-      "countryCode": "LV",
-      "latitude": "56.41542710",
-      "longitude": "21.85139840"
-   },
-   {
-      "name": "Valka Municipality",
-      "isoCode": "101",
-      "countryCode": "LV",
-      "latitude": "57.77439000",
-      "longitude": "26.01700500"
-   },
-   {
-      "name": "Varakļāni Municipality",
-      "isoCode": "102",
-      "countryCode": "LV",
-      "latitude": "56.66880060",
-      "longitude": "26.56364140"
-   },
-   {
-      "name": "Vārkava Municipality",
-      "isoCode": "103",
-      "countryCode": "LV",
-      "latitude": "56.24657440",
-      "longitude": "26.56643710"
-   },
-   {
-      "name": "Vecpiebalga Municipality",
-      "isoCode": "104",
-      "countryCode": "LV",
-      "latitude": "57.06033560",
-      "longitude": "25.81615920"
-   },
-   {
-      "name": "Vecumnieki Municipality",
-      "isoCode": "105",
-      "countryCode": "LV",
-      "latitude": "56.60623370",
-      "longitude": "24.52218910"
-   },
-   {
-      "name": "Ventspils Municipality",
-      "isoCode": "106",
-      "countryCode": "LV",
-      "latitude": "57.28336820",
-      "longitude": "21.85875580"
-   },
-   {
-      "name": "Viesīte Municipality",
-      "isoCode": "107",
-      "countryCode": "LV",
-      "latitude": "56.31130850",
-      "longitude": "25.50704640"
-   },
-   {
-      "name": "Viļaka Municipality",
-      "isoCode": "108",
-      "countryCode": "LV",
-      "latitude": "57.17222630",
-      "longitude": "27.66731880"
-   },
-   {
-      "name": "Viļāni Municipality",
-      "isoCode": "109",
-      "countryCode": "LV",
-      "latitude": "56.54561710",
-      "longitude": "26.91679270"
-   },
-   {
-      "name": "Zilupe Municipality",
-      "isoCode": "110",
-      "countryCode": "LV",
-      "latitude": "56.30189850",
-      "longitude": "28.13395900"
+      "latitude": "57.2500",
+      "longitude": "25.3333"
    },
    {
       "name": "Daugavpils",
       "isoCode": "DGV",
       "countryCode": "LV",
-      "latitude": "55.87473600",
-      "longitude": "26.53617900"
+      "latitude": "55.8747",
+      "longitude": "26.5361"
+   },
+   {
+      "name": "Dienvidkurzeme Municipality",
+      "isoCode": "DKZ",
+      "countryCode": "LV",
+      "latitude": "56.4500",
+      "longitude": "21.5000"
+   },
+   {
+      "name": "Dobele Municipality",
+      "isoCode": "DOB",
+      "countryCode": "LV",
+      "latitude": "56.6000",
+      "longitude": "23.2000"
+   },
+   {
+      "name": "Gulbene Municipality",
+      "isoCode": "GUL",
+      "countryCode": "LV",
+      "latitude": "57.1833",
+      "longitude": "26.7500"
    },
    {
       "name": "Jelgava",
       "isoCode": "JEL",
       "countryCode": "LV",
-      "latitude": "56.65110910",
-      "longitude": "23.72135410"
+      "latitude": "56.6511",
+      "longitude": "23.7214"
    },
    {
-      "name": "Jēkabpils",
-      "isoCode": "JKB",
+      "name": "Jelgava Municipality",
+      "isoCode": "JEM",
       "countryCode": "LV",
-      "latitude": "56.50145500",
-      "longitude": "25.87829900"
+      "latitude": "56.6500",
+      "longitude": "23.6000"
+   },
+   {
+      "name": "Jēkabpils Municipality",
+      "isoCode": "JEK",
+      "countryCode": "LV",
+      "latitude": "56.3333",
+      "longitude": "25.8333"
    },
    {
       "name": "Jūrmala",
       "isoCode": "JUR",
       "countryCode": "LV",
-      "latitude": "56.94707900",
-      "longitude": "23.61684850"
+      "latitude": "56.9471",
+      "longitude": "23.6168"
+   },
+   {
+      "name": "Krāslava Municipality",
+      "isoCode": "KRA",
+      "countryCode": "LV",
+      "latitude": "56.0000",
+      "longitude": "27.3333"
+   },
+   {
+      "name": "Kuldīga Municipality",
+      "isoCode": "KUL",
+      "countryCode": "LV",
+      "latitude": "56.9167",
+      "longitude": "21.9167"
+   },
+   {
+      "name": "Ķekava Municipality",
+      "isoCode": "KEK",
+      "countryCode": "LV",
+      "latitude": "56.7833",
+      "longitude": "24.2500"
    },
    {
       "name": "Liepāja",
       "isoCode": "LPX",
       "countryCode": "LV",
-      "latitude": "56.50466780",
-      "longitude": "21.01080600"
+      "latitude": "56.5047",
+      "longitude": "21.0108"
+   },
+   {
+      "name": "Limbaži Municipality",
+      "isoCode": "LIM",
+      "countryCode": "LV",
+      "latitude": "57.6667",
+      "longitude": "24.7500"
+   },
+   {
+      "name": "Līvāni Municipality",
+      "isoCode": "LIV",
+      "countryCode": "LV",
+      "latitude": "56.3667",
+      "longitude": "26.3333"
+   },
+   {
+      "name": "Ludza Municipality",
+      "isoCode": "LUD",
+      "countryCode": "LV",
+      "latitude": "56.5000",
+      "longitude": "27.8333"
+   },
+   {
+      "name": "Madona Municipality",
+      "isoCode": "MAD",
+      "countryCode": "LV",
+      "latitude": "56.8333",
+      "longitude": "26.1667"
+   },
+   {
+      "name": "Mārupe Municipality",
+      "isoCode": "MAR",
+      "countryCode": "LV",
+      "latitude": "56.9000",
+      "longitude": "23.9667"
+   },
+   {
+      "name": "Ogre Municipality",
+      "isoCode": "OGR",
+      "countryCode": "LV",
+      "latitude": "56.8000",
+      "longitude": "24.8333"
+   },
+   {
+      "name": "Olaine Municipality",
+      "isoCode": "OLA",
+      "countryCode": "LV",
+      "latitude": "56.7500",
+      "longitude": "23.9167"
+   },
+   {
+      "name": "Preiļi Municipality",
+      "isoCode": "PRE",
+      "countryCode": "LV",
+      "latitude": "56.3000",
+      "longitude": "26.7500"
    },
    {
       "name": "Rēzekne",
       "isoCode": "REZ",
       "countryCode": "LV",
-      "latitude": "56.50992230",
-      "longitude": "27.33313570"
+      "latitude": "56.5099",
+      "longitude": "27.3331"
    },
    {
-      "name": "Riga",
+      "name": "Rēzekne Municipality",
+      "isoCode": "REM",
+      "countryCode": "LV",
+      "latitude": "56.5833",
+      "longitude": "27.4167"
+   },
+   {
+      "name": "Rīga",
       "isoCode": "RIX",
       "countryCode": "LV",
-      "latitude": "56.94964870",
-      "longitude": "24.10518650"
+      "latitude": "56.9496",
+      "longitude": "24.1052"
+   },
+   {
+      "name": "Ropaži Municipality",
+      "isoCode": "ROP",
+      "countryCode": "LV",
+      "latitude": "56.9667",
+      "longitude": "24.6333"
+   },
+   {
+      "name": "Salaspils Municipality",
+      "isoCode": "SAL",
+      "countryCode": "LV",
+      "latitude": "56.8500",
+      "longitude": "24.3500"
+   },
+   {
+      "name": "Saldus Municipality",
+      "isoCode": "SLD",
+      "countryCode": "LV",
+      "latitude": "56.6667",
+      "longitude": "22.5000"
+   },
+   {
+      "name": "Saulkrasti Municipality",
+      "isoCode": "SAU",
+      "countryCode": "LV",
+      "latitude": "57.2667",
+      "longitude": "24.4167"
+   },
+   {
+      "name": "Sigulda Municipality",
+      "isoCode": "SIG",
+      "countryCode": "LV",
+      "latitude": "57.1500",
+      "longitude": "24.8500"
+   },
+   {
+      "name": "Smiltene Municipality",
+      "isoCode": "SMI",
+      "countryCode": "LV",
+      "latitude": "57.4167",
+      "longitude": "25.9167"
+   },
+   {
+      "name": "Talsi Municipality",
+      "isoCode": "TAL",
+      "countryCode": "LV",
+      "latitude": "57.2500",
+      "longitude": "22.5833"
+   },
+   {
+      "name": "Tukums Municipality",
+      "isoCode": "TUK",
+      "countryCode": "LV",
+      "latitude": "56.9667",
+      "longitude": "23.1500"
+   },
+   {
+      "name": "Valka Municipality",
+      "isoCode": "VAL",
+      "countryCode": "LV",
+      "latitude": "57.7500",
+      "longitude": "25.9167"
+   },
+   {
+      "name": "Valmiera Municipality",
+      "isoCode": "VAM",
+      "countryCode": "LV",
+      "latitude": "57.5833",
+      "longitude": "25.4167"
+   },
+   {
+      "name": "Varakļāni Municipality",
+      "isoCode": "VAR",
+      "countryCode": "LV",
+      "latitude": "56.6167",
+      "longitude": "26.7500"
    },
    {
       "name": "Ventspils",
       "isoCode": "VEN",
       "countryCode": "LV",
-      "latitude": "57.39372160",
-      "longitude": "21.56470660"
+      "latitude": "57.3937",
+      "longitude": "21.5647"
    },
    {
-      "name": "Valmiera",
-      "isoCode": "VMR",
+      "name": "Ventspils Municipality",
+      "isoCode": "VEM",
       "countryCode": "LV",
-      "latitude": "57.53846590",
-      "longitude": "25.42636180"
+      "latitude": "57.3333",
+      "longitude": "21.8333"
    },
    {
       "name": "Benghazi",
