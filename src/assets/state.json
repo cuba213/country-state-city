@@ -7916,7 +7916,7 @@
       "latitude": "57.73773720",
       "longitude": "27.13989380"
    },
-   {
+  {
       "name": "Alexandria",
       "isoCode": "ALX",
       "countryCode": "EG",
@@ -7925,7 +7925,7 @@
    },
    {
       "name": "Aswan",
-      "isoCode": "ASN",
+      "isoCode": "ASW",
       "countryCode": "EG",
       "latitude": "24.088938",
       "longitude": "32.899830"
@@ -8016,7 +8016,7 @@
    },
    {
       "name": "Qalyubia",
-      "isoCode": "KB",
+      "isoCode": "QLY",
       "countryCode": "EG",
       "latitude": "30.32923680",
       "longitude": "31.21684660"
@@ -8030,7 +8030,7 @@
    },
    {
       "name": "Qena",
-      "isoCode": "KN",
+      "isoCode": "QNA",
       "countryCode": "EG",
       "latitude": "26.23460330",
       "longitude": "32.98883190"
@@ -8051,7 +8051,7 @@
    },
    {
       "name": "Monufia",
-      "isoCode": "MNF",
+      "isoCode": "MF",
       "countryCode": "EG",
       "latitude": "30.59724550",
       "longitude": "30.98763210"
@@ -8072,35 +8072,35 @@
    },
    {
       "name": "Sohag",
-      "isoCode": "SHG",
+      "isoCode": "SG",
       "countryCode": "EG",
       "latitude": "26.69383400",
       "longitude": "32.17460500"
    },
    {
       "name": "Sharqia",
-      "isoCode": "SHR",
+      "isoCode": "SH",
       "countryCode": "EG",
       "latitude": "30.67305450",
       "longitude": "31.15932470"
    },
    {
       "name": "North Sinai",
-      "isoCode": "SIN",
+      "isoCode": "SNS",
       "countryCode": "EG",
       "latitude": "30.28236500",
       "longitude": "33.61757700"
    },
    {
       "name": "Suez",
-      "isoCode": "SUZ",
+      "isoCode": "SZ",
       "countryCode": "EG",
       "latitude": "29.36822550",
       "longitude": "32.17460500"
    },
    {
       "name": "New Valley",
-      "isoCode": "WAD",
+      "isoCode": "WJD",
       "countryCode": "EG",
       "latitude": "24.54556380",
       "longitude": "27.17353160"
