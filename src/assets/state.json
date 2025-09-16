@@ -26040,7 +26040,7 @@
       "longitude": "116.96765610"
    },
    {
-      "name": "Kigali district",
+      "name": "Kigali",
       "isoCode": "01",
       "countryCode": "RW",
       "latitude": "-1.94407270",
@@ -26059,13 +26059,6 @@
       "countryCode": "RW",
       "latitude": "-1.5000",
       "longitude": "29.8333"
-   },
-   {
-      "name": "Western Province",
-      "isoCode": "04",
-      "countryCode": "RW",
-      "latitude": "-1.8500",
-      "longitude": "29.2500"
    },
    {
       "name": "Southern Province",
