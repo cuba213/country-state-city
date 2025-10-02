@@ -9730,7 +9730,7 @@
       "longitude": "-87.86149720"
    },
    {
-      "name": "Armagh City and District Council",
+      "name": "Armagh",
       "isoCode": "ARM",
       "countryCode": "GB",
       "latitude": "54.39325920",
@@ -9758,28 +9758,28 @@
       "longitude": "-97.14306710"
    },
    {
-      "name": "London Borough of Barking and Dagenham",
+      "name": "Barking and Dagenham",
       "isoCode": "BDG",
       "countryCode": "GB",
       "latitude": "51.55406660",
       "longitude": "0.13401700"
    },
    {
-      "name": "London Borough of Brent",
+      "name": "Brent",
       "isoCode": "BEN",
       "countryCode": "GB",
       "latitude": "51.56728080",
       "longitude": "-0.27105680"
    },
    {
-      "name": "London Borough of Bexley",
+      "name": "Bexley",
       "isoCode": "BEX",
       "countryCode": "GB",
       "latitude": "51.45190210",
       "longitude": "0.11717860"
    },
    {
-      "name": "Belfast district",
+      "name": "Belfast",
       "isoCode": "BFS",
       "countryCode": "GB",
       "latitude": "54.61703660",
@@ -9919,7 +9919,7 @@
       "longitude": "0.12181950"
    },
    {
-      "name": "Caerphilly County Borough",
+      "name": "Caerphilly",
       "isoCode": "CAY",
       "countryCode": "GB",
       "latitude": "51.66044650",
@@ -10010,7 +10010,7 @@
       "longitude": "-2.79748350"
    },
    {
-      "name": "London Borough of Camden",
+      "name": "Camden",
       "isoCode": "CMD",
       "countryCode": "GB",
       "latitude": "51.54547360",
@@ -10059,7 +10059,7 @@
       "longitude": "-5.88840280"
    },
    {
-      "name": "Conwy County Borough",
+      "name": "Conwy",
       "isoCode": "CWY",
       "countryCode": "GB",
       "latitude": "53.29350130",
@@ -10339,7 +10339,7 @@
       "longitude": "-1.30806290"
    },
    {
-      "name": "London Borough of Havering",
+      "name": "Havering",
       "isoCode": "HAV",
       "countryCode": "GB",
       "latitude": "51.57792400",
@@ -10409,7 +10409,7 @@
       "longitude": "-0.34228510"
    },
    {
-      "name": "London Borough of Haringey",
+      "name": "Haringey",
       "isoCode": "HRY",
       "countryCode": "GB",
       "latitude": "51.59061130",
@@ -10430,7 +10430,7 @@
       "longitude": "-1.30473400"
    },
    {
-      "name": "London Borough of Islington",
+      "name": "Islington",
       "isoCode": "ISL",
       "countryCode": "GB",
       "latitude": "51.54650630",
@@ -10507,7 +10507,7 @@
       "longitude": "-0.12306810"
    },
    {
-      "name": "City of Leicester",
+      "name": "Leicester",
       "isoCode": "LCE",
       "countryCode": "GB",
       "latitude": "52.63687780",
@@ -10605,7 +10605,7 @@
       "longitude": "-6.11374230"
    },
    {
-      "name": "Magherafelt District Council",
+      "name": "Magherafelt",
       "isoCode": "MFT",
       "countryCode": "GB",
       "latitude": "54.75532790",
@@ -10647,7 +10647,7 @@
       "longitude": "-3.31680390"
    },
    {
-      "name": "Merthyr Tydfil County Borough",
+      "name": "Merthyr Tydfil",
       "isoCode": "MTY",
       "countryCode": "GB",
       "latitude": "51.74674740",
@@ -10661,7 +10661,7 @@
       "longitude": "-6.75225490"
    },
    {
-      "name": "Moyle District Council",
+      "name": "Moyle",
       "isoCode": "MYL",
       "countryCode": "GB",
       "latitude": "55.20473270",
@@ -10752,7 +10752,7 @@
       "longitude": "-2.77810910"
    },
    {
-      "name": "Newtownabbey Borough Council",
+      "name": "Newtownabbey",
       "isoCode": "NTA",
       "countryCode": "GB",
       "latitude": "54.67924220",
@@ -10766,7 +10766,7 @@
       "longitude": "-0.87555150"
    },
    {
-      "name": "Neath Port Talbot County Borough",
+      "name": "Neath Port Talbot",
       "isoCode": "NTL",
       "countryCode": "GB",
       "latitude": "51.59785190",
@@ -10822,7 +10822,7 @@
       "longitude": "-71.20481190"
    },
    {
-      "name": "Omagh District Council",
+      "name": "Omagh",
       "isoCode": "OMH",
       "countryCode": "GB",
       "latitude": "54.45135240",
@@ -10871,7 +10871,7 @@
       "longitude": "-1.98724800"
    },
    {
-      "name": "City of Portsmouth",
+      "name": "Portsmouth",
       "isoCode": "POR",
       "countryCode": "GB",
       "latitude": "36.83291500",
@@ -10885,7 +10885,7 @@
       "longitude": "-3.32609040"
    },
    {
-      "name": "City of Peterborough",
+      "name": "Peterborough",
       "isoCode": "PTE",
       "countryCode": "GB",
       "latitude": "44.30936360",
@@ -11123,14 +11123,14 @@
       "longitude": "-3.93690290"
    },
    {
-      "name": "City of Southampton",
+      "name": "Southampton",
       "isoCode": "STH",
       "countryCode": "GB",
       "latitude": "50.90970040",
       "longitude": "-1.40435090"
    },
    {
-      "name": "London Borough of Sutton",
+      "name": "Sutton",
       "isoCode": "STN",
       "countryCode": "GB",
       "latitude": "51.35737620",
@@ -11263,14 +11263,14 @@
       "longitude": "-4.56462590"
    },
    {
-      "name": "London Borough of Waltham Forest",
+      "name": "Waltham Forest",
       "isoCode": "WFT",
       "countryCode": "GB",
       "latitude": "51.58863830",
       "longitude": "-0.01176250"
    },
    {
-      "name": "Metropolitan Borough of Wigan",
+      "name": "Wigan",
       "isoCode": "WGN",
       "countryCode": "GB",
       "latitude": "53.51348120",
