@@ -7916,7 +7916,7 @@
       "latitude": "57.73773720",
       "longitude": "27.13989380"
    },
-  {
+   {
       "name": "Alexandria",
       "isoCode": "ALX",
       "countryCode": "EG",
@@ -18304,7 +18304,7 @@
       "latitude": "49.96622000",
       "longitude": "5.93243060"
    },
-    {
+   {
       "name": "Ādaži Municipality",
       "isoCode": "ADA",
       "countryCode": "LV",
@@ -33073,5 +33073,348 @@
       "countryCode": "ZW",
       "latitude": "-17.48510290",
       "longitude": "29.78892480"
+   },
+   {
+      "name": "A Coruña",
+      "isoCode": "C",
+      "countryCode": "ES",
+      "latitude": "43.37097030",
+      "longitude": "-8.39594250"
+   },
+   {
+      "name": "Albacete",
+      "isoCode": "AB",
+      "countryCode": "ES",
+      "latitude": "38.99509210",
+      "longitude": "-1.85591540"
+   },
+   {
+      "name": "Alicante",
+      "isoCode": "A",
+      "countryCode": "ES",
+      "latitude": "38.34363650",
+      "longitude": "-0.48817080"
+   },
+   {
+      "name": "Almeria",
+      "isoCode": "AL",
+      "countryCode": "ES",
+      "latitude": "36.84141970",
+      "longitude": "-2.46281350"
+   },
+   {
+      "name": "Araba",
+      "isoCode": "VI",
+      "countryCode": "ES",
+      "latitude": "42.84407220",
+      "longitude": "-2.68208290"
+   },
+   {
+      "name": "Badajoz",
+      "isoCode": "BA",
+      "countryCode": "ES",
+      "latitude": "38.87818700",
+      "longitude": "-6.97011150"
+   },
+   {
+      "name": "Barcelona",
+      "isoCode": "B",
+      "countryCode": "ES",
+      "latitude": "41.38258020",
+      "longitude": "2.17707300"
+   },
+   {
+      "name": "Bizkaia",
+      "isoCode": "BI",
+      "countryCode": "ES",
+      "latitude": "43.23848200",
+      "longitude": "-2.85163160"
+   },
+   {
+      "name": "Burgos",
+      "isoCode": "BU",
+      "countryCode": "ES",
+      "latitude": "42.32471420",
+      "longitude": "-3.67653890"
+   },
+   {
+      "name": "Caceres",
+      "isoCode": "CC",
+      "countryCode": "ES",
+      "latitude": "39.47451750",
+      "longitude": "-6.37167610"
+   },
+   {
+      "name": "Cádiz",
+      "isoCode": "CA",
+      "countryCode": "ES",
+      "latitude": "36.52974380",
+      "longitude": "-6.29289760"
+   },
+   {
+      "name": "Castellón",
+      "isoCode": "CS",
+      "countryCode": "ES",
+      "latitude": "40.25185680",
+      "longitude": "-0.06150520"
+   },
+   {
+      "name": "Castile and Leon",
+      "isoCode": "CL",
+      "countryCode": "ES",
+      "latitude": "41.55005000",
+      "longitude": "-5.13874010"
+   },
+   {
+      "name": "Castilla-La Mancha",
+      "isoCode": "CM",
+      "countryCode": "ES",
+      "latitude": "39.41779020",
+      "longitude": "-2.62323320"
+   },
+   {
+      "name": "Ciudad Real",
+      "isoCode": "CR",
+      "countryCode": "ES",
+      "latitude": "38.98542010",
+      "longitude": "-3.92851380"
+   },
+   {
+      "name": "Community of Madrid",
+      "isoCode": "MD",
+      "countryCode": "ES",
+      "latitude": "40.52483190",
+      "longitude": "-3.77156280"
+   },
+   {
+      "name": "Córdoba",
+      "isoCode": "CO",
+      "countryCode": "ES",
+      "latitude": "37.95671160",
+      "longitude": "-4.84772410"
+   },
+   {
+      "name": "Cuenca",
+      "isoCode": "CU",
+      "countryCode": "ES",
+      "latitude": "40.06610310",
+      "longitude": "-2.13135280"
+   },
+   {
+      "name": "Estremadura",
+      "isoCode": "EX",
+      "countryCode": "ES",
+      "latitude": "39.17484260",
+      "longitude": "-6.15298910"
+   },
+   {
+      "name": "Gipuzkoa",
+      "isoCode": "SS",
+      "countryCode": "ES",
+      "latitude": "43.14452780",
+      "longitude": "-2.20379550"
+   },
+   {
+      "name": "Girona",
+      "isoCode": "GI",
+      "countryCode": "ES",
+      "latitude": "41.97930060",
+      "longitude": "2.81994390"
+   },
+   {
+      "name": "Granada",
+      "isoCode": "GR",
+      "countryCode": "ES",
+      "latitude": "37.17349950",
+      "longitude": "-3.59953370"
+   },
+   {
+      "name": "Guadalajara",
+      "isoCode": "GU",
+      "countryCode": "ES",
+      "latitude": "40.63269790",
+      "longitude": "-3.16460670"
+   },
+   {
+      "name": "Huelva",
+      "isoCode": "H",
+      "countryCode": "ES",
+      "latitude": "37.25758740",
+      "longitude": "-6.94849450"
+   },
+   {
+      "name": "Huesca",
+      "isoCode": "HU",
+      "countryCode": "ES",
+      "latitude": "42.13637860",
+      "longitude": "-0.43658370"
+   },
+   {
+      "name": "Islas Baleares",
+      "isoCode": "PM",
+      "countryCode": "ES",
+      "latitude": "39.61343200",
+      "longitude": "2.88291850"
+   },
+   {
+      "name": "Jaén",
+      "isoCode": "J",
+      "countryCode": "ES",
+      "latitude": "37.77288580",
+      "longitude": "-3.78832890"
+   },
+   {
+      "name": "Las Palmas",
+      "isoCode": "GC",
+      "countryCode": "ES",
+      "latitude": "27.95800040",
+      "longitude": "-15.60623050"
+   },
+   {
+      "name": "León",
+      "isoCode": "LE",
+      "countryCode": "ES",
+      "latitude": "42.59870410",
+      "longitude": "-5.56708390"
+   },
+   {
+      "name": "Lleida",
+      "isoCode": "L",
+      "countryCode": "ES",
+      "latitude": "41.61476050",
+      "longitude": "0.62678420"
+   },
+   {
+      "name": "Lugo",
+      "isoCode": "LU",
+      "countryCode": "ES",
+      "latitude": "43.01184370",
+      "longitude": "-7.55657490"
+   },
+   {
+      "name": "Málaga",
+      "isoCode": "MA",
+      "countryCode": "ES",
+      "latitude": "36.72130280",
+      "longitude": "-4.42163660"
+   },
+   {
+      "name": "Navarre",
+      "isoCode": "NC",
+      "countryCode": "ES",
+      "latitude": "42.61254880",
+      "longitude": "-1.83078770"
+   },
+   {
+      "name": "Ourense",
+      "isoCode": "OR",
+      "countryCode": "ES",
+      "latitude": "42.34389320",
+      "longitude": "-7.85717920"
+   },
+   {
+      "name": "Palencia",
+      "isoCode": "P",
+      "countryCode": "ES",
+      "latitude": "42.00968320",
+      "longitude": "-4.52879490"
+   },
+   {
+      "name": "Pontevedra",
+      "isoCode": "PO",
+      "countryCode": "ES",
+      "latitude": "42.43188760",
+      "longitude": "-8.64315920"
+   },
+   {
+      "name": "Region of Murcia",
+      "isoCode": "MC",
+      "countryCode": "ES",
+      "latitude": "38.06401230",
+      "longitude": "-1.67193770"
+   },
+   {
+      "name": "Salamanca",
+      "isoCode": "SA",
+      "countryCode": "ES",
+      "latitude": "40.76655820",
+      "longitude": "-6.02176500"
+   },
+   {
+      "name": "Santa Cruz de Tenerife",
+      "isoCode": "TF",
+      "countryCode": "ES",
+      "latitude": "28.46717800",
+      "longitude": "-16.25078430"
+   },
+   {
+      "name": "Segovia",
+      "isoCode": "SG",
+      "countryCode": "ES",
+      "latitude": "40.94292960",
+      "longitude": "-4.10889420"
+   },
+   {
+      "name": "Sevilla",
+      "isoCode": "SE",
+      "countryCode": "ES",
+      "latitude": "37.38863030",
+      "longitude": "-5.99534030"
+   },
+   {
+      "name": "Soria",
+      "isoCode": "SO",
+      "countryCode": "ES",
+      "latitude": "41.76338420",
+      "longitude": "-2.46420410"
+   },
+   {
+      "name": "Tarragona",
+      "isoCode": "T",
+      "countryCode": "ES",
+      "latitude": "41.11723640",
+      "longitude": "1.25460570"
+   },
+   {
+      "name": "Teruel",
+      "isoCode": "TE",
+      "countryCode": "ES",
+      "latitude": "40.34504100",
+      "longitude": "-1.11847440"
+   },
+   {
+      "name": "Toledo",
+      "isoCode": "TO",
+      "countryCode": "ES",
+      "latitude": "39.85606790",
+      "longitude": "-4.02395680"
+   },
+   {
+      "name": "Valencian Community",
+      "isoCode": "VC",
+      "countryCode": "ES",
+      "latitude": "39.68195910",
+      "longitude": "-0.76544060"
+   },
+   {
+      "name": "Valladolid",
+      "isoCode": "VA",
+      "countryCode": "ES",
+      "latitude": "41.65173750",
+      "longitude": "-4.72449500"
+   },
+   {
+      "name": "Zamora",
+      "isoCode": "ZA",
+      "countryCode": "ES",
+      "latitude": "41.68576930",
+      "longitude": "-5.94231500"
+   },
+   {
+      "name": "Zaragoza",
+      "isoCode": "Z",
+      "countryCode": "ES",
+      "latitude": "41.65213420",
+      "longitude": "-0.88094280"
    }
 ]
