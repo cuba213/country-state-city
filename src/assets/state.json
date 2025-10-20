@@ -7916,7 +7916,7 @@
       "latitude": "57.73773720",
       "longitude": "27.13989380"
    },
-  {
+   {
       "name": "Alexandria",
       "isoCode": "ALX",
       "countryCode": "EG",
@@ -18304,7 +18304,7 @@
       "latitude": "49.96622000",
       "longitude": "5.93243060"
    },
-    {
+   {
       "name": "Ādaži Municipality",
       "isoCode": "ADA",
       "countryCode": "LV",
@@ -33073,5 +33073,89 @@
       "countryCode": "ZW",
       "latitude": "-17.48510290",
       "longitude": "29.78892480"
+   },
+   {
+      "name": "Achaea",
+      "isoCode": "13",
+      "countryCode": "GR",
+      "latitude": "38.06927480",
+      "longitude": "21.87273040"
+   },
+   {
+      "name": "Attica",
+      "isoCode": "I",
+      "countryCode": "GR",
+      "latitude": "37.75618030",
+      "longitude": "23.66690060"
+   },
+   {
+      "name": "Central Greece",
+      "isoCode": "H",
+      "countryCode": "GR",
+      "latitude": "38.56245950",
+      "longitude": "23.16185280"
+   },
+   {
+      "name": "Crete",
+      "isoCode": "M",
+      "countryCode": "GR",
+      "latitude": "35.28008260",
+      "longitude": "24.63884400"
+   },
+   {
+      "name": "East Attica",
+      "isoCode": "A2",
+      "countryCode": "GR",
+      "latitude": "37.97158270",
+      "longitude": "23.97678540"
+   },
+   {
+      "name": "Epirus",
+      "isoCode": "D",
+      "countryCode": "GR",
+      "latitude": "39.65019170",
+      "longitude": "20.69084560"
+   },
+   {
+      "name": "Ionian Islands",
+      "isoCode": "F",
+      "countryCode": "GR",
+      "latitude": "37.78913840",
+      "longitude": "20.79008960"
+   },
+   {
+      "name": "North Aegean",
+      "isoCode": "K",
+      "countryCode": "GR",
+      "latitude": "38.76453610",
+      "longitude": "24.70113280"
+   },
+   {
+      "name": "Peloponnese",
+      "isoCode": "J",
+      "countryCode": "GR",
+      "latitude": "37.36337200",
+      "longitude": "22.23949840"
+   },
+   {
+      "name": "Thessaly",
+      "isoCode": "E",
+      "countryCode": "GR",
+      "latitude": "39.57758450",
+      "longitude": "21.40783680"
+   },
+   {
+      "name": "West Greece",
+      "isoCode": "G",
+      "countryCode": "GR",
+      "latitude": "38.25294730",
+      "longitude": "21.71176250"
+   },
+   {
+      "name": "West Macedonia",
+      "isoCode": "C",
+      "countryCode": "GR",
+      "latitude": "40.38709190",
+      "longitude": "21.44124450"
    }
 ]
