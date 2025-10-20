@@ -7916,7 +7916,7 @@
       "latitude": "57.73773720",
       "longitude": "27.13989380"
    },
-  {
+   {
       "name": "Alexandria",
       "isoCode": "ALX",
       "countryCode": "EG",
@@ -18304,7 +18304,7 @@
       "latitude": "49.96622000",
       "longitude": "5.93243060"
    },
-    {
+   {
       "name": "Ādaži Municipality",
       "isoCode": "ADA",
       "countryCode": "LV",
@@ -33073,5 +33073,47 @@
       "countryCode": "ZW",
       "latitude": "-17.48510290",
       "longitude": "29.78892480"
+   },
+   {
+      "name": "Famagusta (Mağusa)",
+      "isoCode": "04",
+      "countryCode": "CY",
+      "latitude": "35.13521370",
+      "longitude": "33.92398310"
+   },
+   {
+      "name": "Kyrenia (Keryneia)",
+      "isoCode": "06",
+      "countryCode": "CY",
+      "latitude": "35.29514810",
+      "longitude": "33.27691550"
+   },
+   {
+      "name": "Larnaca (Larnaka)",
+      "isoCode": "03",
+      "countryCode": "CY",
+      "latitude": "34.86974840",
+      "longitude": "33.60920970"
+   },
+   {
+      "name": "Limassol (Leymasun)",
+      "isoCode": "02",
+      "countryCode": "CY",
+      "latitude": "34.69114850",
+      "longitude": "33.00783840"
+   },
+   {
+      "name": "Nicosia (Lefkoşa)",
+      "isoCode": "01",
+      "countryCode": "CY",
+      "latitude": "35.15654640",
+      "longitude": "33.37056260"
+   },
+   {
+      "name": "Paphos (Pafos)",
+      "isoCode": "05",
+      "countryCode": "CY",
+      "latitude": "34.78129780",
+      "longitude": "32.42140970"
    }
 ]
