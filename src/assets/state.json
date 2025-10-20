@@ -7916,7 +7916,7 @@
       "latitude": "57.73773720",
       "longitude": "27.13989380"
    },
-  {
+   {
       "name": "Alexandria",
       "isoCode": "ALX",
       "countryCode": "EG",
@@ -18304,7 +18304,7 @@
       "latitude": "49.96622000",
       "longitude": "5.93243060"
    },
-    {
+   {
       "name": "Ādaži Municipality",
       "isoCode": "ADA",
       "countryCode": "LV",
@@ -33073,5 +33073,642 @@
       "countryCode": "ZW",
       "latitude": "-17.48510290",
       "longitude": "29.78892480"
+   },
+   {
+      "name": "Agrigento",
+      "isoCode": "AG",
+      "countryCode": "IT",
+      "latitude": "37.31229910",
+      "longitude": "13.57465000"
+   },
+   {
+      "name": "Alessandria",
+      "isoCode": "AL",
+      "countryCode": "IT",
+      "latitude": "44.83495330",
+      "longitude": "8.74503040"
+   },
+   {
+      "name": "Ancona",
+      "isoCode": "AN",
+      "countryCode": "IT",
+      "latitude": "43.48011890",
+      "longitude": "13.21872790"
+   },
+   {
+      "name": "Arezzo",
+      "isoCode": "AR",
+      "countryCode": "IT",
+      "latitude": "43.51714420",
+      "longitude": "11.76392820"
+   },
+   {
+      "name": "Ascoli Piceno",
+      "isoCode": "AP",
+      "countryCode": "IT",
+      "latitude": "42.85461850",
+      "longitude": "13.57550380"
+   },
+   {
+      "name": "Asti",
+      "isoCode": "AT",
+      "countryCode": "IT",
+      "latitude": "44.90076520",
+      "longitude": "8.20643150"
+   },
+   {
+      "name": "Avellino",
+      "isoCode": "AV",
+      "countryCode": "IT",
+      "latitude": "40.99654460",
+      "longitude": "15.14056900"
+   },
+   {
+      "name": "Barletta-Andria-Trani",
+      "isoCode": "BT",
+      "countryCode": "IT",
+      "latitude": "41.18017200",
+      "longitude": "16.14664080"
+   },
+   {
+      "name": "Belluno",
+      "isoCode": "BL",
+      "countryCode": "IT",
+      "latitude": "46.28054070",
+      "longitude": "12.07891370"
+   },
+   {
+      "name": "Benevento",
+      "isoCode": "BN",
+      "countryCode": "IT",
+      "latitude": "41.24763070",
+      "longitude": "14.70570540"
+   },
+   {
+      "name": "Bergamo",
+      "isoCode": "BG",
+      "countryCode": "IT",
+      "latitude": "45.69826420",
+      "longitude": "9.67726980"
+   },
+   {
+      "name": "Biella",
+      "isoCode": "BI",
+      "countryCode": "IT",
+      "latitude": "45.56281760",
+      "longitude": "8.05827170"
+   },
+   {
+      "name": "Brescia",
+      "isoCode": "BS",
+      "countryCode": "IT",
+      "latitude": "45.54155260",
+      "longitude": "10.21180190"
+   },
+   {
+      "name": "Brindisi",
+      "isoCode": "BR",
+      "countryCode": "IT",
+      "latitude": "40.63585990",
+      "longitude": "17.68849750"
+   },
+   {
+      "name": "Caltanissetta",
+      "isoCode": "CL",
+      "countryCode": "IT",
+      "latitude": "37.48601300",
+      "longitude": "14.06149820"
+   },
+   {
+      "name": "Campobasso",
+      "isoCode": "CB",
+      "countryCode": "IT",
+      "latitude": "41.71726480",
+      "longitude": "14.82622670"
+   },
+   {
+      "name": "Caserta",
+      "isoCode": "CE",
+      "countryCode": "IT",
+      "latitude": "41.20351920",
+      "longitude": "14.11686240"
+   },
+   {
+      "name": "Catanzaro",
+      "isoCode": "CZ",
+      "countryCode": "IT",
+      "latitude": "38.82996030",
+      "longitude": "16.43155690"
+   },
+   {
+      "name": "Chieti",
+      "isoCode": "CH",
+      "countryCode": "IT",
+      "latitude": "42.10269280",
+      "longitude": "14.41590530"
+   },
+   {
+      "name": "Como",
+      "isoCode": "CO",
+      "countryCode": "IT",
+      "latitude": "45.80804160",
+      "longitude": "9.08517930"
+   },
+   {
+      "name": "Cosenza",
+      "isoCode": "CS",
+      "countryCode": "IT",
+      "latitude": "39.59668530",
+      "longitude": "16.33305560"
+   },
+   {
+      "name": "Cremona",
+      "isoCode": "CR",
+      "countryCode": "IT",
+      "latitude": "45.22086410",
+      "longitude": "10.03703800"
+   },
+   {
+      "name": "Crotone",
+      "isoCode": "KR",
+      "countryCode": "IT",
+      "latitude": "39.08062230",
+      "longitude": "17.12719600"
+   },
+   {
+      "name": "Cuneo",
+      "isoCode": "CN",
+      "countryCode": "IT",
+      "latitude": "44.45807030",
+      "longitude": "7.55813670"
+   },
+   {
+      "name": "Enna",
+      "isoCode": "EN",
+      "countryCode": "IT",
+      "latitude": "37.56762160",
+      "longitude": "14.27953490"
+   },
+   {
+      "name": "Fermo",
+      "isoCode": "FM",
+      "countryCode": "IT",
+      "latitude": "43.09224890",
+      "longitude": "13.63876810"
+   },
+   {
+      "name": "Ferrara",
+      "isoCode": "FE",
+      "countryCode": "IT",
+      "latitude": "44.76676420",
+      "longitude": "11.82793900"
+   },
+   {
+      "name": "Foggia",
+      "isoCode": "FG",
+      "countryCode": "IT",
+      "latitude": "41.50281050",
+      "longitude": "15.45289390"
+   },
+   {
+      "name": "Forlì-Cesena",
+      "isoCode": "FC",
+      "countryCode": "IT",
+      "latitude": "44.02271930",
+      "longitude": "12.01410360"
+   },
+   {
+      "name": "Frosinone",
+      "isoCode": "FR",
+      "countryCode": "IT",
+      "latitude": "41.62854680",
+      "longitude": "13.57584980"
+   },
+   {
+      "name": "Gorizia",
+      "isoCode": "GO",
+      "countryCode": "IT",
+      "latitude": "45.86252100",
+      "longitude": "13.49792590"
+   },
+   {
+      "name": "Grosseto",
+      "isoCode": "GR",
+      "countryCode": "IT",
+      "latitude": "42.77511020",
+      "longitude": "11.28780440"
+   },
+   {
+      "name": "Imperia",
+      "isoCode": "IM",
+      "countryCode": "IT",
+      "latitude": "43.95837530",
+      "longitude": "7.86674270"
+   },
+   {
+      "name": "Isernia",
+      "isoCode": "IS",
+      "countryCode": "IT",
+      "latitude": "41.60017500",
+      "longitude": "14.23830170"
+   },
+   {
+      "name": "L'Aquila",
+      "isoCode": "AQ",
+      "countryCode": "IT",
+      "latitude": "42.13688530",
+      "longitude": "13.61034100"
+   },
+   {
+      "name": "La Spezia",
+      "isoCode": "SP",
+      "countryCode": "IT",
+      "latitude": "44.23836600",
+      "longitude": "9.69123260"
+   },
+   {
+      "name": "Latina",
+      "isoCode": "LT",
+      "countryCode": "IT",
+      "latitude": "41.45952610",
+      "longitude": "13.01259120"
+   },
+   {
+      "name": "Lecce",
+      "isoCode": "LE",
+      "countryCode": "IT",
+      "latitude": "40.15221730",
+      "longitude": "18.22606280"
+   },
+   {
+      "name": "Lecco",
+      "isoCode": "LC",
+      "countryCode": "IT",
+      "latitude": "45.90054850",
+      "longitude": "9.41202480"
+   },
+   {
+      "name": "Livorno",
+      "isoCode": "LI",
+      "countryCode": "IT",
+      "latitude": "42.79023790",
+      "longitude": "10.34022390"
+   },
+   {
+      "name": "Lodi",
+      "isoCode": "LO",
+      "countryCode": "IT",
+      "latitude": "45.26131040",
+      "longitude": "9.49167810"
+   },
+   {
+      "name": "Lucca",
+      "isoCode": "LU",
+      "countryCode": "IT",
+      "latitude": "43.83767360",
+      "longitude": "10.49505300"
+   },
+   {
+      "name": "Macerata",
+      "isoCode": "MC",
+      "countryCode": "IT",
+      "latitude": "43.15297810",
+      "longitude": "13.15088220"
+   },
+   {
+      "name": "Mantua",
+      "isoCode": "MN",
+      "countryCode": "IT",
+      "latitude": "45.15666830",
+      "longitude": "10.79171910"
+   },
+   {
+      "name": "Massa and Carrara",
+      "isoCode": "MS",
+      "countryCode": "IT",
+      "latitude": "44.04101620",
+      "longitude": "10.15549220"
+   },
+   {
+      "name": "Matera",
+      "isoCode": "MT",
+      "countryCode": "IT",
+      "latitude": "40.66634960",
+      "longitude": "16.60436360"
+   },
+   {
+      "name": "Modena",
+      "isoCode": "MO",
+      "countryCode": "IT",
+      "latitude": "44.53847280",
+      "longitude": "10.93596090"
+   },
+   {
+      "name": "Monza and Brianza",
+      "isoCode": "MB",
+      "countryCode": "IT",
+      "latitude": "45.63954180",
+      "longitude": "9.27883040"
+   },
+   {
+      "name": "Novara",
+      "isoCode": "NO",
+      "countryCode": "IT",
+      "latitude": "45.58425000",
+      "longitude": "8.54599700"
+   },
+   {
+      "name": "Nuoro",
+      "isoCode": "NU",
+      "countryCode": "IT",
+      "latitude": "40.32106010",
+      "longitude": "9.32973390"
+   },
+   {
+      "name": "Oristano",
+      "isoCode": "OR",
+      "countryCode": "IT",
+      "latitude": "40.02656760",
+      "longitude": "8.67964160"
+   },
+   {
+      "name": "Padua",
+      "isoCode": "PD",
+      "countryCode": "IT",
+      "latitude": "45.39140800",
+      "longitude": "11.80584870"
+   },
+   {
+      "name": "Palermo",
+      "isoCode": "PA",
+      "countryCode": "IT",
+      "latitude": "38.11569000",
+      "longitude": "13.36148680"
+   },
+   {
+      "name": "Parma",
+      "isoCode": "PR",
+      "countryCode": "IT",
+      "latitude": "44.80153220",
+      "longitude": "10.32793540"
+   },
+   {
+      "name": "Pavia",
+      "isoCode": "PV",
+      "countryCode": "IT",
+      "latitude": "45.18600430",
+      "longitude": "9.15463750"
+   },
+   {
+      "name": "Perugia",
+      "isoCode": "PG",
+      "countryCode": "IT",
+      "latitude": "43.11196130",
+      "longitude": "12.38901040"
+   },
+   {
+      "name": "Pesaro and Urbino",
+      "isoCode": "PU",
+      "countryCode": "IT",
+      "latitude": "43.61301180",
+      "longitude": "12.71351210"
+   },
+   {
+      "name": "Pescara",
+      "isoCode": "PE",
+      "countryCode": "IT",
+      "latitude": "42.31026190",
+      "longitude": "13.95759010"
+   },
+   {
+      "name": "Piacenza",
+      "isoCode": "PC",
+      "countryCode": "IT",
+      "latitude": "44.84763520",
+      "longitude": "9.66653130"
+   },
+   {
+      "name": "Pisa",
+      "isoCode": "PI",
+      "countryCode": "IT",
+      "latitude": "43.72283150",
+      "longitude": "10.40171940"
+   },
+   {
+      "name": "Pistoia",
+      "isoCode": "PT",
+      "countryCode": "IT",
+      "latitude": "43.97409570",
+      "longitude": "10.86870810"
+   },
+   {
+      "name": "Pordenone",
+      "isoCode": "PN",
+      "countryCode": "IT",
+      "latitude": "46.10173670",
+      "longitude": "12.70390280"
+   },
+   {
+      "name": "Potenza",
+      "isoCode": "PZ",
+      "countryCode": "IT",
+      "latitude": "40.51731190",
+      "longitude": "15.82160880"
+   },
+   {
+      "name": "Prato",
+      "isoCode": "PO",
+      "countryCode": "IT",
+      "latitude": "43.93571810",
+      "longitude": "11.09414730"
+   },
+   {
+      "name": "Ragusa",
+      "isoCode": "RG",
+      "countryCode": "IT",
+      "latitude": "36.92692730",
+      "longitude": "14.72551290"
+   },
+   {
+      "name": "Ravenna",
+      "isoCode": "RA",
+      "countryCode": "IT",
+      "latitude": "44.41844430",
+      "longitude": "12.20359980"
+   },
+   {
+      "name": "Reggio Emilia",
+      "isoCode": "RE",
+      "countryCode": "IT",
+      "latitude": "44.60866740",
+      "longitude": "10.59406670"
+   },
+   {
+      "name": "Rieti",
+      "isoCode": "RI",
+      "countryCode": "IT",
+      "latitude": "42.40265690",
+      "longitude": "12.86081300"
+   },
+   {
+      "name": "Rimini",
+      "isoCode": "RN",
+      "countryCode": "IT",
+      "latitude": "44.06782880",
+      "longitude": "12.56951580"
+   },
+   {
+      "name": "Rovigo",
+      "isoCode": "RO",
+      "countryCode": "IT",
+      "latitude": "45.06981660",
+      "longitude": "11.78882000"
+   },
+   {
+      "name": "Salerno",
+      "isoCode": "SA",
+      "countryCode": "IT",
+      "latitude": "40.41944160",
+      "longitude": "15.31060850"
+   },
+   {
+      "name": "Sassari",
+      "isoCode": "SS",
+      "countryCode": "IT",
+      "latitude": "40.72347460",
+      "longitude": "8.56126740"
+   },
+   {
+      "name": "Savona",
+      "isoCode": "SV",
+      "countryCode": "IT",
+      "latitude": "44.23342380",
+      "longitude": "8.25257270"
+   },
+   {
+      "name": "Siena",
+      "isoCode": "SI",
+      "countryCode": "IT",
+      "latitude": "43.31855360",
+      "longitude": "11.33165330"
+   },
+   {
+      "name": "Siracusa",
+      "isoCode": "SR",
+      "countryCode": "IT",
+      "latitude": "37.06569240",
+      "longitude": "15.28571090"
+   },
+   {
+      "name": "Sondrio",
+      "isoCode": "SO",
+      "countryCode": "IT",
+      "latitude": "46.17135530",
+      "longitude": "9.87342740"
+   },
+   {
+      "name": "South Sardinia",
+      "isoCode": "SU",
+      "countryCode": "IT",
+      "latitude": "39.38935350",
+      "longitude": "8.93970000"
+   },
+   {
+      "name": "Taranto",
+      "isoCode": "TA",
+      "countryCode": "IT",
+      "latitude": "40.47124270",
+      "longitude": "17.24322780"
+   },
+   {
+      "name": "Teramo",
+      "isoCode": "TE",
+      "countryCode": "IT",
+      "latitude": "42.65811790",
+      "longitude": "13.69787460"
+   },
+   {
+      "name": "Terni",
+      "isoCode": "TR",
+      "countryCode": "IT",
+      "latitude": "42.56414170",
+      "longitude": "12.64054660"
+   },
+   {
+      "name": "Trapani",
+      "isoCode": "TP",
+      "countryCode": "IT",
+      "latitude": "38.01831160",
+      "longitude": "12.51482650"
+   },
+   {
+      "name": "Treviso",
+      "isoCode": "TV",
+      "countryCode": "IT",
+      "latitude": "45.66685170",
+      "longitude": "12.24306170"
+   },
+   {
+      "name": "Trieste",
+      "isoCode": "TS",
+      "countryCode": "IT",
+      "latitude": "45.68948230",
+      "longitude": "13.78330720"
+   },
+   {
+      "name": "Udine",
+      "isoCode": "UD",
+      "countryCode": "IT",
+      "latitude": "46.14594800",
+      "longitude": "13.29743030"
+   },
+   {
+      "name": "Varese",
+      "isoCode": "VA",
+      "countryCode": "IT",
+      "latitude": "45.83972030",
+      "longitude": "8.75413380"
+   },
+   {
+      "name": "Verbano-Cusio-Ossola",
+      "isoCode": "VB",
+      "countryCode": "IT",
+      "latitude": "46.11557550",
+      "longitude": "8.38359670"
+   },
+   {
+      "name": "Vercelli",
+      "isoCode": "VC",
+      "countryCode": "IT",
+      "latitude": "45.32022040",
+      "longitude": "8.41850800"
+   },
+   {
+      "name": "Verona",
+      "isoCode": "VR",
+      "countryCode": "IT",
+      "latitude": "45.43849580",
+      "longitude": "10.99241220"
+   },
+   {
+      "name": "Vibo Valentia",
+      "isoCode": "VV",
+      "countryCode": "IT",
+      "latitude": "38.62665560",
+      "longitude": "16.09869350"
+   },
+   {
+      "name": "Vicenza",
+      "isoCode": "VI",
+      "countryCode": "IT",
+      "latitude": "45.63485910",
+      "longitude": "11.40635430"
+   },
+   {
+      "name": "Viterbo",
+      "isoCode": "VT",
+      "countryCode": "IT",
+      "latitude": "42.49295220",
+      "longitude": "11.94881360"
    }
 ]
