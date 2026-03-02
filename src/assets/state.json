@@ -12787,900 +12787,886 @@
       "longitude": null
    },
    {
-      "name": "Piedmont",
-      "isoCode": "21",
+      "name": "Abruzzo",
+      "isoCode": "65",
       "countryCode": "IT",
-      "latitude": "45.05223660",
-      "longitude": "7.51538850"
+      "latitude": "42.22768100",
+      "longitude": "13.85498300"
+   },
+   {
+      "name": "Agrigento",
+      "isoCode": "AG",
+      "countryCode": "IT",
+      "latitude": "37.31229910",
+      "longitude": "13.57465000"
+   },
+   {
+      "name": "Alessandria",
+      "isoCode": "AL",
+      "countryCode": "IT",
+      "latitude": "44.83495330",
+      "longitude": "8.74503040"
+   },
+   {
+      "name": "Ancona",
+      "isoCode": "AN",
+      "countryCode": "IT",
+      "latitude": "43.48011890",
+      "longitude": "13.21872790"
    },
    {
       "name": "Aosta Valley",
       "isoCode": "23",
       "countryCode": "IT",
-      "latitude": "45.73888780",
-      "longitude": "7.42618660"
-   },
-   {
-      "name": "Lombardy",
-      "isoCode": "25",
-      "countryCode": "IT",
-      "latitude": "45.47906710",
-      "longitude": "9.84524330"
-   },
-   {
-      "name": "Trentino-South Tyrol",
-      "isoCode": "32",
-      "countryCode": "IT",
-      "latitude": "46.43366620",
-      "longitude": "11.16932960"
-   },
-   {
-      "name": "Veneto",
-      "isoCode": "34",
-      "countryCode": "IT",
-      "latitude": "45.44146620",
-      "longitude": "12.31525950"
-   },
-   {
-      "name": "Friuli–Venezia Giulia",
-      "isoCode": "36",
-      "countryCode": "IT",
-      "latitude": "46.22591770",
-      "longitude": "13.10336460"
-   },
-   {
-      "name": "Liguria",
-      "isoCode": "42",
-      "countryCode": "IT",
-      "latitude": "44.31679170",
-      "longitude": "8.39649380"
-   },
-   {
-      "name": "Emilia-Romagna",
-      "isoCode": "45",
-      "countryCode": "IT",
-      "latitude": "44.59676070",
-      "longitude": "11.21863960"
-   },
-   {
-      "name": "Tuscany",
-      "isoCode": "52",
-      "countryCode": "IT",
-      "latitude": "43.77105130",
-      "longitude": "11.24862080"
-   },
-   {
-      "name": "Umbria",
-      "isoCode": "55",
-      "countryCode": "IT",
-      "latitude": "42.93800400",
-      "longitude": "12.62162110"
-   },
-   {
-      "name": "Marche",
-      "isoCode": "57",
-      "countryCode": "IT",
-      "latitude": "30.55670700",
-      "longitude": "-81.44930300"
-   },
-   {
-      "name": "Lazio",
-      "isoCode": "62",
-      "countryCode": "IT",
-      "latitude": "45.69916670",
-      "longitude": "-73.65583330"
-   },
-   {
-      "name": "Abruzzo",
-      "isoCode": "65",
-      "countryCode": "IT",
-      "latitude": "42.19201190",
-      "longitude": "13.72891670"
-   },
-   {
-      "name": "Molise",
-      "isoCode": "67",
-      "countryCode": "IT",
-      "latitude": "41.67388650",
-      "longitude": "14.75209390"
-   },
-   {
-      "name": "Campania",
-      "isoCode": "72",
-      "countryCode": "IT",
-      "latitude": "40.66708870",
-      "longitude": "15.10681130"
+      "latitude": "45.73009900",
+      "longitude": "7.38742600"
    },
    {
       "name": "Apulia",
       "isoCode": "75",
       "countryCode": "IT",
-      "latitude": "40.79283930",
-      "longitude": "17.10119310"
+      "latitude": "40.98425390",
+      "longitude": "16.62100270"
    },
    {
-      "name": "Basilicata",
-      "isoCode": "77",
+      "name": "Arezzo",
+      "isoCode": "AR",
       "countryCode": "IT",
-      "latitude": "40.64307660",
-      "longitude": "15.96998780"
+      "latitude": "43.51714420",
+      "longitude": "11.76392820"
    },
    {
-      "name": "Calabria",
-      "isoCode": "78",
-      "countryCode": "IT",
-      "latitude": "39.30877140",
-      "longitude": "16.34637910"
-   },
-   {
-      "name": "Sicily",
-      "isoCode": "82",
-      "countryCode": "IT",
-      "latitude": "37.59999380",
-      "longitude": "14.01535570"
-   },
-   {
-      "name": "Sardinia",
-      "isoCode": "88",
-      "countryCode": "IT",
-      "latitude": "40.12087520",
-      "longitude": "9.01289260"
-   },
-   {
-      "name": "Libero consorzio comunale di Agrigento",
-      "isoCode": "AG",
-      "countryCode": "IT",
-      "latitude": "37.31052020",
-      "longitude": "13.58579780"
-   },
-   {
-      "name": "Province of Alessandria",
-      "isoCode": "AL",
-      "countryCode": "IT",
-      "latitude": "44.81755870",
-      "longitude": "8.70466270"
-   },
-   {
-      "name": "Province of Ancona",
-      "isoCode": "AN",
-      "countryCode": "IT",
-      "latitude": "43.54932450",
-      "longitude": "13.26634790"
-   },
-   {
-      "name": "Province of Ascoli Piceno",
+      "name": "Ascoli Piceno",
       "isoCode": "AP",
       "countryCode": "IT",
-      "latitude": "42.86389330",
-      "longitude": "13.58997330"
+      "latitude": "42.85461850",
+      "longitude": "13.57550380"
    },
    {
-      "name": "Province of L'Aquila",
-      "isoCode": "AQ",
-      "countryCode": "IT",
-      "latitude": "42.12563170",
-      "longitude": "13.63627150"
-   },
-   {
-      "name": "Province of Asti",
+      "name": "Asti",
       "isoCode": "AT",
       "countryCode": "IT",
       "latitude": "44.90076520",
       "longitude": "8.20643150"
    },
    {
-      "name": "Province of Avellino",
+      "name": "Avellino",
       "isoCode": "AV",
       "countryCode": "IT",
-      "latitude": "40.99645100",
-      "longitude": "15.12589550"
+      "latitude": "40.99654460",
+      "longitude": "15.14056900"
    },
    {
-      "name": "Metropolitan City of Bari",
+      "name": "Bari",
       "isoCode": "BA",
       "countryCode": "IT",
-      "latitude": "41.11714320",
-      "longitude": "16.87187150"
+      "latitude": "41.11714300",
+      "longitude": "16.87187200"
    },
    {
-      "name": "Province of Bergamo",
+      "name": "Barletta-Andria-Trani",
+      "isoCode": "BT",
+      "countryCode": "IT",
+      "latitude": "41.18017200",
+      "longitude": "16.14664080"
+   },
+   {
+      "name": "Basilicata",
+      "isoCode": "77",
+      "countryCode": "IT",
+      "latitude": "40.50057100",
+      "longitude": "16.08195300"
+   },
+   {
+      "name": "Belluno",
+      "isoCode": "BL",
+      "countryCode": "IT",
+      "latitude": "46.28054070",
+      "longitude": "12.07891370"
+   },
+   {
+      "name": "Benevento",
+      "isoCode": "BN",
+      "countryCode": "IT",
+      "latitude": "41.24763070",
+      "longitude": "14.70570540"
+   },
+   {
+      "name": "Bergamo",
       "isoCode": "BG",
       "countryCode": "IT",
       "latitude": "45.69826420",
       "longitude": "9.67726980"
    },
    {
-      "name": "Province of Biella",
+      "name": "Biella",
       "isoCode": "BI",
       "countryCode": "IT",
       "latitude": "45.56281760",
       "longitude": "8.05827170"
    },
    {
-      "name": "Province of Belluno",
-      "isoCode": "BL",
-      "countryCode": "IT",
-      "latitude": "46.24976590",
-      "longitude": "12.19695650"
-   },
-   {
-      "name": "Benevento Province",
-      "isoCode": "BN",
-      "countryCode": "IT",
-      "latitude": "41.20350930",
-      "longitude": "14.75209390"
-   },
-   {
-      "name": "Metropolitan City of Bologna",
+      "name": "Bologna",
       "isoCode": "BO",
       "countryCode": "IT",
       "latitude": "44.49488700",
-      "longitude": "11.34261620"
+      "longitude": "11.34262100"
    },
    {
-      "name": "Province of Brindisi",
-      "isoCode": "BR",
-      "countryCode": "IT",
-      "latitude": "40.61126630",
-      "longitude": "17.76362100"
-   },
-   {
-      "name": "Province of Brescia",
+      "name": "Brescia",
       "isoCode": "BS",
       "countryCode": "IT",
       "latitude": "45.54155260",
       "longitude": "10.21180190"
    },
    {
-      "name": "Province of Barletta-Andria-Trani",
-      "isoCode": "BT",
+      "name": "Brindisi",
+      "isoCode": "BR",
       "countryCode": "IT",
-      "latitude": "41.20045430",
-      "longitude": "16.20514840"
+      "latitude": "40.63585990",
+      "longitude": "17.68849750"
    },
    {
-      "name": "South Tyrol",
-      "isoCode": "BZ",
-      "countryCode": "IT",
-      "latitude": "46.49494500",
-      "longitude": "11.34026570"
-   },
-   {
-      "name": "Metropolitan City of Cagliari",
+      "name": "Cagliari",
       "isoCode": "CA",
       "countryCode": "IT",
-      "latitude": "39.22384110",
-      "longitude": "9.12166130"
+      "latitude": "39.22380400",
+      "longitude": "9.12166700"
    },
    {
-      "name": "Province of Campobasso",
-      "isoCode": "CB",
+      "name": "Calabria",
+      "isoCode": "78",
       "countryCode": "IT",
-      "latitude": "41.67388650",
-      "longitude": "14.75209390"
+      "latitude": "39.05659740",
+      "longitude": "16.52498640"
    },
    {
-      "name": "Province of Caserta",
-      "isoCode": "CE",
-      "countryCode": "IT",
-      "latitude": "41.20783540",
-      "longitude": "14.10013260"
-   },
-   {
-      "name": "Province of Chieti",
-      "isoCode": "CH",
-      "countryCode": "IT",
-      "latitude": "42.03344280",
-      "longitude": "14.37919120"
-   },
-   {
-      "name": "Province of Carbonia-Iglesias",
-      "isoCode": "CI",
-      "countryCode": "IT",
-      "latitude": "39.25346590",
-      "longitude": "8.57210160"
-   },
-   {
-      "name": "Libero consorzio comunale di Caltanissetta",
+      "name": "Caltanissetta",
       "isoCode": "CL",
       "countryCode": "IT",
       "latitude": "37.48601300",
       "longitude": "14.06149820"
    },
    {
-      "name": "Province of Cuneo",
-      "isoCode": "CN",
+      "name": "Campania",
+      "isoCode": "72",
       "countryCode": "IT",
-      "latitude": "44.59703140",
-      "longitude": "7.61142170"
+      "latitude": "40.86067200",
+      "longitude": "14.84398400"
    },
    {
-      "name": "Province of Como",
+      "name": "Campobasso",
+      "isoCode": "CB",
+      "countryCode": "IT",
+      "latitude": "41.71726480",
+      "longitude": "14.82622670"
+   },
+   {
+      "name": "Caserta",
+      "isoCode": "CE",
+      "countryCode": "IT",
+      "latitude": "41.20351920",
+      "longitude": "14.11686240"
+   },
+   {
+      "name": "Catania",
+      "isoCode": "CT",
+      "countryCode": "IT",
+      "latitude": "37.50287800",
+      "longitude": "15.08704200"
+   },
+   {
+      "name": "Catanzaro",
+      "isoCode": "CZ",
+      "countryCode": "IT",
+      "latitude": "38.82996030",
+      "longitude": "16.43155690"
+   },
+   {
+      "name": "Chieti",
+      "isoCode": "CH",
+      "countryCode": "IT",
+      "latitude": "42.10269280",
+      "longitude": "14.41590530"
+   },
+   {
+      "name": "Como",
       "isoCode": "CO",
       "countryCode": "IT",
       "latitude": "45.80804160",
       "longitude": "9.08517930"
    },
    {
-      "name": "Province of Cremona",
-      "isoCode": "CR",
-      "countryCode": "IT",
-      "latitude": "45.20143750",
-      "longitude": "9.98365820"
-   },
-   {
-      "name": "Province of Cosenza",
+      "name": "Cosenza",
       "isoCode": "CS",
       "countryCode": "IT",
-      "latitude": "39.56441050",
-      "longitude": "16.25221430"
+      "latitude": "39.59668530",
+      "longitude": "16.33305560"
    },
    {
-      "name": "Metropolitan City of Catania",
-      "isoCode": "CT",
+      "name": "Cremona",
+      "isoCode": "CR",
       "countryCode": "IT",
-      "latitude": "37.45154380",
-      "longitude": "15.05574150"
+      "latitude": "45.22086410",
+      "longitude": "10.03703800"
    },
    {
-      "name": "Province of Catanzaro",
-      "isoCode": "CZ",
+      "name": "Crotone",
+      "isoCode": "KR",
       "countryCode": "IT",
-      "latitude": "38.88963480",
-      "longitude": "16.44058720"
+      "latitude": "39.08062230",
+      "longitude": "17.12719600"
    },
    {
-      "name": "Libero consorzio comunale di Enna",
+      "name": "Cuneo",
+      "isoCode": "CN",
+      "countryCode": "IT",
+      "latitude": "44.45807030",
+      "longitude": "7.55813670"
+   },
+   {
+      "name": "Emilia-Romagna",
+      "isoCode": "45",
+      "countryCode": "IT",
+      "latitude": "44.52569600",
+      "longitude": "11.03943700"
+   },
+   {
+      "name": "Enna",
       "isoCode": "EN",
       "countryCode": "IT",
       "latitude": "37.56762160",
       "longitude": "14.27953490"
    },
    {
-      "name": "Province of Forlì-Cesena",
-      "isoCode": "FC",
-      "countryCode": "IT",
-      "latitude": "43.99476810",
-      "longitude": "11.98046130"
-   },
-   {
-      "name": "Province of Ferrara",
-      "isoCode": "FE",
-      "countryCode": "IT",
-      "latitude": "44.76636800",
-      "longitude": "11.76440680"
-   },
-   {
-      "name": "Province of Foggia",
-      "isoCode": "FG",
-      "countryCode": "IT",
-      "latitude": "41.63844800",
-      "longitude": "15.59433880"
-   },
-   {
-      "name": "Metropolitan City of Florence",
-      "isoCode": "FI",
-      "countryCode": "IT",
-      "latitude": "43.76791780",
-      "longitude": "11.25237920"
-   },
-   {
-      "name": "Province of Fermo",
+      "name": "Fermo",
       "isoCode": "FM",
       "countryCode": "IT",
-      "latitude": "43.09313670",
-      "longitude": "13.58997330"
+      "latitude": "43.09224890",
+      "longitude": "13.63876810"
    },
    {
-      "name": "Province of Frosinone",
+      "name": "Ferrara",
+      "isoCode": "FE",
+      "countryCode": "IT",
+      "latitude": "44.76676420",
+      "longitude": "11.82793900"
+   },
+   {
+      "name": "Florence",
+      "isoCode": "FI",
+      "countryCode": "IT",
+      "latitude": "43.76923100",
+      "longitude": "11.25588400"
+   },
+   {
+      "name": "Foggia",
+      "isoCode": "FG",
+      "countryCode": "IT",
+      "latitude": "41.50281050",
+      "longitude": "15.45289390"
+   },
+   {
+      "name": "Forlì-Cesena",
+      "isoCode": "FC",
+      "countryCode": "IT",
+      "latitude": "44.02271930",
+      "longitude": "12.01410360"
+   },
+   {
+      "name": "Friuli–Venezia Giulia",
+      "isoCode": "36",
+      "countryCode": "IT",
+      "latitude": "46.15104200",
+      "longitude": "13.05590400"
+   },
+   {
+      "name": "Frosinone",
       "isoCode": "FR",
       "countryCode": "IT",
-      "latitude": "41.65765280",
-      "longitude": "13.63627150"
+      "latitude": "41.62854680",
+      "longitude": "13.57584980"
    },
    {
-      "name": "Metropolitan City of Genoa",
+      "name": "Genoa",
       "isoCode": "GE",
       "countryCode": "IT",
-      "latitude": "44.40564930",
-      "longitude": "8.94625640"
+      "latitude": "44.41149100",
+      "longitude": "8.93285900"
    },
    {
-      "name": "Province of Gorizia",
+      "name": "Gorizia",
       "isoCode": "GO",
       "countryCode": "IT",
-      "latitude": "45.90538990",
-      "longitude": "13.51637250"
+      "latitude": "45.86252100",
+      "longitude": "13.49792590"
    },
    {
-      "name": "Province of Grosseto",
+      "name": "Grosseto",
       "isoCode": "GR",
       "countryCode": "IT",
-      "latitude": "42.85180070",
-      "longitude": "11.25237920"
+      "latitude": "42.77511020",
+      "longitude": "11.28780440"
    },
    {
-      "name": "Province of Imperia",
+      "name": "Imperia",
       "isoCode": "IM",
       "countryCode": "IT",
-      "latitude": "43.94186600",
-      "longitude": "7.82863680"
+      "latitude": "43.95837530",
+      "longitude": "7.86674270"
    },
    {
-      "name": "Province of Isernia",
+      "name": "Isernia",
       "isoCode": "IS",
       "countryCode": "IT",
-      "latitude": "41.58915550",
-      "longitude": "14.19309180"
+      "latitude": "41.60017500",
+      "longitude": "14.23830170"
    },
    {
-      "name": "Province of Crotone",
-      "isoCode": "KR",
+      "name": "L'Aquila",
+      "isoCode": "AQ",
       "countryCode": "IT",
-      "latitude": "39.13098560",
-      "longitude": "17.00670310"
+      "latitude": "42.13688530",
+      "longitude": "13.61034100"
    },
    {
-      "name": "Province of Lecco",
-      "isoCode": "LC",
+      "name": "La Spezia",
+      "isoCode": "SP",
       "countryCode": "IT",
-      "latitude": "45.93829410",
-      "longitude": "9.38572900"
+      "latitude": "44.23836600",
+      "longitude": "9.69123260"
    },
    {
-      "name": "Province of Lecce",
-      "isoCode": "LE",
-      "countryCode": "IT",
-      "latitude": "40.23473930",
-      "longitude": "18.14286690"
-   },
-   {
-      "name": "Province of Livorno",
-      "isoCode": "LI",
-      "countryCode": "IT",
-      "latitude": "43.02398480",
-      "longitude": "10.66471010"
-   },
-   {
-      "name": "Province of Lodi",
-      "isoCode": "LO",
-      "countryCode": "IT",
-      "latitude": "45.24050360",
-      "longitude": "9.52925120"
-   },
-   {
-      "name": "Province of Latina",
+      "name": "Latina",
       "isoCode": "LT",
       "countryCode": "IT",
-      "latitude": "41.40874760",
-      "longitude": "13.08179030"
+      "latitude": "41.45952610",
+      "longitude": "13.01259120"
    },
    {
-      "name": "Province of Lucca",
+      "name": "Lazio",
+      "isoCode": "62",
+      "countryCode": "IT",
+      "latitude": "41.98080380",
+      "longitude": "12.76623120"
+   },
+   {
+      "name": "Lecce",
+      "isoCode": "LE",
+      "countryCode": "IT",
+      "latitude": "40.15221730",
+      "longitude": "18.22606280"
+   },
+   {
+      "name": "Lecco",
+      "isoCode": "LC",
+      "countryCode": "IT",
+      "latitude": "45.90054850",
+      "longitude": "9.41202480"
+   },
+   {
+      "name": "Liguria",
+      "isoCode": "42",
+      "countryCode": "IT",
+      "latitude": "44.47776170",
+      "longitude": "8.70262960"
+   },
+   {
+      "name": "Livorno",
+      "isoCode": "LI",
+      "countryCode": "IT",
+      "latitude": "42.79023790",
+      "longitude": "10.34022390"
+   },
+   {
+      "name": "Lodi",
+      "isoCode": "LO",
+      "countryCode": "IT",
+      "latitude": "45.26131040",
+      "longitude": "9.49167810"
+   },
+   {
+      "name": "Lombardy",
+      "isoCode": "25",
+      "countryCode": "IT",
+      "latitude": "45.57036940",
+      "longitude": "9.77325240"
+   },
+   {
+      "name": "Lucca",
       "isoCode": "LU",
       "countryCode": "IT",
       "latitude": "43.83767360",
       "longitude": "10.49505300"
    },
    {
-      "name": "Province of Monza and Brianza",
-      "isoCode": "MB",
-      "countryCode": "IT",
-      "latitude": "45.62359900",
-      "longitude": "9.25880150"
-   },
-   {
-      "name": "Province of Macerata",
+      "name": "Macerata",
       "isoCode": "MC",
       "countryCode": "IT",
-      "latitude": "43.24593220",
-      "longitude": "13.26634790"
+      "latitude": "43.15297810",
+      "longitude": "13.15088220"
    },
    {
-      "name": "Metropolitan City of Messina",
-      "isoCode": "ME",
-      "countryCode": "IT",
-      "latitude": "38.19373350",
-      "longitude": "15.55420570"
-   },
-   {
-      "name": "Metropolitan City of Milan",
-      "isoCode": "MI",
-      "countryCode": "IT",
-      "latitude": "45.45862600",
-      "longitude": "9.18187300"
-   },
-   {
-      "name": "Province of Mantua",
+      "name": "Mantua",
       "isoCode": "MN",
       "countryCode": "IT",
-      "latitude": "45.16677280",
-      "longitude": "10.77536130"
+      "latitude": "45.15666830",
+      "longitude": "10.79171910"
    },
    {
-      "name": "Province of Modena",
-      "isoCode": "MO",
+      "name": "Marche",
+      "isoCode": "57",
       "countryCode": "IT",
-      "latitude": "44.55137990",
-      "longitude": "10.91804800"
+      "latitude": "43.34583880",
+      "longitude": "13.14158720"
    },
    {
-      "name": "Province of Massa and Carrara",
+      "name": "Massa and Carrara",
       "isoCode": "MS",
       "countryCode": "IT",
-      "latitude": "44.22139980",
-      "longitude": "10.03596610"
+      "latitude": "44.04101620",
+      "longitude": "10.15549220"
    },
    {
-      "name": "Province of Matera",
+      "name": "Matera",
       "isoCode": "MT",
       "countryCode": "IT",
       "latitude": "40.66634960",
       "longitude": "16.60436360"
    },
    {
-      "name": "Metropolitan City of Naples",
+      "name": "Messina",
+      "isoCode": "ME",
+      "countryCode": "IT",
+      "latitude": "38.19395000",
+      "longitude": "15.55256200"
+   },
+   {
+      "name": "Milan",
+      "isoCode": "MI",
+      "countryCode": "IT",
+      "latitude": "45.46679400",
+      "longitude": "9.19007200"
+   },
+   {
+      "name": "Modena",
+      "isoCode": "MO",
+      "countryCode": "IT",
+      "latitude": "44.53847280",
+      "longitude": "10.93596090"
+   },
+   {
+      "name": "Molise",
+      "isoCode": "67",
+      "countryCode": "IT",
+      "latitude": "41.63082800",
+      "longitude": "14.49292500"
+   },
+   {
+      "name": "Monza and Brianza",
+      "isoCode": "MB",
+      "countryCode": "IT",
+      "latitude": "45.63954180",
+      "longitude": "9.27883040"
+   },
+   {
+      "name": "Naples",
       "isoCode": "NA",
       "countryCode": "IT",
-      "latitude": "40.90197500",
-      "longitude": "14.33264400"
+      "latitude": "40.85177700",
+      "longitude": "14.26811700"
    },
    {
-      "name": "Province of Novara",
+      "name": "Novara",
       "isoCode": "NO",
       "countryCode": "IT",
-      "latitude": "45.54851330",
-      "longitude": "8.51507930"
+      "latitude": "45.58425000",
+      "longitude": "8.54599700"
    },
    {
-      "name": "Province of Nuoro",
+      "name": "Nuoro",
       "isoCode": "NU",
       "countryCode": "IT",
-      "latitude": "40.32869040",
-      "longitude": "9.45615500"
+      "latitude": "40.32106010",
+      "longitude": "9.32973390"
    },
    {
-      "name": "Province of Ogliastra",
-      "isoCode": "OG",
-      "countryCode": "IT",
-      "latitude": "39.84105360",
-      "longitude": "9.45615500"
-   },
-   {
-      "name": "Province of Oristano",
+      "name": "Oristano",
       "isoCode": "OR",
       "countryCode": "IT",
-      "latitude": "40.05990680",
-      "longitude": "8.74811670"
+      "latitude": "40.02656760",
+      "longitude": "8.67964160"
    },
    {
-      "name": "Province of Olbia-Tempio",
-      "isoCode": "OT",
+      "name": "Padua",
+      "isoCode": "PD",
       "countryCode": "IT",
-      "latitude": "40.82683830",
-      "longitude": "9.27855830"
+      "latitude": "45.39140800",
+      "longitude": "11.80584870"
    },
    {
-      "name": "Metropolitan City of Palermo",
+      "name": "Palermo",
       "isoCode": "PA",
       "countryCode": "IT",
       "latitude": "38.11569000",
       "longitude": "13.36148680"
    },
    {
-      "name": "Province of Piacenza",
-      "isoCode": "PC",
-      "countryCode": "IT",
-      "latitude": "44.82631120",
-      "longitude": "9.52914470"
-   },
-   {
-      "name": "Province of Padua",
-      "isoCode": "PD",
-      "countryCode": "IT",
-      "latitude": "45.36618640",
-      "longitude": "11.82091390"
-   },
-   {
-      "name": "Province of Pescara",
-      "isoCode": "PE",
-      "countryCode": "IT",
-      "latitude": "42.35706550",
-      "longitude": "13.96080910"
-   },
-   {
-      "name": "Province of Perugia",
-      "isoCode": "PG",
-      "countryCode": "IT",
-      "latitude": "42.93800400",
-      "longitude": "12.62162110"
-   },
-   {
-      "name": "Province of Pisa",
-      "isoCode": "PI",
-      "countryCode": "IT",
-      "latitude": "43.72283150",
-      "longitude": "10.40171940"
-   },
-   {
-      "name": "Province of Pordenone",
-      "isoCode": "PN",
-      "countryCode": "IT",
-      "latitude": "46.03788620",
-      "longitude": "12.71083500"
-   },
-   {
-      "name": "Province of Prato",
-      "isoCode": "PO",
-      "countryCode": "IT",
-      "latitude": "44.04539000",
-      "longitude": "11.11644520"
-   },
-   {
-      "name": "Province of Parma",
+      "name": "Parma",
       "isoCode": "PR",
       "countryCode": "IT",
       "latitude": "44.80153220",
       "longitude": "10.32793540"
    },
    {
-      "name": "Province of Pistoia",
-      "isoCode": "PT",
+      "name": "Pavia",
+      "isoCode": "PV",
       "countryCode": "IT",
-      "latitude": "43.95437330",
-      "longitude": "10.89030990"
+      "latitude": "45.18600430",
+      "longitude": "9.15463750"
    },
    {
-      "name": "Pesaro and Urbino Province",
+      "name": "Perugia",
+      "isoCode": "PG",
+      "countryCode": "IT",
+      "latitude": "43.11196130",
+      "longitude": "12.38901040"
+   },
+   {
+      "name": "Pesaro and Urbino",
       "isoCode": "PU",
       "countryCode": "IT",
       "latitude": "43.61301180",
       "longitude": "12.71351210"
    },
    {
-      "name": "Province of Pavia",
-      "isoCode": "PV",
+      "name": "Pescara",
+      "isoCode": "PE",
       "countryCode": "IT",
-      "latitude": "45.32181660",
-      "longitude": "8.84662360"
+      "latitude": "42.31026190",
+      "longitude": "13.95759010"
    },
    {
-      "name": "Province of Potenza",
+      "name": "Piacenza",
+      "isoCode": "PC",
+      "countryCode": "IT",
+      "latitude": "44.84763520",
+      "longitude": "9.66653130"
+   },
+   {
+      "name": "Piedmont",
+      "isoCode": "21",
+      "countryCode": "IT",
+      "latitude": "45.06073500",
+      "longitude": "7.92354900"
+   },
+   {
+      "name": "Pisa",
+      "isoCode": "PI",
+      "countryCode": "IT",
+      "latitude": "43.72283150",
+      "longitude": "10.40171940"
+   },
+   {
+      "name": "Pistoia",
+      "isoCode": "PT",
+      "countryCode": "IT",
+      "latitude": "43.97409570",
+      "longitude": "10.86870810"
+   },
+   {
+      "name": "Pordenone",
+      "isoCode": "PN",
+      "countryCode": "IT",
+      "latitude": "46.10173670",
+      "longitude": "12.70390280"
+   },
+   {
+      "name": "Potenza",
       "isoCode": "PZ",
       "countryCode": "IT",
-      "latitude": "40.41821940",
-      "longitude": "15.87600400"
+      "latitude": "40.51731190",
+      "longitude": "15.82160880"
    },
    {
-      "name": "Province of Ravenna",
-      "isoCode": "RA",
+      "name": "Prato",
+      "isoCode": "PO",
       "countryCode": "IT",
-      "latitude": "44.41844430",
-      "longitude": "12.20359980"
+      "latitude": "43.93571810",
+      "longitude": "11.09414730"
    },
    {
-      "name": "Metropolitan City of Reggio Calabria",
-      "isoCode": "RC",
-      "countryCode": "IT",
-      "latitude": "38.10843960",
-      "longitude": "15.64370480"
-   },
-   {
-      "name": "Province of Reggio Emilia",
-      "isoCode": "RE",
-      "countryCode": "IT",
-      "latitude": "44.58565800",
-      "longitude": "10.55647360"
-   },
-   {
-      "name": "Libero consorzio comunale di Ragusa",
+      "name": "Ragusa",
       "isoCode": "RG",
       "countryCode": "IT",
       "latitude": "36.92692730",
       "longitude": "14.72551290"
    },
    {
-      "name": "Province of Rieti",
+      "name": "Ravenna",
+      "isoCode": "RA",
+      "countryCode": "IT",
+      "latitude": "44.41844430",
+      "longitude": "12.20359980"
+   },
+   {
+      "name": "Reggio Calabria",
+      "isoCode": "RC",
+      "countryCode": "IT",
+      "latitude": "38.10882200",
+      "longitude": "15.64392200"
+   },
+   {
+      "name": "Reggio Emilia",
+      "isoCode": "RE",
+      "countryCode": "IT",
+      "latitude": "44.60866740",
+      "longitude": "10.59406670"
+   },
+   {
+      "name": "Rieti",
       "isoCode": "RI",
       "countryCode": "IT",
-      "latitude": "42.36744050",
-      "longitude": "12.89750980"
+      "latitude": "42.40265690",
+      "longitude": "12.86081300"
    },
    {
-      "name": "Metropolitan City of Rome",
-      "isoCode": "RM",
-      "countryCode": "IT",
-      "latitude": "41.90270080",
-      "longitude": "12.49623520"
-   },
-   {
-      "name": "Province of Rimini",
+      "name": "Rimini",
       "isoCode": "RN",
       "countryCode": "IT",
       "latitude": "44.06782880",
       "longitude": "12.56951580"
    },
    {
-      "name": "Province of Rovigo",
+      "name": "Rome",
+      "isoCode": "RM",
+      "countryCode": "IT",
+      "latitude": "41.89277000",
+      "longitude": "12.48366000"
+   },
+   {
+      "name": "Rovigo",
       "isoCode": "RO",
       "countryCode": "IT",
-      "latitude": "45.02418180",
-      "longitude": "11.82381620"
+      "latitude": "45.06981660",
+      "longitude": "11.78882000"
    },
    {
-      "name": "Province of Salerno",
+      "name": "Salerno",
       "isoCode": "SA",
       "countryCode": "IT",
-      "latitude": "40.42878320",
-      "longitude": "15.21948080"
+      "latitude": "40.41944160",
+      "longitude": "15.31060850"
    },
    {
-      "name": "Province of Siena",
+      "name": "Sardinia",
+      "isoCode": "88",
+      "countryCode": "IT",
+      "latitude": "40.09128130",
+      "longitude": "9.03057730"
+   },
+   {
+      "name": "Sassari",
+      "isoCode": "SS",
+      "countryCode": "IT",
+      "latitude": "40.72347460",
+      "longitude": "8.56126740"
+   },
+   {
+      "name": "Savona",
+      "isoCode": "SV",
+      "countryCode": "IT",
+      "latitude": "44.23342380",
+      "longitude": "8.25257270"
+   },
+   {
+      "name": "Sicily",
+      "isoCode": "82",
+      "countryCode": "IT",
+      "latitude": "37.58779400",
+      "longitude": "14.15504800"
+   },
+   {
+      "name": "Siena",
       "isoCode": "SI",
       "countryCode": "IT",
-      "latitude": "43.29377320",
-      "longitude": "11.43391480"
+      "latitude": "43.31855360",
+      "longitude": "11.33165330"
    },
    {
-      "name": "Province of Sondrio",
-      "isoCode": "SO",
-      "countryCode": "IT",
-      "latitude": "46.17276360",
-      "longitude": "9.79949170"
-   },
-   {
-      "name": "Province of La Spezia",
-      "isoCode": "SP",
-      "countryCode": "IT",
-      "latitude": "44.24479130",
-      "longitude": "9.76786870"
-   },
-   {
-      "name": "Libero consorzio comunale di Siracusa",
+      "name": "Siracusa",
       "isoCode": "SR",
       "countryCode": "IT",
       "latitude": "37.06569240",
       "longitude": "15.28571090"
    },
    {
-      "name": "Province of Sassari",
-      "isoCode": "SS",
+      "name": "Sondrio",
+      "isoCode": "SO",
       "countryCode": "IT",
-      "latitude": "40.79679070",
-      "longitude": "8.57504070"
+      "latitude": "46.17135530",
+      "longitude": "9.87342740"
    },
    {
-      "name": "Province of Savona",
-      "isoCode": "SV",
+      "name": "South Sardinia",
+      "isoCode": "SU",
       "countryCode": "IT",
-      "latitude": "44.28879950",
-      "longitude": "8.26505800"
+      "latitude": "39.38935350",
+      "longitude": "8.93970000"
    },
    {
-      "name": "Province of Taranto",
+      "name": "South Tyrol",
+      "isoCode": "BZ",
+      "countryCode": "IT",
+      "latitude": "46.49933500",
+      "longitude": "11.35662200"
+   },
+   {
+      "name": "Taranto",
       "isoCode": "TA",
       "countryCode": "IT",
-      "latitude": "40.57409010",
-      "longitude": "17.24299760"
+      "latitude": "40.47124270",
+      "longitude": "17.24322780"
    },
    {
-      "name": "Province of Teramo",
+      "name": "Teramo",
       "isoCode": "TE",
       "countryCode": "IT",
-      "latitude": "42.58956080",
-      "longitude": "13.63627150"
+      "latitude": "42.65811790",
+      "longitude": "13.69787460"
    },
    {
-      "name": "Trentino",
-      "isoCode": "TN",
+      "name": "Terni",
+      "isoCode": "TR",
       "countryCode": "IT",
-      "latitude": "46.05120040",
-      "longitude": "11.11753920"
+      "latitude": "42.56414170",
+      "longitude": "12.64054660"
    },
    {
-      "name": "Metropolitan City of Turin",
-      "isoCode": "TO",
-      "countryCode": "IT",
-      "latitude": "45.06329900",
-      "longitude": "7.66928900"
-   },
-   {
-      "name": "Libero consorzio comunale di Trapani",
+      "name": "Trapani",
       "isoCode": "TP",
       "countryCode": "IT",
       "latitude": "38.01831160",
       "longitude": "12.51482650"
    },
    {
-      "name": "Province of Terni",
-      "isoCode": "TR",
+      "name": "Trentino",
+      "isoCode": "TN",
       "countryCode": "IT",
-      "latitude": "42.56345340",
-      "longitude": "12.52980280"
+      "latitude": "46.06787800",
+      "longitude": "11.12108300"
    },
    {
-      "name": "Province of Trieste",
-      "isoCode": "TS",
+      "name": "Trentino-South Tyrol",
+      "isoCode": "32",
       "countryCode": "IT",
-      "latitude": "45.68948230",
-      "longitude": "13.78330720"
+      "latitude": "46.49959340",
+      "longitude": "11.35530150"
    },
    {
-      "name": "Province of Treviso",
+      "name": "Treviso",
       "isoCode": "TV",
       "countryCode": "IT",
       "latitude": "45.66685170",
       "longitude": "12.24306170"
    },
    {
-      "name": "Province of Udine",
+      "name": "Trieste",
+      "isoCode": "TS",
+      "countryCode": "IT",
+      "latitude": "45.68948230",
+      "longitude": "13.78330720"
+   },
+   {
+      "name": "Turin",
+      "isoCode": "TO",
+      "countryCode": "IT",
+      "latitude": "45.07049600",
+      "longitude": "7.68682200"
+   },
+   {
+      "name": "Tuscany",
+      "isoCode": "52",
+      "countryCode": "IT",
+      "latitude": "43.45865410",
+      "longitude": "11.13892040"
+   },
+   {
+      "name": "Udine",
       "isoCode": "UD",
       "countryCode": "IT",
-      "latitude": "46.14079720",
-      "longitude": "13.16628960"
+      "latitude": "46.14594800",
+      "longitude": "13.29743030"
    },
    {
-      "name": "Province of Varese",
+      "name": "Umbria",
+      "isoCode": "55",
+      "countryCode": "IT",
+      "latitude": "42.96591600",
+      "longitude": "12.49023600"
+   },
+   {
+      "name": "Varese",
       "isoCode": "VA",
       "countryCode": "IT",
-      "latitude": "45.79902600",
-      "longitude": "8.73009450"
+      "latitude": "45.83972030",
+      "longitude": "8.75413380"
    },
    {
-      "name": "Province of Verbano-Cusio-Ossola",
+      "name": "Veneto",
+      "isoCode": "34",
+      "countryCode": "IT",
+      "latitude": "45.64766630",
+      "longitude": "11.86652540"
+   },
+   {
+      "name": "Venice",
+      "isoCode": "VE",
+      "countryCode": "IT",
+      "latitude": "45.43409700",
+      "longitude": "12.33890600"
+   },
+   {
+      "name": "Verbano-Cusio-Ossola",
       "isoCode": "VB",
       "countryCode": "IT",
-      "latitude": "46.13996880",
-      "longitude": "8.27246490"
+      "latitude": "46.11557550",
+      "longitude": "8.38359670"
    },
    {
-      "name": "Province of Vercelli",
+      "name": "Vercelli",
       "isoCode": "VC",
       "countryCode": "IT",
       "latitude": "45.32022040",
       "longitude": "8.41850800"
    },
    {
-      "name": "Metropolitan City of Venice",
-      "isoCode": "VE",
-      "countryCode": "IT",
-      "latitude": "45.44146850",
-      "longitude": "12.31526720"
-   },
-   {
-      "name": "Province of Vicenza",
-      "isoCode": "VI",
-      "countryCode": "IT",
-      "latitude": "45.69839950",
-      "longitude": "11.56614650"
-   },
-   {
-      "name": "Province of Verona",
+      "name": "Verona",
       "isoCode": "VR",
       "countryCode": "IT",
-      "latitude": "45.44184980",
-      "longitude": "11.07353160"
+      "latitude": "45.43849580",
+      "longitude": "10.99241220"
    },
    {
-      "name": "Province of Medio Campidano",
-      "isoCode": "VS",
-      "countryCode": "IT",
-      "latitude": "39.53173890",
-      "longitude": "8.70407500"
-   },
-   {
-      "name": "Province of Viterbo",
-      "isoCode": "VT",
-      "countryCode": "IT",
-      "latitude": "42.40024200",
-      "longitude": "11.88917210"
-   },
-   {
-      "name": "Province of Vibo Valentia",
+      "name": "Vibo Valentia",
       "isoCode": "VV",
       "countryCode": "IT",
-      "latitude": "38.63785650",
-      "longitude": "16.20514840"
+      "latitude": "38.62665560",
+      "longitude": "16.09869350"
+   },
+   {
+      "name": "Vicenza",
+      "isoCode": "VI",
+      "countryCode": "IT",
+      "latitude": "45.63485910",
+      "longitude": "11.40635430"
+   },
+   {
+      "name": "Viterbo",
+      "isoCode": "VT",
+      "countryCode": "IT",
+      "latitude": "42.49295220",
+      "longitude": "11.94881360"
    },
    {
       "name": "Kingston Parish",
