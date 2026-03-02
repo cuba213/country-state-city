@@ -8747,169 +8747,225 @@
       "name": "Ain",
       "isoCode": "01",
       "countryCode": "FR",
-      "latitude": "46.06508600",
-      "longitude": "4.88861500"
+      "latitude": "46.06523850",
+      "longitude": "5.28477170"
    },
    {
       "name": "Aisne",
       "isoCode": "02",
       "countryCode": "FR",
-      "latitude": "49.45289210",
-      "longitude": "3.04651110"
+      "latitude": "49.45328540",
+      "longitude": "3.60689900"
    },
    {
       "name": "Allier",
       "isoCode": "03",
       "countryCode": "FR",
-      "latitude": "46.36708630",
-      "longitude": "2.58082770"
+      "latitude": "46.36746410",
+      "longitude": "3.16388280"
    },
    {
       "name": "Alpes-de-Haute-Provence",
       "isoCode": "04",
       "countryCode": "FR",
-      "latitude": "44.16377520",
-      "longitude": "5.67247800"
-   },
-   {
-      "name": "Hautes-Alpes",
-      "isoCode": "05",
-      "countryCode": "FR",
-      "latitude": "44.65626820",
-      "longitude": "5.68732110"
+      "latitude": "44.16408320",
+      "longitude": "6.18785150"
    },
    {
       "name": "Alpes-Maritimes",
       "isoCode": "06",
       "countryCode": "FR",
-      "latitude": "43.92041700",
-      "longitude": "6.61678220"
+      "latitude": "43.94199960",
+      "longitude": "7.02026550"
+   },
+   {
+      "name": "Alsace",
+      "isoCode": "6AE",
+      "countryCode": "FR",
+      "latitude": "48.00987120",
+      "longitude": "7.58750210"
    },
    {
       "name": "Ardèche",
       "isoCode": "07",
       "countryCode": "FR",
-      "latitude": "44.81486950",
-      "longitude": "3.81334830"
+      "latitude": "44.81519400",
+      "longitude": "4.39865250"
    },
    {
       "name": "Ardennes",
       "isoCode": "08",
       "countryCode": "FR",
-      "latitude": "49.69759510",
-      "longitude": "4.14895760"
+      "latitude": "49.69801170",
+      "longitude": "4.67160050"
    },
    {
       "name": "Ariège",
       "isoCode": "09",
       "countryCode": "FR",
-      "latitude": "42.94347830",
-      "longitude": "0.94048640"
+      "latitude": "42.94553680",
+      "longitude": "1.40655440"
    },
    {
       "name": "Aube",
       "isoCode": "10",
       "countryCode": "FR",
-      "latitude": "48.31975470",
-      "longitude": "3.56371040"
+      "latitude": "48.32019210",
+      "longitude": "4.19053970"
    },
    {
       "name": "Aude",
       "isoCode": "11",
       "countryCode": "FR",
-      "latitude": "43.05411400",
-      "longitude": "1.90384760"
+      "latitude": "43.05427330",
+      "longitude": "2.51247150"
+   },
+   {
+      "name": "Auvergne-Rhône-Alpes",
+      "isoCode": "ARA",
+      "countryCode": "FR",
+      "latitude": "45.29681190",
+      "longitude": "4.66048090"
    },
    {
       "name": "Aveyron",
       "isoCode": "12",
       "countryCode": "FR",
-      "latitude": "44.31563620",
-      "longitude": "2.08523790"
+      "latitude": "44.31585740",
+      "longitude": "2.50656970"
+   },
+   {
+      "name": "Bas-Rhin",
+      "isoCode": "67",
+      "countryCode": "FR",
+      "latitude": "48.59917830",
+      "longitude": "7.53367290"
    },
    {
       "name": "Bouches-du-Rhône",
       "isoCode": "13",
       "countryCode": "FR",
-      "latitude": "43.54038650",
-      "longitude": "4.46138290"
+      "latitude": "43.54241820",
+      "longitude": "5.03432360"
+   },
+   {
+      "name": "Bourgogne-Franche-Comté",
+      "isoCode": "BFC",
+      "countryCode": "FR",
+      "latitude": "47.11871100",
+      "longitude": "4.96910440"
+   },
+   {
+      "name": "Bretagne",
+      "isoCode": "BRE",
+      "countryCode": "FR",
+      "latitude": "48.26408450",
+      "longitude": "-2.92024080"
    },
    {
       "name": "Calvados",
       "isoCode": "14",
       "countryCode": "FR",
-      "latitude": "49.09035140",
-      "longitude": "-0.91706480"
+      "latitude": "49.09076480",
+      "longitude": "-0.24139510"
    },
    {
       "name": "Cantal",
       "isoCode": "15",
       "countryCode": "FR",
-      "latitude": "45.04921770",
-      "longitude": "2.15672720"
+      "latitude": "45.04977010",
+      "longitude": "2.69971760"
+   },
+   {
+      "name": "Centre-Val de Loire",
+      "isoCode": "CVL",
+      "countryCode": "FR",
+      "latitude": "47.54902510",
+      "longitude": "1.73240620"
    },
    {
       "name": "Charente",
       "isoCode": "16",
       "countryCode": "FR",
-      "latitude": "45.66584790",
-      "longitude": "-0.31845770"
+      "latitude": "45.73022670",
+      "longitude": "-0.72128760"
    },
    {
       "name": "Charente-Maritime",
       "isoCode": "17",
       "countryCode": "FR",
-      "latitude": "45.72968280",
-      "longitude": "-1.33881160"
+      "latitude": "45.73022670",
+      "longitude": "-0.72128760"
    },
    {
       "name": "Cher",
       "isoCode": "18",
       "countryCode": "FR",
-      "latitude": "47.02436280",
-      "longitude": "1.86627320"
+      "latitude": "47.02488240",
+      "longitude": "2.57533340"
+   },
+   {
+      "name": "Clipperton",
+      "isoCode": "CP",
+      "countryCode": "FR",
+      "latitude": "10.30212870",
+      "longitude": "-109.21783500"
    },
    {
       "name": "Corrèze",
       "isoCode": "19",
       "countryCode": "FR",
-      "latitude": "45.34237070",
-      "longitude": "1.31717330"
+      "latitude": "45.34290470",
+      "longitude": "1.81764240"
    },
    {
       "name": "Corse",
       "isoCode": "20R",
       "countryCode": "FR",
-      "latitude": "42.03960420",
-      "longitude": "9.01289260"
+      "latitude": "42.18808960",
+      "longitude": "9.06841380"
+   },
+   {
+      "name": "Corse-du-Sud",
+      "isoCode": "2A",
+      "countryCode": "FR",
+      "latitude": "41.87340830",
+      "longitude": "9.00870520"
    },
    {
       "name": "Côte-d'Or",
       "isoCode": "21",
       "countryCode": "FR",
-      "latitude": "47.46513020",
-      "longitude": "4.23154950"
+      "latitude": "47.46550340",
+      "longitude": "4.74812230"
    },
    {
       "name": "Côtes-d'Armor",
       "isoCode": "22",
       "countryCode": "FR",
-      "latitude": "48.46633360",
-      "longitude": "-3.34789610"
+      "latitude": "48.46148770",
+      "longitude": "-2.75143280"
    },
    {
       "name": "Creuse",
       "isoCode": "23",
       "countryCode": "FR",
-      "latitude": "46.05903940",
-      "longitude": "1.43150500"
+      "latitude": "46.05934850",
+      "longitude": "2.04890100"
+   },
+   {
+      "name": "Deux-Sèvres",
+      "isoCode": "79",
+      "countryCode": "FR",
+      "latitude": "46.53914000",
+      "longitude": "-0.29947850"
    },
    {
       "name": "Dordogne",
       "isoCode": "24",
       "countryCode": "FR",
-      "latitude": "45.14234160",
-      "longitude": "0.14274080"
+      "latitude": "45.14291980",
+      "longitude": "0.63212580"
    },
    {
       "name": "Doubs",
@@ -8922,372 +8978,421 @@
       "name": "Drôme",
       "isoCode": "26",
       "countryCode": "FR",
-      "latitude": "44.72933570",
-      "longitude": "4.67821580"
+      "latitude": "44.72953470",
+      "longitude": "5.20463720"
+   },
+   {
+      "name": "Essonne",
+      "isoCode": "91",
+      "countryCode": "FR",
+      "latitude": "48.53034020",
+      "longitude": "2.23929180"
    },
    {
       "name": "Eure",
       "isoCode": "27",
       "countryCode": "FR",
-      "latitude": "49.07540350",
-      "longitude": "0.48937320"
+      "latitude": "49.07563580",
+      "longitude": "0.96518290"
    },
    {
       "name": "Eure-et-Loir",
       "isoCode": "28",
       "countryCode": "FR",
-      "latitude": "48.44697840",
-      "longitude": "0.81470250"
+      "latitude": "48.44741020",
+      "longitude": "1.39988200"
    },
    {
       "name": "Finistère",
       "isoCode": "29",
       "countryCode": "FR",
-      "latitude": "48.22696100",
-      "longitude": "-4.82437330"
+      "latitude": "48.24511520",
+      "longitude": "-4.04409020"
    },
    {
-      "name": "Corse-du-Sud",
-      "isoCode": "2A",
+      "name": "French Guiana",
+      "isoCode": "973",
       "countryCode": "FR",
-      "latitude": "41.85720550",
-      "longitude": "8.41091830"
+      "latitude": "4.00398820",
+      "longitude": "-52.99999800"
    },
    {
-      "name": "Haute-Corse",
-      "isoCode": "2B",
+      "name": "French Polynesia",
+      "isoCode": "PF",
       "countryCode": "FR",
-      "latitude": "42.42958660",
-      "longitude": "8.50625610"
+      "latitude": "-17.02437490",
+      "longitude": "-144.64348980"
+   },
+   {
+      "name": "French Southern and Antarctic Lands",
+      "isoCode": "TF",
+      "countryCode": "FR",
+      "latitude": "-49.23744200",
+      "longitude": "69.62275900"
    },
    {
       "name": "Gard",
       "isoCode": "30",
       "countryCode": "FR",
-      "latitude": "43.95952760",
-      "longitude": "3.49356810"
-   },
-   {
-      "name": "Haute-Garonne",
-      "isoCode": "31",
-      "countryCode": "FR",
-      "latitude": "43.30505550",
-      "longitude": "0.68455150"
+      "latitude": "43.95995000",
+      "longitude": "4.29763700"
    },
    {
       "name": "Gers",
       "isoCode": "32",
       "countryCode": "FR",
-      "latitude": "43.69505340",
-      "longitude": "-0.09997280"
+      "latitude": "43.69552760",
+      "longitude": "0.41010190"
    },
    {
       "name": "Gironde",
       "isoCode": "33",
       "countryCode": "FR",
-      "latitude": "44.89584690",
-      "longitude": "-1.59405320"
+      "latitude": "44.88374600",
+      "longitude": "-0.60512640"
    },
    {
-      "name": "Hérault",
-      "isoCode": "34",
+      "name": "Grand-Est",
+      "isoCode": "GES",
       "countryCode": "FR",
-      "latitude": "43.59111200",
-      "longitude": "2.80661080"
+      "latitude": "48.48451570",
+      "longitude": "6.11303500"
    },
    {
-      "name": "Ille-et-Vilaine",
-      "isoCode": "35",
+      "name": "Guadeloupe",
+      "isoCode": "971",
       "countryCode": "FR",
-      "latitude": "48.17624840",
-      "longitude": "-2.21304010"
-   },
-   {
-      "name": "Indre",
-      "isoCode": "36",
-      "countryCode": "FR",
-      "latitude": "46.81175500",
-      "longitude": "0.97555230"
-   },
-   {
-      "name": "Indre-et-Loire",
-      "isoCode": "37",
-      "countryCode": "FR",
-      "latitude": "47.22285820",
-      "longitude": "0.14896190"
-   },
-   {
-      "name": "Isère",
-      "isoCode": "38",
-      "countryCode": "FR",
-      "latitude": "45.28922710",
-      "longitude": "4.99023550"
-   },
-   {
-      "name": "Jura",
-      "isoCode": "39",
-      "countryCode": "FR",
-      "latitude": "46.78287410",
-      "longitude": "5.16918440"
-   },
-   {
-      "name": "Landes",
-      "isoCode": "40",
-      "countryCode": "FR",
-      "latitude": "44.00950800",
-      "longitude": "-1.25385790"
-   },
-   {
-      "name": "Loir-et-Cher",
-      "isoCode": "41",
-      "countryCode": "FR",
-      "latitude": "47.65937600",
-      "longitude": "0.85376310"
-   },
-   {
-      "name": "Loire",
-      "isoCode": "42",
-      "countryCode": "FR",
-      "latitude": "46.35228120",
-      "longitude": "-1.17563390"
-   },
-   {
-      "name": "Haute-Loire",
-      "isoCode": "43",
-      "countryCode": "FR",
-      "latitude": "45.08538060",
-      "longitude": "3.22607070"
-   },
-   {
-      "name": "Loire-Atlantique",
-      "isoCode": "44",
-      "countryCode": "FR",
-      "latitude": "47.34757210",
-      "longitude": "-2.34663120"
-   },
-   {
-      "name": "Loiret",
-      "isoCode": "45",
-      "countryCode": "FR",
-      "latitude": "47.91354310",
-      "longitude": "1.76009900"
-   },
-   {
-      "name": "Lot",
-      "isoCode": "46",
-      "countryCode": "FR",
-      "latitude": "44.62460700",
-      "longitude": "1.03576310"
-   },
-   {
-      "name": "Lot-et-Garonne",
-      "isoCode": "47",
-      "countryCode": "FR",
-      "latitude": "44.36873140",
-      "longitude": "-0.09161690"
-   },
-   {
-      "name": "Lozère",
-      "isoCode": "48",
-      "countryCode": "FR",
-      "latitude": "44.54227790",
-      "longitude": "2.92934590"
-   },
-   {
-      "name": "Maine-et-Loire",
-      "isoCode": "49",
-      "countryCode": "FR",
-      "latitude": "47.38900340",
-      "longitude": "-1.12025270"
-   },
-   {
-      "name": "Manche",
-      "isoCode": "50",
-      "countryCode": "FR",
-      "latitude": "49.08817340",
-      "longitude": "-2.46272090"
-   },
-   {
-      "name": "Marne",
-      "isoCode": "51",
-      "countryCode": "FR",
-      "latitude": "48.96107450",
-      "longitude": "3.65737670"
-   },
-   {
-      "name": "Haute-Marne",
-      "isoCode": "52",
-      "countryCode": "FR",
-      "latitude": "48.13248210",
-      "longitude": "4.69834990"
-   },
-   {
-      "name": "Mayenne",
-      "isoCode": "53",
-      "countryCode": "FR",
-      "latitude": "48.30668420",
-      "longitude": "-0.64901820"
-   },
-   {
-      "name": "Meurthe-et-Moselle",
-      "isoCode": "54",
-      "countryCode": "FR",
-      "latitude": "48.95566150",
-      "longitude": "5.71423500"
-   },
-   {
-      "name": "Meuse",
-      "isoCode": "55",
-      "countryCode": "FR",
-      "latitude": "49.01246200",
-      "longitude": "4.81087340"
-   },
-   {
-      "name": "Morbihan",
-      "isoCode": "56",
-      "countryCode": "FR",
-      "latitude": "47.74395180",
-      "longitude": "-3.44555240"
-   },
-   {
-      "name": "Moselle",
-      "isoCode": "57",
-      "countryCode": "FR",
-      "latitude": "49.02045660",
-      "longitude": "6.20553220"
-   },
-   {
-      "name": "Nièvre",
-      "isoCode": "58",
-      "countryCode": "FR",
-      "latitude": "47.11921640",
-      "longitude": "2.97797130"
-   },
-   {
-      "name": "Nord",
-      "isoCode": "59",
-      "countryCode": "FR",
-      "latitude": "50.52854770",
-      "longitude": "2.60007760"
-   },
-   {
-      "name": "Oise",
-      "isoCode": "60",
-      "countryCode": "FR",
-      "latitude": "49.41173350",
-      "longitude": "1.86688250"
-   },
-   {
-      "name": "Orne",
-      "isoCode": "61",
-      "countryCode": "FR",
-      "latitude": "48.57576440",
-      "longitude": "-0.50242950"
-   },
-   {
-      "name": "Pas-de-Calais",
-      "isoCode": "62",
-      "countryCode": "FR",
-      "latitude": "50.51446990",
-      "longitude": "1.81149800"
-   },
-   {
-      "name": "Puy-de-Dôme",
-      "isoCode": "63",
-      "countryCode": "FR",
-      "latitude": "45.77141850",
-      "longitude": "2.62626760"
-   },
-   {
-      "name": "Pyrénées-Atlantiques",
-      "isoCode": "64",
-      "countryCode": "FR",
-      "latitude": "43.18681700",
-      "longitude": "-1.44170710"
-   },
-   {
-      "name": "Hautes-Pyrénées",
-      "isoCode": "65",
-      "countryCode": "FR",
-      "latitude": "43.14294620",
-      "longitude": "-0.40097360"
-   },
-   {
-      "name": "Pyrénées-Orientales",
-      "isoCode": "66",
-      "countryCode": "FR",
-      "latitude": "42.62541790",
-      "longitude": "1.88929580"
-   },
-   {
-      "name": "Bas-Rhin",
-      "isoCode": "67",
-      "countryCode": "FR",
-      "latitude": "48.59864440",
-      "longitude": "7.02666760"
+      "latitude": "16.25288270",
+      "longitude": "-61.56868550"
    },
    {
       "name": "Haut-Rhin",
       "isoCode": "68",
       "countryCode": "FR",
-      "latitude": "47.86537740",
-      "longitude": "6.67113810"
+      "latitude": "47.86547460",
+      "longitude": "7.23154330"
    },
    {
-      "name": "Rhône",
-      "isoCode": "69",
+      "name": "Haute-Corse",
+      "isoCode": "2B",
       "countryCode": "FR",
-      "latitude": "44.93433000",
-      "longitude": "4.24093290"
+      "latitude": "42.42196980",
+      "longitude": "9.10090650"
    },
    {
-      "name": "Métropole de Lyon",
-      "isoCode": "69M",
+      "name": "Haute-Garonne",
+      "isoCode": "31",
       "countryCode": "FR",
-      "latitude": "45.74826290",
-      "longitude": "4.59584040"
+      "latitude": "43.30545460",
+      "longitude": "0.97167920"
    },
    {
-      "name": "Alsace",
-      "isoCode": "6AE",
+      "name": "Haute-Loire",
+      "isoCode": "43",
       "countryCode": "FR",
-      "latitude": "48.31817950",
-      "longitude": "7.44162410"
+      "latitude": "45.08572490",
+      "longitude": "3.83382610"
+   },
+   {
+      "name": "Haute-Marne",
+      "isoCode": "52",
+      "countryCode": "FR",
+      "latitude": "48.13294140",
+      "longitude": "5.25291080"
    },
    {
       "name": "Haute-Saône",
       "isoCode": "70",
       "countryCode": "FR",
-      "latitude": "47.63789960",
-      "longitude": "5.53550550"
-   },
-   {
-      "name": "Saône-et-Loire",
-      "isoCode": "71",
-      "countryCode": "FR",
-      "latitude": "46.65548830",
-      "longitude": "3.98350500"
-   },
-   {
-      "name": "Sarthe",
-      "isoCode": "72",
-      "countryCode": "FR",
-      "latitude": "48.02627330",
-      "longitude": "-0.32613170"
-   },
-   {
-      "name": "Savoie",
-      "isoCode": "73",
-      "countryCode": "FR",
-      "latitude": "45.49469900",
-      "longitude": "5.84329840"
+      "latitude": "47.63842330",
+      "longitude": "6.09511410"
    },
    {
       "name": "Haute-Savoie",
       "isoCode": "74",
       "countryCode": "FR",
-      "latitude": "46.04452770",
-      "longitude": "5.86413800"
+      "latitude": "46.06904060",
+      "longitude": "6.34453210"
+   },
+   {
+      "name": "Haute-Vienne",
+      "isoCode": "87",
+      "countryCode": "FR",
+      "latitude": "45.91901920",
+      "longitude": "1.20317680"
+   },
+   {
+      "name": "Hautes-Alpes",
+      "isoCode": "05",
+      "countryCode": "FR",
+      "latitude": "44.65646660",
+      "longitude": "6.35202460"
+   },
+   {
+      "name": "Hautes-Pyrénées",
+      "isoCode": "65",
+      "countryCode": "FR",
+      "latitude": "43.14379250",
+      "longitude": "0.15866610"
+   },
+   {
+      "name": "Hauts-de-France",
+      "isoCode": "HDF",
+      "countryCode": "FR",
+      "latitude": "50.10246060",
+      "longitude": "2.72475150"
+   },
+   {
+      "name": "Hauts-de-Seine",
+      "isoCode": "92",
+      "countryCode": "FR",
+      "latitude": "48.84018590",
+      "longitude": "2.19863000"
+   },
+   {
+      "name": "Hérault",
+      "isoCode": "34",
+      "countryCode": "FR",
+      "latitude": "43.59142200",
+      "longitude": "3.35533090"
+   },
+   {
+      "name": "Île-de-France",
+      "isoCode": "IDF",
+      "countryCode": "FR",
+      "latitude": "48.64430570",
+      "longitude": "2.75378630"
+   },
+   {
+      "name": "Ille-et-Vilaine",
+      "isoCode": "35",
+      "countryCode": "FR",
+      "latitude": "48.17276810",
+      "longitude": "-1.64980920"
+   },
+   {
+      "name": "Indre",
+      "isoCode": "36",
+      "countryCode": "FR",
+      "latitude": "46.81210570",
+      "longitude": "1.53820520"
+   },
+   {
+      "name": "Indre-et-Loire",
+      "isoCode": "37",
+      "countryCode": "FR",
+      "latitude": "47.22320460",
+      "longitude": "0.68667030"
+   },
+   {
+      "name": "Isère",
+      "isoCode": "38",
+      "countryCode": "FR",
+      "latitude": "45.28979320",
+      "longitude": "5.63438250"
+   },
+   {
+      "name": "Jura",
+      "isoCode": "39",
+      "countryCode": "FR",
+      "latitude": "46.78336250",
+      "longitude": "5.78328570"
+   },
+   {
+      "name": "La Réunion",
+      "isoCode": "974",
+      "countryCode": "FR",
+      "latitude": "-21.13073790",
+      "longitude": "55.53648010"
+   },
+   {
+      "name": "Landes",
+      "isoCode": "40",
+      "countryCode": "FR",
+      "latitude": "44.00996940",
+      "longitude": "-0.64338720"
+   },
+   {
+      "name": "Loir-et-Cher",
+      "isoCode": "41",
+      "countryCode": "FR",
+      "latitude": "47.65977520",
+      "longitude": "1.29718350"
+   },
+   {
+      "name": "Loire",
+      "isoCode": "42",
+      "countryCode": "FR",
+      "latitude": "47.61507310",
+      "longitude": "-0.97843910"
+   },
+   {
+      "name": "Loire-Atlantique",
+      "isoCode": "44",
+      "countryCode": "FR",
+      "latitude": "47.34816140",
+      "longitude": "-1.87274610"
+   },
+   {
+      "name": "Loiret",
+      "isoCode": "45",
+      "countryCode": "FR",
+      "latitude": "47.91387240",
+      "longitude": "2.30750360"
+   },
+   {
+      "name": "Lot",
+      "isoCode": "46",
+      "countryCode": "FR",
+      "latitude": "44.62499180",
+      "longitude": "1.66577420"
+   },
+   {
+      "name": "Lot-et-Garonne",
+      "isoCode": "47",
+      "countryCode": "FR",
+      "latitude": "44.36917030",
+      "longitude": "0.45391580"
+   },
+   {
+      "name": "Lozère",
+      "isoCode": "48",
+      "countryCode": "FR",
+      "latitude": "44.54257060",
+      "longitude": "3.52111460"
+   },
+   {
+      "name": "Maine-et-Loire",
+      "isoCode": "49",
+      "countryCode": "FR",
+      "latitude": "47.38863050",
+      "longitude": "-0.39090970"
+   },
+   {
+      "name": "Manche",
+      "isoCode": "50",
+      "countryCode": "FR",
+      "latitude": "49.09189520",
+      "longitude": "-1.24549520"
+   },
+   {
+      "name": "Marne",
+      "isoCode": "51",
+      "countryCode": "FR",
+      "latitude": "48.96126400",
+      "longitude": "4.31224360"
+   },
+   {
+      "name": "Martinique",
+      "isoCode": "972",
+      "countryCode": "FR",
+      "latitude": "14.63679270",
+      "longitude": "-61.01582690"
+   },
+   {
+      "name": "Mayenne",
+      "isoCode": "53",
+      "countryCode": "FR",
+      "latitude": "48.30442180",
+      "longitude": "-0.61798710"
+   },
+   {
+      "name": "Mayotte",
+      "isoCode": "976",
+      "countryCode": "FR",
+      "latitude": "-12.82304800",
+      "longitude": "45.15207550"
+   },
+   {
+      "name": "Métropole de Lyon",
+      "isoCode": "69M",
+      "countryCode": "FR",
+      "latitude": "45.74816160",
+      "longitude": "4.85568590"
+   },
+   {
+      "name": "Meurthe-et-Moselle",
+      "isoCode": "54",
+      "countryCode": "FR",
+      "latitude": "48.95596820",
+      "longitude": "5.98703830"
+   },
+   {
+      "name": "Meuse",
+      "isoCode": "55",
+      "countryCode": "FR",
+      "latitude": "49.01296850",
+      "longitude": "5.42866910"
+   },
+   {
+      "name": "Morbihan",
+      "isoCode": "56",
+      "countryCode": "FR",
+      "latitude": "47.82598120",
+      "longitude": "-2.76334930"
+   },
+   {
+      "name": "Moselle",
+      "isoCode": "57",
+      "countryCode": "FR",
+      "latitude": "49.02072590",
+      "longitude": "6.53803520"
+   },
+   {
+      "name": "Nièvre",
+      "isoCode": "58",
+      "countryCode": "FR",
+      "latitude": "47.11969710",
+      "longitude": "3.54488980"
+   },
+   {
+      "name": "Nord",
+      "isoCode": "59",
+      "countryCode": "FR",
+      "latitude": "50.52896150",
+      "longitude": "3.08835080"
+   },
+   {
+      "name": "Normandie",
+      "isoCode": "NOR",
+      "countryCode": "FR",
+      "latitude": "49.06777080",
+      "longitude": "0.31385320"
+   },
+   {
+      "name": "Nouvelle-Aquitaine",
+      "isoCode": "NAQ",
+      "countryCode": "FR",
+      "latitude": "45.40393670",
+      "longitude": "0.37561990"
+   },
+   {
+      "name": "Nouvelle-Calédonie",
+      "isoCode": "NC",
+      "countryCode": "FR",
+      "latitude": "-21.25000000",
+      "longitude": "165.30000000"
+   },
+   {
+      "name": "Occitanie",
+      "isoCode": "OCC",
+      "countryCode": "FR",
+      "latitude": "43.64878510",
+      "longitude": "2.34356840"
+   },
+   {
+      "name": "Oise",
+      "isoCode": "60",
+      "countryCode": "FR",
+      "latitude": "49.41205460",
+      "longitude": "2.40648780"
+   },
+   {
+      "name": "Orne",
+      "isoCode": "61",
+      "countryCode": "FR",
+      "latitude": "48.57588800",
+      "longitude": "0.04487940"
    },
    {
       "name": "Paris",
@@ -9297,193 +9402,60 @@
       "longitude": "2.35222190"
    },
    {
-      "name": "Seine-Maritime",
-      "isoCode": "76",
+      "name": "Pas-de-Calais",
+      "isoCode": "62",
       "countryCode": "FR",
-      "latitude": "49.66096810",
-      "longitude": "0.36775610"
+      "latitude": "50.51440610",
+      "longitude": "2.25800780"
    },
    {
-      "name": "Seine-et-Marne",
-      "isoCode": "77",
+      "name": "Pays-de-la-Loire",
+      "isoCode": "PDL",
       "countryCode": "FR",
-      "latitude": "48.61853940",
-      "longitude": "2.41525610"
+      "latitude": "47.65948640",
+      "longitude": "-0.81861430"
    },
    {
-      "name": "Yvelines",
-      "isoCode": "78",
+      "name": "Provence-Alpes-Côte-d’Azur",
+      "isoCode": "PAC",
       "countryCode": "FR",
-      "latitude": "48.76153010",
-      "longitude": "1.27729490"
+      "latitude": "44.05805630",
+      "longitude": "6.06385060"
    },
    {
-      "name": "Deux-Sèvres",
-      "isoCode": "79",
+      "name": "Puy-de-Dôme",
+      "isoCode": "63",
       "countryCode": "FR",
-      "latitude": "46.53868170",
-      "longitude": "-0.90199480"
+      "latitude": "45.77264940",
+      "longitude": "2.96440700"
    },
    {
-      "name": "Somme",
-      "isoCode": "80",
+      "name": "Pyrénées-Atlantiques",
+      "isoCode": "64",
       "countryCode": "FR",
-      "latitude": "49.96859220",
-      "longitude": "1.73106960"
+      "latitude": "43.18718650",
+      "longitude": "-0.72824740"
    },
    {
-      "name": "Tarn",
-      "isoCode": "81",
+      "name": "Pyrénées-Orientales",
+      "isoCode": "66",
       "countryCode": "FR",
-      "latitude": "43.79149770",
-      "longitude": "1.67588930"
+      "latitude": "42.62589400",
+      "longitude": "2.50650900"
    },
    {
-      "name": "Tarn-et-Garonne",
-      "isoCode": "82",
+      "name": "Rhône",
+      "isoCode": "69",
       "countryCode": "FR",
-      "latitude": "44.08089500",
-      "longitude": "1.08916570"
+      "latitude": "45.88023480",
+      "longitude": "4.56453360"
    },
    {
-      "name": "Var",
-      "isoCode": "83",
+      "name": "Saint Pierre and Miquelon",
+      "isoCode": "PM",
       "countryCode": "FR",
-      "latitude": "43.39507300",
-      "longitude": "5.73424170"
-   },
-   {
-      "name": "Vaucluse",
-      "isoCode": "84",
-      "countryCode": "FR",
-      "latitude": "44.04475000",
-      "longitude": "4.64277180"
-   },
-   {
-      "name": "Vendée",
-      "isoCode": "85",
-      "countryCode": "FR",
-      "latitude": "46.67541030",
-      "longitude": "-2.02983920"
-   },
-   {
-      "name": "Vienne",
-      "isoCode": "86",
-      "countryCode": "FR",
-      "latitude": "45.52213140",
-      "longitude": "4.84531360"
-   },
-   {
-      "name": "Haute-Vienne",
-      "isoCode": "87",
-      "countryCode": "FR",
-      "latitude": "45.91868780",
-      "longitude": "0.70972060"
-   },
-   {
-      "name": "Vosges",
-      "isoCode": "88",
-      "countryCode": "FR",
-      "latitude": "48.16301730",
-      "longitude": "5.73556000"
-   },
-   {
-      "name": "Yonne",
-      "isoCode": "89",
-      "countryCode": "FR",
-      "latitude": "47.85476140",
-      "longitude": "3.03394040"
-   },
-   {
-      "name": "Territoire de Belfort",
-      "isoCode": "90",
-      "countryCode": "FR",
-      "latitude": "47.62930720",
-      "longitude": "6.66962000"
-   },
-   {
-      "name": "Essonne",
-      "isoCode": "91",
-      "countryCode": "FR",
-      "latitude": "48.53046150",
-      "longitude": "1.96990560"
-   },
-   {
-      "name": "Hauts-de-Seine",
-      "isoCode": "92",
-      "countryCode": "FR",
-      "latitude": "48.84030080",
-      "longitude": "2.10125590"
-   },
-   {
-      "name": "Seine-Saint-Denis",
-      "isoCode": "93",
-      "countryCode": "FR",
-      "latitude": "48.90993180",
-      "longitude": "2.30573790"
-   },
-   {
-      "name": "Val-de-Marne",
-      "isoCode": "94",
-      "countryCode": "FR",
-      "latitude": "48.77470040",
-      "longitude": "2.32210390"
-   },
-   {
-      "name": "Val-d'Oise",
-      "isoCode": "95",
-      "countryCode": "FR",
-      "latitude": "49.07518180",
-      "longitude": "1.82169140"
-   },
-   {
-      "name": "Guadeloupe",
-      "isoCode": "971",
-      "countryCode": "FR",
-      "latitude": "16.26500000",
-      "longitude": "-61.55100000"
-   },
-   {
-      "name": "Martinique",
-      "isoCode": "972",
-      "countryCode": "FR",
-      "latitude": "14.64152800",
-      "longitude": "-61.02417400"
-   },
-   {
-      "name": "French Guiana",
-      "isoCode": "973",
-      "countryCode": "FR",
-      "latitude": "3.93388900",
-      "longitude": "-53.12578200"
-   },
-   {
-      "name": "La Réunion",
-      "isoCode": "974",
-      "countryCode": "FR",
-      "latitude": "-21.11514100",
-      "longitude": "55.53638400"
-   },
-   {
-      "name": "Mayotte",
-      "isoCode": "976",
-      "countryCode": "FR",
-      "latitude": "-12.82750000",
-      "longitude": "45.16624400"
-   },
-   {
-      "name": "Auvergne-Rhône-Alpes",
-      "isoCode": "ARA",
-      "countryCode": "FR",
-      "latitude": "45.44714310",
-      "longitude": "4.38525070"
-   },
-   {
-      "name": "Bourgogne-Franche-Comté",
-      "isoCode": "BFC",
-      "countryCode": "FR",
-      "latitude": "47.28051270",
-      "longitude": "4.99943720"
+      "latitude": "46.83745440",
+      "longitude": "-56.21205550"
    },
    {
       "name": "Saint-Barthélemy",
@@ -9493,116 +9465,151 @@
       "longitude": "-62.82058710"
    },
    {
-      "name": "Bretagne",
-      "isoCode": "BRE",
-      "countryCode": "FR",
-      "latitude": "48.20204710",
-      "longitude": "-2.93264350"
-   },
-   {
-      "name": "Clipperton",
-      "isoCode": "CP",
-      "countryCode": "FR",
-      "latitude": "10.28335410",
-      "longitude": "-109.22542150"
-   },
-   {
-      "name": "Centre-Val de Loire",
-      "isoCode": "CVL",
-      "countryCode": "FR",
-      "latitude": "47.75156860",
-      "longitude": "1.67506310"
-   },
-   {
-      "name": "Grand-Est",
-      "isoCode": "GES",
-      "countryCode": "FR",
-      "latitude": "48.69980300",
-      "longitude": "6.18780740"
-   },
-   {
-      "name": "Hauts-de-France",
-      "isoCode": "HDF",
-      "countryCode": "FR",
-      "latitude": "50.48011530",
-      "longitude": "2.79372650"
-   },
-   {
-      "name": "Île-de-France",
-      "isoCode": "IDF",
-      "countryCode": "FR",
-      "latitude": "48.84991980",
-      "longitude": "2.63704110"
-   },
-   {
       "name": "Saint-Martin",
       "isoCode": "MF",
       "countryCode": "FR",
-      "latitude": "18.07082980",
-      "longitude": "-63.05008090"
+      "latitude": "18.08140660",
+      "longitude": "-63.04671310"
    },
    {
-      "name": "Nouvelle-Aquitaine",
-      "isoCode": "NAQ",
+      "name": "Saône-et-Loire",
+      "isoCode": "71",
       "countryCode": "FR",
-      "latitude": "45.70871820",
-      "longitude": "0.62689100"
+      "latitude": "46.65570860",
+      "longitude": "4.55855480"
    },
    {
-      "name": "Normandie",
-      "isoCode": "NOR",
+      "name": "Sarthe",
+      "isoCode": "72",
       "countryCode": "FR",
-      "latitude": "48.87987040",
-      "longitude": "0.17125290"
+      "latitude": "48.02692870",
+      "longitude": "0.25382170"
    },
    {
-      "name": "Occitanie",
-      "isoCode": "OCC",
+      "name": "Savoie",
+      "isoCode": "73",
       "countryCode": "FR",
-      "latitude": "43.89272320",
-      "longitude": "3.28276250"
+      "latitude": "45.49489520",
+      "longitude": "6.38466040"
    },
    {
-      "name": "Provence-Alpes-Côte-d’Azur",
-      "isoCode": "PAC",
+      "name": "Seine-et-Marne",
+      "isoCode": "77",
       "countryCode": "FR",
-      "latitude": "43.93516910",
-      "longitude": "6.06791940"
+      "latitude": "48.61902070",
+      "longitude": "3.04181580"
    },
    {
-      "name": "Pays-de-la-Loire",
-      "isoCode": "PDL",
+      "name": "Seine-Maritime",
+      "isoCode": "76",
       "countryCode": "FR",
-      "latitude": "47.76328360",
-      "longitude": "-0.32996870"
+      "latitude": "49.66323740",
+      "longitude": "0.94011340"
    },
    {
-      "name": "French Polynesia",
-      "isoCode": "PF",
+      "name": "Seine-Saint-Denis",
+      "isoCode": "93",
       "countryCode": "FR",
-      "latitude": "-17.67974200",
-      "longitude": "-149.40684300"
+      "latitude": "48.90981250",
+      "longitude": "2.45286350"
    },
    {
-      "name": "Saint Pierre and Miquelon",
-      "isoCode": "PM",
+      "name": "Somme",
+      "isoCode": "80",
       "countryCode": "FR",
-      "latitude": "46.88520000",
-      "longitude": "-56.31590000"
+      "latitude": "49.96894820",
+      "longitude": "2.37388550"
    },
    {
-      "name": "French Southern and Antarctic Lands",
-      "isoCode": "TF",
+      "name": "Tarn",
+      "isoCode": "81",
       "countryCode": "FR",
-      "latitude": "-47.54466040",
-      "longitude": "51.28375420"
+      "latitude": "43.79217410",
+      "longitude": "2.13396480"
+   },
+   {
+      "name": "Tarn-et-Garonne",
+      "isoCode": "82",
+      "countryCode": "FR",
+      "latitude": "44.08065600",
+      "longitude": "1.20506330"
+   },
+   {
+      "name": "Territoire de Belfort",
+      "isoCode": "90",
+      "countryCode": "FR",
+      "latitude": "47.62923100",
+      "longitude": "6.89930120"
+   },
+   {
+      "name": "Val-d'Oise",
+      "isoCode": "95",
+      "countryCode": "FR",
+      "latitude": "49.07507040",
+      "longitude": "2.20981140"
+   },
+   {
+      "name": "Val-de-Marne",
+      "isoCode": "94",
+      "countryCode": "FR",
+      "latitude": "48.77448930",
+      "longitude": "2.45433210"
+   },
+   {
+      "name": "Var",
+      "isoCode": "83",
+      "countryCode": "FR",
+      "latitude": "43.41735510",
+      "longitude": "6.26646370"
+   },
+   {
+      "name": "Vaucluse",
+      "isoCode": "84",
+      "countryCode": "FR",
+      "latitude": "43.99386430",
+      "longitude": "5.18188980"
+   },
+   {
+      "name": "Vendée",
+      "isoCode": "85",
+      "countryCode": "FR",
+      "latitude": "46.67577320",
+      "longitude": "-1.29144630"
+   },
+   {
+      "name": "Vienne",
+      "isoCode": "86",
+      "countryCode": "FR",
+      "latitude": "45.52524000",
+      "longitude": "4.87477000"
+   },
+   {
+      "name": "Vosges",
+      "isoCode": "88",
+      "countryCode": "FR",
+      "latitude": "48.16378600",
+      "longitude": "6.38207120"
    },
    {
       "name": "Wallis and Futuna",
       "isoCode": "WF",
       "countryCode": "FR",
-      "latitude": "-14.29380000",
-      "longitude": "-178.11650000"
+      "latitude": "-13.28940200",
+      "longitude": "-176.20422400"
+   },
+   {
+      "name": "Yonne",
+      "isoCode": "89",
+      "countryCode": "FR",
+      "latitude": "47.85512570",
+      "longitude": "3.64504390"
+   },
+   {
+      "name": "Yvelines",
+      "isoCode": "78",
+      "countryCode": "FR",
+      "latitude": "48.76203730",
+      "longitude": "1.88713760"
    },
    {
       "name": "Estuaire Province",
