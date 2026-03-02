@@ -20900,53 +20900,32 @@
       "longitude": "-84.77333250"
    },
    {
-      "name": "Bonaire",
-      "isoCode": "BQ1",
-      "countryCode": "NL",
-      "latitude": "12.20189020",
-      "longitude": "-68.26238220"
-   },
-   {
-      "name": "Saba",
-      "isoCode": "BQ2",
-      "countryCode": "NL",
-      "latitude": "17.63546420",
-      "longitude": "-63.23267630"
-   },
-   {
-      "name": "Sint Eustatius",
-      "isoCode": "BQ3",
-      "countryCode": "NL",
-      "latitude": "17.48903060",
-      "longitude": "-62.97355500"
-   },
-   {
       "name": "Drenthe",
       "isoCode": "DR",
       "countryCode": "NL",
-      "latitude": "52.94760120",
-      "longitude": "6.62305860"
+      "latitude": "52.90679220",
+      "longitude": "6.63684230"
    },
    {
       "name": "Flevoland",
       "isoCode": "FL",
       "countryCode": "NL",
-      "latitude": "52.52797810",
-      "longitude": "5.59535080"
+      "latitude": "52.44843750",
+      "longitude": "5.42353970"
    },
    {
       "name": "Friesland",
       "isoCode": "FR",
       "countryCode": "NL",
-      "latitude": "53.16416420",
-      "longitude": "5.78175420"
+      "latitude": "53.09236890",
+      "longitude": "5.77704300"
    },
    {
       "name": "Gelderland",
       "isoCode": "GE",
       "countryCode": "NL",
-      "latitude": "52.04515500",
-      "longitude": "5.87182350"
+      "latitude": "52.10140410",
+      "longitude": "5.95157010"
    },
    {
       "name": "Groningen",
@@ -20959,29 +20938,36 @@
       "name": "Limburg",
       "isoCode": "LI",
       "countryCode": "NL",
-      "latitude": "51.44272380",
-      "longitude": "6.06087260"
+      "latitude": "51.20151960",
+      "longitude": "5.90463020"
    },
    {
       "name": "North Brabant",
       "isoCode": "NB",
       "countryCode": "NL",
-      "latitude": "51.48265370",
-      "longitude": "5.23216870"
+      "latitude": "51.60177230",
+      "longitude": "5.44413910"
    },
    {
       "name": "North Holland",
       "isoCode": "NH",
       "countryCode": "NL",
-      "latitude": "52.52058690",
-      "longitude": "4.78847400"
+      "latitude": "52.72128250",
+      "longitude": "4.82066500"
    },
    {
       "name": "Overijssel",
       "isoCode": "OV",
       "countryCode": "NL",
-      "latitude": "52.43878140",
-      "longitude": "6.50164110"
+      "latitude": "52.42541430",
+      "longitude": "6.46106110"
+   },
+   {
+      "name": "South Holland",
+      "isoCode": "ZH",
+      "countryCode": "NL",
+      "latitude": "51.99667920",
+      "longitude": "4.55973970"
    },
    {
       "name": "Utrecht",
@@ -20994,15 +20980,8 @@
       "name": "Zeeland",
       "isoCode": "ZE",
       "countryCode": "NL",
-      "latitude": "51.49403090",
-      "longitude": "3.84968150"
-   },
-   {
-      "name": "South Holland",
-      "isoCode": "ZH",
-      "countryCode": "NL",
-      "latitude": "41.60086810",
-      "longitude": "-87.60698940"
+      "latitude": "51.41629750",
+      "longitude": "3.70280610"
    },
    {
       "name": "Østfold",
