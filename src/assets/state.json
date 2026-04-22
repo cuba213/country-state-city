@@ -6208,7 +6208,6 @@
       "latitude": "49.93893070",
       "longitude": "14.79244720"
    },
-
    {
       "name": "Praha-západ",
       "isoCode": "20A",
@@ -8436,13 +8435,6 @@
       "longitude": "-2.50000000"
    },
    {
-      "name": "La Rioja",
-      "isoCode": "LO",
-      "countryCode": "ES",
-      "latitude": "42.28146420",
-      "longitude": "-2.48280500"
-   },
-   {
       "name": "Las Palmas",
       "isoCode": "GC",
       "countryCode": "ES",
@@ -9961,7 +9953,6 @@
       "latitude": "2.29898270",
       "longitude": "11.44669140"
    },
-   
    {
       "name": "England",
       "isoCode": "ENG",
@@ -9969,7 +9960,6 @@
       "latitude": "52.35551770",
       "longitude": "-1.17431970"
    },
-   
    {
       "name": "Northern Ireland",
       "isoCode": "NIR",
@@ -9984,7 +9974,6 @@
       "latitude": "56.49067120",
       "longitude": "-4.20264580"
    },
-   
    {
       "name": "Wales",
       "isoCode": "WLS",
@@ -9992,7 +9981,6 @@
       "latitude": "52.13066070",
       "longitude": "-3.78371170"
    },
-
    {
       "name": "Saint Andrew Parish",
       "isoCode": "01",
@@ -10664,6 +10652,13 @@
       "countryCode": "GR",
       "latitude": "40.61864820",
       "longitude": "22.91795360"
+   },
+   {
+      "name": "Corfu Prefecture",
+      "isoCode": "22",
+      "countryCode": "GR",
+      "latitude": "39.62498380",
+      "longitude": "19.92234610"
    },
    {
       "name": "Crete",

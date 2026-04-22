@@ -1,96 +1,76 @@
 [
    {
-      "name": "Farkadóna",
+      "name": "Acharávi",
       "countryCode": "GR",
       "stateCode": "22"
    },
    {
-      "name": "Fíki",
+      "name": "Agios Georgis",
       "countryCode": "GR",
       "stateCode": "22"
    },
    {
-      "name": "Grizáno",
+      "name": "Ágios Matthaíos",
       "countryCode": "GR",
       "stateCode": "22"
    },
    {
-      "name": "Gómfoi",
+      "name": "Alepoú",
       "countryCode": "GR",
       "stateCode": "22"
    },
    {
-      "name": "Kalampáka",
+      "name": "Corfu",
       "countryCode": "GR",
       "stateCode": "22"
    },
    {
-      "name": "Kastráki",
+      "name": "Gáïos",
       "countryCode": "GR",
       "stateCode": "22"
    },
    {
-      "name": "Megalochóri",
+      "name": "Kanáli",
       "countryCode": "GR",
       "stateCode": "22"
    },
    {
-      "name": "Megála Kalývia",
+      "name": "Kontokáli",
       "countryCode": "GR",
       "stateCode": "22"
    },
    {
-      "name": "Oichalía",
+      "name": "Kynopiástes",
       "countryCode": "GR",
       "stateCode": "22"
    },
    {
-      "name": "Palaiomonástiro",
+      "name": "Lefkímmi",
       "countryCode": "GR",
       "stateCode": "22"
    },
    {
-      "name": "Palaiópyrgos",
+      "name": "Nomós Kerkýras",
       "countryCode": "GR",
       "stateCode": "22"
    },
    {
-      "name": "Pigí",
+      "name": "Perama",
       "countryCode": "GR",
       "stateCode": "22"
    },
    {
-      "name": "Pyrgetós",
+      "name": "Perivóli",
       "countryCode": "GR",
       "stateCode": "22"
    },
    {
-      "name": "Pýli",
+      "name": "Potamós",
       "countryCode": "GR",
       "stateCode": "22"
    },
    {
-      "name": "Rízoma",
-      "countryCode": "GR",
-      "stateCode": "22"
-   },
-   {
-      "name": "Taxiárches",
-      "countryCode": "GR",
-      "stateCode": "22"
-   },
-   {
-      "name": "Tríkala",
-      "countryCode": "GR",
-      "stateCode": "22"
-   },
-   {
-      "name": "Vasilikí",
-      "countryCode": "GR",
-      "stateCode": "22"
-   },
-   {
-      "name": "Zárkos",
+      "name": "Virós",
       "countryCode": "GR",
       "stateCode": "22"
    }

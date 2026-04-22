@@ -112953,6 +112953,11 @@
             "stateCode": "02"
          },
          {
+            "name": "Ágios Týchon",
+            "countryCode": "CY",
+            "stateCode": "02"
+         },
+         {
             "name": "Parekklisha",
             "countryCode": "CY",
             "stateCode": "02"
@@ -113101,11 +113106,6 @@
          },
          {
             "name": "Xylotymbou",
-            "countryCode": "CY",
-            "stateCode": "03"
-         },
-         {
-            "name": "Ágios Týchon",
             "countryCode": "CY",
             "stateCode": "03"
          }
@@ -265969,97 +265969,77 @@
    "Greece-GR": {
       "Corfu_Prefecture-22": [
          {
-            "name": "Farkadóna",
+            "name": "Acharávi",
             "countryCode": "GR",
             "stateCode": "22"
          },
          {
-            "name": "Fíki",
+            "name": "Agios Georgis",
             "countryCode": "GR",
             "stateCode": "22"
          },
          {
-            "name": "Grizáno",
+            "name": "Ágios Matthaíos",
             "countryCode": "GR",
             "stateCode": "22"
          },
          {
-            "name": "Gómfoi",
+            "name": "Alepoú",
             "countryCode": "GR",
             "stateCode": "22"
          },
          {
-            "name": "Kalampáka",
+            "name": "Corfu",
             "countryCode": "GR",
             "stateCode": "22"
          },
          {
-            "name": "Kastráki",
+            "name": "Gáïos",
             "countryCode": "GR",
             "stateCode": "22"
          },
          {
-            "name": "Megalochóri",
+            "name": "Kanáli",
             "countryCode": "GR",
             "stateCode": "22"
          },
          {
-            "name": "Megála Kalývia",
+            "name": "Kontokáli",
             "countryCode": "GR",
             "stateCode": "22"
          },
          {
-            "name": "Oichalía",
+            "name": "Kynopiástes",
             "countryCode": "GR",
             "stateCode": "22"
          },
          {
-            "name": "Palaiomonástiro",
+            "name": "Lefkímmi",
             "countryCode": "GR",
             "stateCode": "22"
          },
          {
-            "name": "Palaiópyrgos",
+            "name": "Nomós Kerkýras",
             "countryCode": "GR",
             "stateCode": "22"
          },
          {
-            "name": "Pigí",
+            "name": "Perama",
             "countryCode": "GR",
             "stateCode": "22"
          },
          {
-            "name": "Pyrgetós",
+            "name": "Perivóli",
             "countryCode": "GR",
             "stateCode": "22"
          },
          {
-            "name": "Pýli",
+            "name": "Potamós",
             "countryCode": "GR",
             "stateCode": "22"
          },
          {
-            "name": "Rízoma",
-            "countryCode": "GR",
-            "stateCode": "22"
-         },
-         {
-            "name": "Taxiárches",
-            "countryCode": "GR",
-            "stateCode": "22"
-         },
-         {
-            "name": "Tríkala",
-            "countryCode": "GR",
-            "stateCode": "22"
-         },
-         {
-            "name": "Vasilikí",
-            "countryCode": "GR",
-            "stateCode": "22"
-         },
-         {
-            "name": "Zárkos",
+            "name": "Virós",
             "countryCode": "GR",
             "stateCode": "22"
          }
@@ -369642,6 +369622,762 @@
             "name": "Zerfaliu",
             "countryCode": "IT",
             "stateCode": "88"
+         }
+      ],
+      "Libero_consorzio_comunale_di_Agrigento-AG": [
+         {
+            "name": "Libero consorzio comunale di Agrigento",
+            "countryCode": "IT",
+            "stateCode": "AG"
+         }
+      ],
+      "Province_of_Alessandria-AL": [
+         {
+            "name": "Province of Alessandria",
+            "countryCode": "IT",
+            "stateCode": "AL"
+         }
+      ],
+      "Province_of_Ancona-AN": [
+         {
+            "name": "Province of Ancona",
+            "countryCode": "IT",
+            "stateCode": "AN"
+         }
+      ],
+      "Province_of_Ascoli_Piceno-AP": [
+         {
+            "name": "Province of Ascoli Piceno",
+            "countryCode": "IT",
+            "stateCode": "AP"
+         }
+      ],
+      "Province_of_L_Aquila-AQ": [
+         {
+            "name": "Province of L'Aquila",
+            "countryCode": "IT",
+            "stateCode": "AQ"
+         }
+      ],
+      "Province_of_Asti-AT": [
+         {
+            "name": "Province of Asti",
+            "countryCode": "IT",
+            "stateCode": "AT"
+         }
+      ],
+      "Province_of_Avellino-AV": [
+         {
+            "name": "Province of Avellino",
+            "countryCode": "IT",
+            "stateCode": "AV"
+         }
+      ],
+      "Metropolitan_City_of_Bari-BA": [
+         {
+            "name": "Metropolitan City of Bari",
+            "countryCode": "IT",
+            "stateCode": "BA"
+         }
+      ],
+      "Province_of_Bergamo-BG": [
+         {
+            "name": "Province of Bergamo",
+            "countryCode": "IT",
+            "stateCode": "BG"
+         }
+      ],
+      "Province_of_Biella-BI": [
+         {
+            "name": "Province of Biella",
+            "countryCode": "IT",
+            "stateCode": "BI"
+         }
+      ],
+      "Province_of_Belluno-BL": [
+         {
+            "name": "Province of Belluno",
+            "countryCode": "IT",
+            "stateCode": "BL"
+         }
+      ],
+      "Benevento_Province-BN": [
+         {
+            "name": "Benevento Province",
+            "countryCode": "IT",
+            "stateCode": "BN"
+         }
+      ],
+      "Metropolitan_City_of_Bologna-BO": [
+         {
+            "name": "Metropolitan City of Bologna",
+            "countryCode": "IT",
+            "stateCode": "BO"
+         }
+      ],
+      "Province_of_Brindisi-BR": [
+         {
+            "name": "Province of Brindisi",
+            "countryCode": "IT",
+            "stateCode": "BR"
+         }
+      ],
+      "Province_of_Brescia-BS": [
+         {
+            "name": "Province of Brescia",
+            "countryCode": "IT",
+            "stateCode": "BS"
+         }
+      ],
+      "Province_of_Barletta_Andria_Trani-BT": [
+         {
+            "name": "Province of Barletta-Andria-Trani",
+            "countryCode": "IT",
+            "stateCode": "BT"
+         }
+      ],
+      "South_Tyrol-BZ": [
+         {
+            "name": "South Tyrol",
+            "countryCode": "IT",
+            "stateCode": "BZ"
+         }
+      ],
+      "Metropolitan_City_of_Cagliari-CA": [
+         {
+            "name": "Metropolitan City of Cagliari",
+            "countryCode": "IT",
+            "stateCode": "CA"
+         }
+      ],
+      "Province_of_Campobasso-CB": [
+         {
+            "name": "Province of Campobasso",
+            "countryCode": "IT",
+            "stateCode": "CB"
+         }
+      ],
+      "Province_of_Caserta-CE": [
+         {
+            "name": "Province of Caserta",
+            "countryCode": "IT",
+            "stateCode": "CE"
+         }
+      ],
+      "Province_of_Chieti-CH": [
+         {
+            "name": "Province of Chieti",
+            "countryCode": "IT",
+            "stateCode": "CH"
+         }
+      ],
+      "Province_of_Carbonia_Iglesias-CI": [
+         {
+            "name": "Province of Carbonia-Iglesias",
+            "countryCode": "IT",
+            "stateCode": "CI"
+         }
+      ],
+      "Libero_consorzio_comunale_di_Caltanissetta-CL": [
+         {
+            "name": "Libero consorzio comunale di Caltanissetta",
+            "countryCode": "IT",
+            "stateCode": "CL"
+         }
+      ],
+      "Province_of_Cuneo-CN": [
+         {
+            "name": "Province of Cuneo",
+            "countryCode": "IT",
+            "stateCode": "CN"
+         }
+      ],
+      "Province_of_Como-CO": [
+         {
+            "name": "Province of Como",
+            "countryCode": "IT",
+            "stateCode": "CO"
+         }
+      ],
+      "Province_of_Cremona-CR": [
+         {
+            "name": "Province of Cremona",
+            "countryCode": "IT",
+            "stateCode": "CR"
+         }
+      ],
+      "Province_of_Cosenza-CS": [
+         {
+            "name": "Province of Cosenza",
+            "countryCode": "IT",
+            "stateCode": "CS"
+         }
+      ],
+      "Metropolitan_City_of_Catania-CT": [
+         {
+            "name": "Metropolitan City of Catania",
+            "countryCode": "IT",
+            "stateCode": "CT"
+         }
+      ],
+      "Province_of_Catanzaro-CZ": [
+         {
+            "name": "Province of Catanzaro",
+            "countryCode": "IT",
+            "stateCode": "CZ"
+         }
+      ],
+      "Libero_consorzio_comunale_di_Enna-EN": [
+         {
+            "name": "Libero consorzio comunale di Enna",
+            "countryCode": "IT",
+            "stateCode": "EN"
+         }
+      ],
+      "Province_of_Forli_Cesena-FC": [
+         {
+            "name": "Province of Forlì-Cesena",
+            "countryCode": "IT",
+            "stateCode": "FC"
+         }
+      ],
+      "Province_of_Ferrara-FE": [
+         {
+            "name": "Province of Ferrara",
+            "countryCode": "IT",
+            "stateCode": "FE"
+         }
+      ],
+      "Province_of_Foggia-FG": [
+         {
+            "name": "Province of Foggia",
+            "countryCode": "IT",
+            "stateCode": "FG"
+         }
+      ],
+      "Metropolitan_City_of_Florence-FI": [
+         {
+            "name": "Metropolitan City of Florence",
+            "countryCode": "IT",
+            "stateCode": "FI"
+         }
+      ],
+      "Province_of_Fermo-FM": [
+         {
+            "name": "Province of Fermo",
+            "countryCode": "IT",
+            "stateCode": "FM"
+         }
+      ],
+      "Province_of_Frosinone-FR": [
+         {
+            "name": "Province of Frosinone",
+            "countryCode": "IT",
+            "stateCode": "FR"
+         }
+      ],
+      "Metropolitan_City_of_Genoa-GE": [
+         {
+            "name": "Metropolitan City of Genoa",
+            "countryCode": "IT",
+            "stateCode": "GE"
+         }
+      ],
+      "Province_of_Gorizia-GO": [
+         {
+            "name": "Province of Gorizia",
+            "countryCode": "IT",
+            "stateCode": "GO"
+         }
+      ],
+      "Province_of_Grosseto-GR": [
+         {
+            "name": "Province of Grosseto",
+            "countryCode": "IT",
+            "stateCode": "GR"
+         }
+      ],
+      "Province_of_Imperia-IM": [
+         {
+            "name": "Province of Imperia",
+            "countryCode": "IT",
+            "stateCode": "IM"
+         }
+      ],
+      "Province_of_Isernia-IS": [
+         {
+            "name": "Province of Isernia",
+            "countryCode": "IT",
+            "stateCode": "IS"
+         }
+      ],
+      "Province_of_Crotone-KR": [
+         {
+            "name": "Province of Crotone",
+            "countryCode": "IT",
+            "stateCode": "KR"
+         }
+      ],
+      "Province_of_Lecco-LC": [
+         {
+            "name": "Province of Lecco",
+            "countryCode": "IT",
+            "stateCode": "LC"
+         }
+      ],
+      "Province_of_Lecce-LE": [
+         {
+            "name": "Province of Lecce",
+            "countryCode": "IT",
+            "stateCode": "LE"
+         }
+      ],
+      "Province_of_Livorno-LI": [
+         {
+            "name": "Province of Livorno",
+            "countryCode": "IT",
+            "stateCode": "LI"
+         }
+      ],
+      "Province_of_Lodi-LO": [
+         {
+            "name": "Province of Lodi",
+            "countryCode": "IT",
+            "stateCode": "LO"
+         }
+      ],
+      "Province_of_Latina-LT": [
+         {
+            "name": "Province of Latina",
+            "countryCode": "IT",
+            "stateCode": "LT"
+         }
+      ],
+      "Province_of_Lucca-LU": [
+         {
+            "name": "Province of Lucca",
+            "countryCode": "IT",
+            "stateCode": "LU"
+         }
+      ],
+      "Province_of_Monza_and_Brianza-MB": [
+         {
+            "name": "Province of Monza and Brianza",
+            "countryCode": "IT",
+            "stateCode": "MB"
+         }
+      ],
+      "Province_of_Macerata-MC": [
+         {
+            "name": "Province of Macerata",
+            "countryCode": "IT",
+            "stateCode": "MC"
+         }
+      ],
+      "Metropolitan_City_of_Messina-ME": [
+         {
+            "name": "Metropolitan City of Messina",
+            "countryCode": "IT",
+            "stateCode": "ME"
+         }
+      ],
+      "Metropolitan_City_of_Milan-MI": [
+         {
+            "name": "Metropolitan City of Milan",
+            "countryCode": "IT",
+            "stateCode": "MI"
+         }
+      ],
+      "Province_of_Mantua-MN": [
+         {
+            "name": "Province of Mantua",
+            "countryCode": "IT",
+            "stateCode": "MN"
+         }
+      ],
+      "Province_of_Modena-MO": [
+         {
+            "name": "Province of Modena",
+            "countryCode": "IT",
+            "stateCode": "MO"
+         }
+      ],
+      "Province_of_Massa_and_Carrara-MS": [
+         {
+            "name": "Province of Massa and Carrara",
+            "countryCode": "IT",
+            "stateCode": "MS"
+         }
+      ],
+      "Province_of_Matera-MT": [
+         {
+            "name": "Province of Matera",
+            "countryCode": "IT",
+            "stateCode": "MT"
+         }
+      ],
+      "Metropolitan_City_of_Naples-NA": [
+         {
+            "name": "Metropolitan City of Naples",
+            "countryCode": "IT",
+            "stateCode": "NA"
+         }
+      ],
+      "Province_of_Novara-NO": [
+         {
+            "name": "Province of Novara",
+            "countryCode": "IT",
+            "stateCode": "NO"
+         }
+      ],
+      "Province_of_Nuoro-NU": [
+         {
+            "name": "Province of Nuoro",
+            "countryCode": "IT",
+            "stateCode": "NU"
+         }
+      ],
+      "Province_of_Ogliastra-OG": [
+         {
+            "name": "Province of Ogliastra",
+            "countryCode": "IT",
+            "stateCode": "OG"
+         }
+      ],
+      "Province_of_Oristano-OR": [
+         {
+            "name": "Province of Oristano",
+            "countryCode": "IT",
+            "stateCode": "OR"
+         }
+      ],
+      "Province_of_Olbia_Tempio-OT": [
+         {
+            "name": "Province of Olbia-Tempio",
+            "countryCode": "IT",
+            "stateCode": "OT"
+         }
+      ],
+      "Metropolitan_City_of_Palermo-PA": [
+         {
+            "name": "Metropolitan City of Palermo",
+            "countryCode": "IT",
+            "stateCode": "PA"
+         }
+      ],
+      "Province_of_Piacenza-PC": [
+         {
+            "name": "Province of Piacenza",
+            "countryCode": "IT",
+            "stateCode": "PC"
+         }
+      ],
+      "Province_of_Padua-PD": [
+         {
+            "name": "Province of Padua",
+            "countryCode": "IT",
+            "stateCode": "PD"
+         }
+      ],
+      "Province_of_Pescara-PE": [
+         {
+            "name": "Province of Pescara",
+            "countryCode": "IT",
+            "stateCode": "PE"
+         }
+      ],
+      "Province_of_Perugia-PG": [
+         {
+            "name": "Province of Perugia",
+            "countryCode": "IT",
+            "stateCode": "PG"
+         }
+      ],
+      "Province_of_Pisa-PI": [
+         {
+            "name": "Province of Pisa",
+            "countryCode": "IT",
+            "stateCode": "PI"
+         }
+      ],
+      "Province_of_Pordenone-PN": [
+         {
+            "name": "Province of Pordenone",
+            "countryCode": "IT",
+            "stateCode": "PN"
+         }
+      ],
+      "Province_of_Prato-PO": [
+         {
+            "name": "Province of Prato",
+            "countryCode": "IT",
+            "stateCode": "PO"
+         }
+      ],
+      "Province_of_Parma-PR": [
+         {
+            "name": "Province of Parma",
+            "countryCode": "IT",
+            "stateCode": "PR"
+         }
+      ],
+      "Province_of_Pistoia-PT": [
+         {
+            "name": "Province of Pistoia",
+            "countryCode": "IT",
+            "stateCode": "PT"
+         }
+      ],
+      "Pesaro_and_Urbino_Province-PU": [
+         {
+            "name": "Pesaro and Urbino Province",
+            "countryCode": "IT",
+            "stateCode": "PU"
+         }
+      ],
+      "Province_of_Pavia-PV": [
+         {
+            "name": "Province of Pavia",
+            "countryCode": "IT",
+            "stateCode": "PV"
+         }
+      ],
+      "Province_of_Potenza-PZ": [
+         {
+            "name": "Province of Potenza",
+            "countryCode": "IT",
+            "stateCode": "PZ"
+         }
+      ],
+      "Province_of_Ravenna-RA": [
+         {
+            "name": "Province of Ravenna",
+            "countryCode": "IT",
+            "stateCode": "RA"
+         }
+      ],
+      "Metropolitan_City_of_Reggio_Calabria-RC": [
+         {
+            "name": "Metropolitan City of Reggio Calabria",
+            "countryCode": "IT",
+            "stateCode": "RC"
+         }
+      ],
+      "Province_of_Reggio_Emilia-RE": [
+         {
+            "name": "Province of Reggio Emilia",
+            "countryCode": "IT",
+            "stateCode": "RE"
+         }
+      ],
+      "Libero_consorzio_comunale_di_Ragusa-RG": [
+         {
+            "name": "Libero consorzio comunale di Ragusa",
+            "countryCode": "IT",
+            "stateCode": "RG"
+         }
+      ],
+      "Province_of_Rieti-RI": [
+         {
+            "name": "Province of Rieti",
+            "countryCode": "IT",
+            "stateCode": "RI"
+         }
+      ],
+      "Metropolitan_City_of_Rome-RM": [
+         {
+            "name": "Metropolitan City of Rome",
+            "countryCode": "IT",
+            "stateCode": "RM"
+         }
+      ],
+      "Province_of_Rimini-RN": [
+         {
+            "name": "Province of Rimini",
+            "countryCode": "IT",
+            "stateCode": "RN"
+         }
+      ],
+      "Province_of_Rovigo-RO": [
+         {
+            "name": "Province of Rovigo",
+            "countryCode": "IT",
+            "stateCode": "RO"
+         }
+      ],
+      "Province_of_Salerno-SA": [
+         {
+            "name": "Province of Salerno",
+            "countryCode": "IT",
+            "stateCode": "SA"
+         }
+      ],
+      "Province_of_Siena-SI": [
+         {
+            "name": "Province of Siena",
+            "countryCode": "IT",
+            "stateCode": "SI"
+         }
+      ],
+      "Province_of_Sondrio-SO": [
+         {
+            "name": "Province of Sondrio",
+            "countryCode": "IT",
+            "stateCode": "SO"
+         }
+      ],
+      "Province_of_La_Spezia-SP": [
+         {
+            "name": "Province of La Spezia",
+            "countryCode": "IT",
+            "stateCode": "SP"
+         }
+      ],
+      "Libero_consorzio_comunale_di_Siracusa-SR": [
+         {
+            "name": "Libero consorzio comunale di Siracusa",
+            "countryCode": "IT",
+            "stateCode": "SR"
+         }
+      ],
+      "Province_of_Sassari-SS": [
+         {
+            "name": "Province of Sassari",
+            "countryCode": "IT",
+            "stateCode": "SS"
+         }
+      ],
+      "Province_of_Savona-SV": [
+         {
+            "name": "Province of Savona",
+            "countryCode": "IT",
+            "stateCode": "SV"
+         }
+      ],
+      "Province_of_Taranto-TA": [
+         {
+            "name": "Province of Taranto",
+            "countryCode": "IT",
+            "stateCode": "TA"
+         }
+      ],
+      "Province_of_Teramo-TE": [
+         {
+            "name": "Province of Teramo",
+            "countryCode": "IT",
+            "stateCode": "TE"
+         }
+      ],
+      "Trentino-TN": [
+         {
+            "name": "Trentino",
+            "countryCode": "IT",
+            "stateCode": "TN"
+         }
+      ],
+      "Metropolitan_City_of_Turin-TO": [
+         {
+            "name": "Metropolitan City of Turin",
+            "countryCode": "IT",
+            "stateCode": "TO"
+         }
+      ],
+      "Libero_consorzio_comunale_di_Trapani-TP": [
+         {
+            "name": "Libero consorzio comunale di Trapani",
+            "countryCode": "IT",
+            "stateCode": "TP"
+         }
+      ],
+      "Province_of_Terni-TR": [
+         {
+            "name": "Province of Terni",
+            "countryCode": "IT",
+            "stateCode": "TR"
+         }
+      ],
+      "Province_of_Trieste-TS": [
+         {
+            "name": "Province of Trieste",
+            "countryCode": "IT",
+            "stateCode": "TS"
+         }
+      ],
+      "Province_of_Treviso-TV": [
+         {
+            "name": "Province of Treviso",
+            "countryCode": "IT",
+            "stateCode": "TV"
+         }
+      ],
+      "Province_of_Udine-UD": [
+         {
+            "name": "Province of Udine",
+            "countryCode": "IT",
+            "stateCode": "UD"
+         }
+      ],
+      "Province_of_Varese-VA": [
+         {
+            "name": "Province of Varese",
+            "countryCode": "IT",
+            "stateCode": "VA"
+         }
+      ],
+      "Province_of_Verbano_Cusio_Ossola-VB": [
+         {
+            "name": "Province of Verbano-Cusio-Ossola",
+            "countryCode": "IT",
+            "stateCode": "VB"
+         }
+      ],
+      "Province_of_Vercelli-VC": [
+         {
+            "name": "Province of Vercelli",
+            "countryCode": "IT",
+            "stateCode": "VC"
+         }
+      ],
+      "Metropolitan_City_of_Venice-VE": [
+         {
+            "name": "Metropolitan City of Venice",
+            "countryCode": "IT",
+            "stateCode": "VE"
+         }
+      ],
+      "Province_of_Vicenza-VI": [
+         {
+            "name": "Province of Vicenza",
+            "countryCode": "IT",
+            "stateCode": "VI"
+         }
+      ],
+      "Province_of_Verona-VR": [
+         {
+            "name": "Province of Verona",
+            "countryCode": "IT",
+            "stateCode": "VR"
+         }
+      ],
+      "Province_of_Medio_Campidano-VS": [
+         {
+            "name": "Province of Medio Campidano",
+            "countryCode": "IT",
+            "stateCode": "VS"
+         }
+      ],
+      "Province_of_Viterbo-VT": [
+         {
+            "name": "Province of Viterbo",
+            "countryCode": "IT",
+            "stateCode": "VT"
+         }
+      ],
+      "Province_of_Vibo_Valentia-VV": [
+         {
+            "name": "Province of Vibo Valentia",
+            "countryCode": "IT",
+            "stateCode": "VV"
          }
       ]
    },
@@ -522881,11 +523617,6 @@
             "stateCode": "09"
          },
          {
-            "name": "Alfragide",
-            "countryCode": "PT",
-            "stateCode": "09"
-         },
-         {
             "name": "Algodres",
             "countryCode": "PT",
             "stateCode": "09"
@@ -522896,22 +523627,12 @@
             "stateCode": "09"
          },
          {
-            "name": "Algueirão",
-            "countryCode": "PT",
-            "stateCode": "09"
-         },
-         {
             "name": "Algueirão–Mem Martins",
             "countryCode": "PT",
             "stateCode": "09"
          },
          {
             "name": "Algés",
-            "countryCode": "PT",
-            "stateCode": "09"
-         },
-         {
-            "name": "Alhandra",
             "countryCode": "PT",
             "stateCode": "09"
          },
@@ -523007,11 +523728,6 @@
          },
          {
             "name": "Arrifana",
-            "countryCode": "PT",
-            "stateCode": "09"
-         },
-         {
-            "name": "Arruda Dos Vinhos",
             "countryCode": "PT",
             "stateCode": "09"
          },
@@ -523181,11 +523897,6 @@
             "stateCode": "09"
          },
          {
-            "name": "Camarate",
-            "countryCode": "PT",
-            "stateCode": "09"
-         },
-         {
             "name": "Campelos",
             "countryCode": "PT",
             "stateCode": "09"
@@ -523287,11 +523998,6 @@
          },
          {
             "name": "Casas do Soeiro",
-            "countryCode": "PT",
-            "stateCode": "09"
-         },
-         {
-            "name": "Cascais",
             "countryCode": "PT",
             "stateCode": "09"
          },
@@ -523502,11 +524208,6 @@
          },
          {
             "name": "Escalhão",
-            "countryCode": "PT",
-            "stateCode": "09"
-         },
-         {
-            "name": "Estoril",
             "countryCode": "PT",
             "stateCode": "09"
          },
@@ -523801,11 +524502,6 @@
             "stateCode": "09"
          },
          {
-            "name": "Linda-a-Velha",
-            "countryCode": "PT",
-            "stateCode": "09"
-         },
-         {
             "name": "Linhares (Celorico da Beira)",
             "countryCode": "PT",
             "stateCode": "09"
@@ -523981,11 +524677,6 @@
             "stateCode": "09"
          },
          {
-            "name": "Mem Martins",
-            "countryCode": "PT",
-            "stateCode": "09"
-         },
-         {
             "name": "Mercês",
             "countryCode": "PT",
             "stateCode": "09"
@@ -524046,22 +524737,12 @@
             "stateCode": "09"
          },
          {
-            "name": "Moita dos Ferreiros",
-            "countryCode": "PT",
-            "stateCode": "09"
-         },
-         {
             "name": "Moledo",
             "countryCode": "PT",
             "stateCode": "09"
          },
          {
             "name": "Monte Abraão",
-            "countryCode": "PT",
-            "stateCode": "09"
-         },
-         {
-            "name": "Monte Estoril",
             "countryCode": "PT",
             "stateCode": "09"
          },
@@ -524077,11 +524758,6 @@
          },
          {
             "name": "Moreira de Rei",
-            "countryCode": "PT",
-            "stateCode": "09"
-         },
-         {
-            "name": "Moscavide",
             "countryCode": "PT",
             "stateCode": "09"
          },
@@ -524412,11 +525088,6 @@
          },
          {
             "name": "Queiriz",
-            "countryCode": "PT",
-            "stateCode": "09"
-         },
-         {
-            "name": "Queluz",
             "countryCode": "PT",
             "stateCode": "09"
          },
@@ -524782,11 +525453,6 @@
          },
          {
             "name": "Sintra",
-            "countryCode": "PT",
-            "stateCode": "09"
-         },
-         {
-            "name": "Sintra (town)",
             "countryCode": "PT",
             "stateCode": "09"
          },
@@ -525690,6 +526356,11 @@
             "stateCode": "11"
          },
          {
+            "name": "Arruda Dos Vinhos",
+            "countryCode": "PT",
+            "stateCode": "11"
+         },
+         {
             "name": "Aveiras de Cima",
             "countryCode": "PT",
             "stateCode": "11"
@@ -525885,6 +526556,11 @@
             "stateCode": "11"
          },
          {
+            "name": "Moscavide",
+            "countryCode": "PT",
+            "stateCode": "11"
+         },
+         {
             "name": "Moscavide e Portela",
             "countryCode": "PT",
             "stateCode": "11"
@@ -526006,6 +526682,11 @@
          },
          {
             "name": "Sintra",
+            "countryCode": "PT",
+            "stateCode": "11"
+         },
+         {
+            "name": "Sintra (town)",
             "countryCode": "PT",
             "stateCode": "11"
          },
