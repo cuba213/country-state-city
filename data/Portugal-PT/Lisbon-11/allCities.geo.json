@@ -105,6 +105,13 @@
       "longitude": "-9.08807000"
    },
    {
+      "name": "Arruda Dos Vinhos",
+      "countryCode": "PT",
+      "stateCode": "11",
+      "latitude": "38.97172000",
+      "longitude": "-9.08807000"
+   },
+   {
       "name": "Aveiras de Cima",
       "countryCode": "PT",
       "stateCode": "11",
@@ -378,6 +385,13 @@
       "longitude": "-9.40595000"
    },
    {
+      "name": "Moscavide",
+      "countryCode": "PT",
+      "stateCode": "11",
+      "latitude": "38.77929000",
+      "longitude": "-9.10222000"
+   },
+   {
       "name": "Moscavide e Portela",
       "countryCode": "PT",
       "stateCode": "11",
@@ -547,6 +561,13 @@
    },
    {
       "name": "Sintra",
+      "countryCode": "PT",
+      "stateCode": "11",
+      "latitude": "38.81439000",
+      "longitude": "-9.38370000"
+   },
+   {
+      "name": "Sintra (town)",
       "countryCode": "PT",
       "stateCode": "11",
       "latitude": "38.81439000",

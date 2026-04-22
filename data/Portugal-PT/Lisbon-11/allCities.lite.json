@@ -75,6 +75,11 @@
       "stateCode": "11"
    },
    {
+      "name": "Arruda Dos Vinhos",
+      "countryCode": "PT",
+      "stateCode": "11"
+   },
+   {
       "name": "Aveiras de Cima",
       "countryCode": "PT",
       "stateCode": "11"
@@ -270,6 +275,11 @@
       "stateCode": "11"
    },
    {
+      "name": "Moscavide",
+      "countryCode": "PT",
+      "stateCode": "11"
+   },
+   {
       "name": "Moscavide e Portela",
       "countryCode": "PT",
       "stateCode": "11"
@@ -391,6 +401,11 @@
    },
    {
       "name": "Sintra",
+      "countryCode": "PT",
+      "stateCode": "11"
+   },
+   {
+      "name": "Sintra (town)",
       "countryCode": "PT",
       "stateCode": "11"
    },

@@ -161,13 +161,6 @@
       "longitude": "-9.20638889"
    },
    {
-      "name": "Alfragide",
-      "countryCode": "PT",
-      "stateCode": "09",
-      "latitude": "38.73203000",
-      "longitude": "-9.21920000"
-   },
-   {
       "name": "Algodres",
       "countryCode": "PT",
       "stateCode": "09",
@@ -182,13 +175,6 @@
       "longitude": "-9.01888889"
    },
    {
-      "name": "Algueirão",
-      "countryCode": "PT",
-      "stateCode": "09",
-      "latitude": "38.79764000",
-      "longitude": "-9.34370000"
-   },
-   {
       "name": "Algueirão–Mem Martins",
       "countryCode": "PT",
       "stateCode": "09",
@@ -201,13 +187,6 @@
       "stateCode": "09",
       "latitude": "38.69949722",
       "longitude": "-9.22927222"
-   },
-   {
-      "name": "Alhandra",
-      "countryCode": "PT",
-      "stateCode": "09",
-      "latitude": "38.92732000",
-      "longitude": "-9.00864000"
    },
    {
       "name": "Almargem",
@@ -341,13 +320,6 @@
       "stateCode": "09",
       "latitude": "40.56972222",
       "longitude": "-7.21027778"
-   },
-   {
-      "name": "Arruda Dos Vinhos",
-      "countryCode": "PT",
-      "stateCode": "09",
-      "latitude": "38.97172000",
-      "longitude": "-9.08807000"
    },
    {
       "name": "Atalaia",
@@ -581,13 +553,6 @@
       "longitude": "-9.06777778"
    },
    {
-      "name": "Camarate",
-      "countryCode": "PT",
-      "stateCode": "09",
-      "latitude": "38.80358000",
-      "longitude": "-9.12809000"
-   },
-   {
       "name": "Campelos",
       "countryCode": "PT",
       "stateCode": "09",
@@ -733,13 +698,6 @@
       "stateCode": "09",
       "latitude": "40.61888889",
       "longitude": "-7.40638889"
-   },
-   {
-      "name": "Cascais",
-      "countryCode": "PT",
-      "stateCode": "09",
-      "latitude": "38.69681000",
-      "longitude": "-9.42147000"
    },
    {
       "name": "Castanheira",
@@ -1034,13 +992,6 @@
       "stateCode": "09",
       "latitude": "40.94944444",
       "longitude": "-6.92611111"
-   },
-   {
-      "name": "Estoril",
-      "countryCode": "PT",
-      "stateCode": "09",
-      "latitude": "38.70571000",
-      "longitude": "-9.39773000"
    },
    {
       "name": "Faia",
@@ -1449,13 +1400,6 @@
       "longitude": "-6.96416667"
    },
    {
-      "name": "Linda-a-Velha",
-      "countryCode": "PT",
-      "stateCode": "09",
-      "latitude": "38.71446000",
-      "longitude": "-9.24220000"
-   },
-   {
       "name": "Linhares (Celorico da Beira)",
       "countryCode": "PT",
       "stateCode": "09",
@@ -1701,13 +1645,6 @@
       "longitude": "-7.53361111"
    },
    {
-      "name": "Mem Martins",
-      "countryCode": "PT",
-      "stateCode": "09",
-      "latitude": "38.79443000",
-      "longitude": "-9.34284000"
-   },
-   {
       "name": "Mercês",
       "countryCode": "PT",
       "stateCode": "09",
@@ -1792,13 +1729,6 @@
       "longitude": "-7.19750000"
    },
    {
-      "name": "Moita dos Ferreiros",
-      "countryCode": "PT",
-      "stateCode": "09",
-      "latitude": "39.24825000",
-      "longitude": "-9.22355000"
-   },
-   {
       "name": "Moledo",
       "countryCode": "PT",
       "stateCode": "09",
@@ -1811,13 +1741,6 @@
       "stateCode": "09",
       "latitude": "38.75840000",
       "longitude": "-9.26527000"
-   },
-   {
-      "name": "Monte Estoril",
-      "countryCode": "PT",
-      "stateCode": "09",
-      "latitude": "38.70636000",
-      "longitude": "-9.40595000"
    },
    {
       "name": "Monte Redondo",
@@ -1839,13 +1762,6 @@
       "stateCode": "09",
       "latitude": "40.83915000",
       "longitude": "-7.32316000"
-   },
-   {
-      "name": "Moscavide",
-      "countryCode": "PT",
-      "stateCode": "09",
-      "latitude": "38.77929000",
-      "longitude": "-9.10222000"
    },
    {
       "name": "Murça",
@@ -2308,13 +2224,6 @@
       "stateCode": "09",
       "latitude": "40.73596000",
       "longitude": "-7.44999000"
-   },
-   {
-      "name": "Queluz",
-      "countryCode": "PT",
-      "stateCode": "09",
-      "latitude": "38.75657000",
-      "longitude": "-9.25451000"
    },
    {
       "name": "Quintas de São Bartolomeu",
@@ -2826,13 +2735,6 @@
       "stateCode": "09",
       "latitude": "38.79736111",
       "longitude": "-9.39041667"
-   },
-   {
-      "name": "Sintra (town)",
-      "countryCode": "PT",
-      "stateCode": "09",
-      "latitude": "38.81439000",
-      "longitude": "-9.38370000"
    },
    {
       "name": "Sobral Pichorro",

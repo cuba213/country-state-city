@@ -1,135 +1,107 @@
 [
    {
-      "name": "Farkadóna",
+      "name": "Acharávi",
       "countryCode": "GR",
       "stateCode": "22",
-      "latitude": "39.60000000",
-      "longitude": "22.06667000"
+      "latitude": "39.79360000",
+      "longitude": "19.81736000"
    },
    {
-      "name": "Fíki",
+      "name": "Agios Georgis",
       "countryCode": "GR",
       "stateCode": "22",
-      "latitude": "39.51602000",
-      "longitude": "21.65556000"
+      "latitude": "39.72363000",
+      "longitude": "19.69969000"
    },
    {
-      "name": "Grizáno",
+      "name": "Ágios Matthaíos",
       "countryCode": "GR",
       "stateCode": "22",
-      "latitude": "39.63192000",
-      "longitude": "22.05258000"
+      "latitude": "39.49506000",
+      "longitude": "19.87336000"
    },
    {
-      "name": "Gómfoi",
+      "name": "Alepoú",
       "countryCode": "GR",
       "stateCode": "22",
-      "latitude": "39.46413000",
-      "longitude": "21.69342000"
+      "latitude": "39.61594000",
+      "longitude": "19.89564000"
    },
    {
-      "name": "Kalampáka",
+      "name": "Corfu",
       "countryCode": "GR",
       "stateCode": "22",
-      "latitude": "39.70444000",
-      "longitude": "21.62694000"
+      "latitude": "39.62069000",
+      "longitude": "19.91975000"
    },
    {
-      "name": "Kastráki",
+      "name": "Gáïos",
       "countryCode": "GR",
       "stateCode": "22",
-      "latitude": "39.71692000",
-      "longitude": "21.61865000"
+      "latitude": "39.19722000",
+      "longitude": "20.18556000"
    },
    {
-      "name": "Megalochóri",
+      "name": "Kanáli",
       "countryCode": "GR",
       "stateCode": "22",
-      "latitude": "39.55982000",
-      "longitude": "21.84195000"
+      "latitude": "39.60556000",
+      "longitude": "19.89250000"
    },
    {
-      "name": "Megála Kalývia",
+      "name": "Kontokáli",
       "countryCode": "GR",
       "stateCode": "22",
-      "latitude": "39.49693000",
-      "longitude": "21.78802000"
+      "latitude": "39.64436000",
+      "longitude": "19.85194000"
    },
    {
-      "name": "Oichalía",
+      "name": "Kynopiástes",
       "countryCode": "GR",
       "stateCode": "22",
-      "latitude": "39.60827000",
-      "longitude": "21.97996000"
+      "latitude": "39.56785000",
+      "longitude": "19.88362000"
    },
    {
-      "name": "Palaiomonástiro",
+      "name": "Lefkímmi",
       "countryCode": "GR",
       "stateCode": "22",
-      "latitude": "39.46269000",
-      "longitude": "21.65793000"
+      "latitude": "39.42336000",
+      "longitude": "20.07094000"
    },
    {
-      "name": "Palaiópyrgos",
+      "name": "Nomós Kerkýras",
       "countryCode": "GR",
       "stateCode": "22",
-      "latitude": "39.60845000",
-      "longitude": "21.81720000"
+      "latitude": "39.66667000",
+      "longitude": "19.75000000"
    },
    {
-      "name": "Pigí",
+      "name": "Perama",
       "countryCode": "GR",
       "stateCode": "22",
-      "latitude": "39.51061000",
-      "longitude": "21.70103000"
+      "latitude": "39.58289000",
+      "longitude": "19.91220000"
    },
    {
-      "name": "Pyrgetós",
+      "name": "Perivóli",
       "countryCode": "GR",
       "stateCode": "22",
-      "latitude": "39.55276000",
-      "longitude": "21.74846000"
+      "latitude": "39.41936000",
+      "longitude": "20.01469000"
    },
    {
-      "name": "Pýli",
+      "name": "Potamós",
       "countryCode": "GR",
       "stateCode": "22",
-      "latitude": "39.45806000",
-      "longitude": "21.61889000"
+      "latitude": "39.62420000",
+      "longitude": "19.87826000"
    },
    {
-      "name": "Rízoma",
+      "name": "Virós",
       "countryCode": "GR",
       "stateCode": "22",
-      "latitude": "39.66432000",
-      "longitude": "21.73541000"
-   },
-   {
-      "name": "Taxiárches",
-      "countryCode": "GR",
-      "stateCode": "22",
-      "latitude": "39.57565000",
-      "longitude": "21.89245000"
-   },
-   {
-      "name": "Tríkala",
-      "countryCode": "GR",
-      "stateCode": "22",
-      "latitude": "39.55493000",
-      "longitude": "21.76837000"
-   },
-   {
-      "name": "Vasilikí",
-      "countryCode": "GR",
-      "stateCode": "22",
-      "latitude": "39.63984000",
-      "longitude": "21.70448000"
-   },
-   {
-      "name": "Zárkos",
-      "countryCode": "GR",
-      "stateCode": "22",
-      "latitude": "39.60860000",
-      "longitude": "22.12336000"
+      "latitude": "39.58340000",
+      "longitude": "19.88270000"
    }
 ]
