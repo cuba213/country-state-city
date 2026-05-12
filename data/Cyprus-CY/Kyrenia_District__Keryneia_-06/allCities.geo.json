@@ -19,5 +19,12 @@
       "stateCode": "06",
       "latitude": "35.33823000",
       "longitude": "33.17368000"
+   },
+   {
+      "name": "Karavas (Alsancak)",
+      "countryCode": "CY",
+      "stateCode": "06",
+      "latitude": "35.34046000",
+      "longitude": "33.18194000"
    }
 ]

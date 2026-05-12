@@ -48,6 +48,55 @@ const executeAllTests = (City: any) => {
 			const cities: any = City.getCitiesOfState(countryCode, stateCode);
 			expect(cities.length).toEqual(0);
 		});
+
+		test('Check active bug cities for Portugal', () => {
+			const cities: ICity[] = City.getCitiesOfState('PT', '09');
+			const names = cities.map((city: ICity) => city.name);
+
+			expect(names).toEqual(expect.arrayContaining([
+				'Alfragide',
+				'Algueirão',
+				'Alhandra',
+				'Arruda Dos Vinhos',
+				'Camarate',
+				'Cascais',
+				'Estoril',
+				'Linda-a-Velha',
+				'Mem Martins',
+				'Moita dos Ferreiros',
+				'Monte Estoril',
+				'Moscavide',
+				'Queluz',
+				'Sintra (town)',
+			]));
+		});
+
+		test('Check active bug cities for Cyprus', () => {
+			const cities: ICity[] = City.getCitiesOfState('CY', '06');
+			const names = cities.map((city: ICity) => city.name);
+
+			expect(names).toContain('Karavas (Alsancak)');
+		});
+
+		test('Check active bug cities for Greece', () => {
+			const kefaloniaCities = City.getCitiesOfState('GR', '23').map((city: ICity) => city.name);
+			const lefkadaCities = City.getCitiesOfState('GR', '24').map((city: ICity) => city.name);
+
+			expect(kefaloniaCities).toEqual(expect.arrayContaining([
+				'Argostólion',
+				'Itháki',
+				'Lixoúri',
+				'Póros',
+				'Sámi',
+				'Valsamáta',
+			]));
+			expect(lefkadaCities).toContain('Lefkada');
+		});
+
+		test('Check active bug cities for Spain', () => {
+			expect(City.getCitiesOfState('ES', 'BI')).toHaveLength(112);
+			expect(City.getCitiesOfState('ES', 'LE').length).toBeGreaterThan(0);
+		});
 	});
 };
 export default executeAllTests;

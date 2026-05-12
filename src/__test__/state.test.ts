@@ -165,6 +165,11 @@ const executeAllTests = (State: any) => {
 			expect(states.length).toEqual(0);
 		});
 
+		test('Check active bug states for Greece', () => {
+			expect(State.getStateByCodeAndCountry('23', 'GR')?.name).toEqual('Kefalonia Prefecture');
+			expect(State.getStateByCodeAndCountry('24', 'GR')?.name).toEqual('Lefkada Regional Unit');
+		});
+
 		test('Check All States for Burkina Faso', () => {
 			const code = 'BF';
 			const country: any = Country.getCountryByCode(code);
