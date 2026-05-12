@@ -2548,5 +2548,75 @@
       "name": "Águas Belas",
       "countryCode": "PT",
       "stateCode": "09"
+   },
+   {
+      "name": "Alfragide",
+      "countryCode": "PT",
+      "stateCode": "09"
+   },
+   {
+      "name": "Algueirão",
+      "countryCode": "PT",
+      "stateCode": "09"
+   },
+   {
+      "name": "Alhandra",
+      "countryCode": "PT",
+      "stateCode": "09"
+   },
+   {
+      "name": "Arruda Dos Vinhos",
+      "countryCode": "PT",
+      "stateCode": "09"
+   },
+   {
+      "name": "Camarate",
+      "countryCode": "PT",
+      "stateCode": "09"
+   },
+   {
+      "name": "Cascais",
+      "countryCode": "PT",
+      "stateCode": "09"
+   },
+   {
+      "name": "Estoril",
+      "countryCode": "PT",
+      "stateCode": "09"
+   },
+   {
+      "name": "Linda-a-Velha",
+      "countryCode": "PT",
+      "stateCode": "09"
+   },
+   {
+      "name": "Mem Martins",
+      "countryCode": "PT",
+      "stateCode": "09"
+   },
+   {
+      "name": "Moita dos Ferreiros",
+      "countryCode": "PT",
+      "stateCode": "09"
+   },
+   {
+      "name": "Monte Estoril",
+      "countryCode": "PT",
+      "stateCode": "09"
+   },
+   {
+      "name": "Moscavide",
+      "countryCode": "PT",
+      "stateCode": "09"
+   },
+   {
+      "name": "Queluz",
+      "countryCode": "PT",
+      "stateCode": "09"
+   },
+   {
+      "name": "Sintra (town)",
+      "countryCode": "PT",
+      "stateCode": "09"
    }
 ]

@@ -31519,5 +31519,19 @@
 		"countryCode": "CY",
 		"latitude": "34.78129780",
 		"longitude": "32.42140970"
+	},
+	{
+		"name": "Kefalonia Prefecture",
+		"isoCode": "23",
+		"countryCode": "GR",
+		"latitude": "38.17536750",
+		"longitude": "20.56921790"
+	},
+	{
+		"name": "Lefkada Regional Unit",
+		"isoCode": "24",
+		"countryCode": "GR",
+		"latitude": "38.83336630",
+		"longitude": "20.70691080"
 	}
 ]

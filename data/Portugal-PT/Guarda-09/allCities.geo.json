@@ -3568,5 +3568,103 @@
       "stateCode": "09",
       "latitude": "40.37472222",
       "longitude": "-7.16694444"
+   },
+   {
+      "name": "Alfragide",
+      "countryCode": "PT",
+      "stateCode": "09",
+      "latitude": "38.73203000",
+      "longitude": "-9.21920000"
+   },
+   {
+      "name": "Algueirão",
+      "countryCode": "PT",
+      "stateCode": "09",
+      "latitude": "38.79764000",
+      "longitude": "-9.34370000"
+   },
+   {
+      "name": "Alhandra",
+      "countryCode": "PT",
+      "stateCode": "09",
+      "latitude": "38.92732000",
+      "longitude": "-9.00864000"
+   },
+   {
+      "name": "Arruda Dos Vinhos",
+      "countryCode": "PT",
+      "stateCode": "09",
+      "latitude": "38.97172000",
+      "longitude": "-9.08807000"
+   },
+   {
+      "name": "Camarate",
+      "countryCode": "PT",
+      "stateCode": "09",
+      "latitude": "38.80358000",
+      "longitude": "-9.12809000"
+   },
+   {
+      "name": "Cascais",
+      "countryCode": "PT",
+      "stateCode": "09",
+      "latitude": "38.69681000",
+      "longitude": "-9.42147000"
+   },
+   {
+      "name": "Estoril",
+      "countryCode": "PT",
+      "stateCode": "09",
+      "latitude": "38.70571000",
+      "longitude": "-9.39773000"
+   },
+   {
+      "name": "Linda-a-Velha",
+      "countryCode": "PT",
+      "stateCode": "09",
+      "latitude": "38.71446000",
+      "longitude": "-9.24220000"
+   },
+   {
+      "name": "Mem Martins",
+      "countryCode": "PT",
+      "stateCode": "09",
+      "latitude": "38.79443000",
+      "longitude": "-9.34284000"
+   },
+   {
+      "name": "Moita dos Ferreiros",
+      "countryCode": "PT",
+      "stateCode": "09",
+      "latitude": "39.24825000",
+      "longitude": "-9.22355000"
+   },
+   {
+      "name": "Monte Estoril",
+      "countryCode": "PT",
+      "stateCode": "09",
+      "latitude": "38.70636000",
+      "longitude": "-9.40595000"
+   },
+   {
+      "name": "Moscavide",
+      "countryCode": "PT",
+      "stateCode": "09",
+      "latitude": "38.77929000",
+      "longitude": "-9.10222000"
+   },
+   {
+      "name": "Queluz",
+      "countryCode": "PT",
+      "stateCode": "09",
+      "latitude": "38.75657000",
+      "longitude": "-9.25451000"
+   },
+   {
+      "name": "Sintra (town)",
+      "countryCode": "PT",
+      "stateCode": "09",
+      "latitude": "38.81439000",
+      "longitude": "-9.38370000"
    }
 ]
