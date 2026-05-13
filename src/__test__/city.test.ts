@@ -83,19 +83,35 @@ const executeAllTests = (City: any) => {
 			const lefkadaCities = City.getCitiesOfState('GR', '24').map((city: ICity) => city.name);
 
 			expect(kefaloniaCities).toEqual(expect.arrayContaining([
-				'Argostólion',
-				'Itháki',
-				'Lixoúri',
-				'Póros',
-				'Sámi',
-				'Valsamáta',
+				'Agnanteró',
+				'Kardítsa',
+				'Mouzáki',
+				'Sofádes',
 			]));
-			expect(lefkadaCities).toContain('Lefkada');
+			expect(lefkadaCities).toEqual(expect.arrayContaining([
+				'Agriá',
+				'Skiáthos',
+				'Volos',
+				'Áno Lekhónia',
+			]));
 		});
 
 		test('Check active bug cities for Spain', () => {
 			expect(City.getCitiesOfState('ES', 'BI')).toHaveLength(112);
 			expect(City.getCitiesOfState('ES', 'LE').length).toBeGreaterThan(0);
+			expect(City.getCitiesOfState('ES', 'AS').map((city: ICity) => city.name)).toEqual(
+				expect.arrayContaining(['Allande', 'Oviedo', 'Yernes y Tameza'])
+			);
+			expect(City.getCitiesOfState('ES', 'CB').map((city: ICity) => city.name)).toContain('Santander');
+			expect(City.getCitiesOfState('ES', 'MD').map((city: ICity) => city.name)).toContain('Madrid');
+			expect(City.getCitiesOfState('ES', 'MC').map((city: ICity) => city.name)).toContain('Murcia');
+			expect(City.getCitiesOfState('ES', 'NC').map((city: ICity) => city.name)).toContain('Pamplona');
+			expect(City.getCitiesOfState('ES', 'VC').map((city: ICity) => city.name)).toContain('Valencia');
+			expect(City.getCitiesOfState('ES', 'AN').map((city: ICity) => city.name)).toEqual(['Andalusia']);
+			expect(City.getCitiesOfState('ES', 'AR').map((city: ICity) => city.name)).toEqual(['Aragon']);
+			expect(City.getCitiesOfState('ES', 'CL').map((city: ICity) => city.name)).toEqual(['Castile and Leon']);
+			expect(City.getCitiesOfState('ES', 'CE').map((city: ICity) => city.name)).toEqual(['Benzú', 'Ceuta']);
+			expect(City.getCitiesOfState('ES', 'ML').map((city: ICity) => city.name)).toEqual(['Melilla']);
 		});
 	});
 };
