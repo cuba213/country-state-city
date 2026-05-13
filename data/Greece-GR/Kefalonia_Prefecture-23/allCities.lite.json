@@ -1,31 +1,101 @@
 [
    {
-      "name": "Argostólion",
+      "name": "Agnanteró",
       "countryCode": "GR",
       "stateCode": "23"
    },
    {
-      "name": "Itháki",
+      "name": "Agía Triáda",
       "countryCode": "GR",
       "stateCode": "23"
    },
    {
-      "name": "Lixoúri",
+      "name": "Anthiró",
       "countryCode": "GR",
       "stateCode": "23"
    },
    {
-      "name": "Póros",
+      "name": "Anávra",
       "countryCode": "GR",
       "stateCode": "23"
    },
    {
-      "name": "Sámi",
+      "name": "Artesianó",
       "countryCode": "GR",
       "stateCode": "23"
    },
    {
-      "name": "Valsamáta",
+      "name": "Itéa",
+      "countryCode": "GR",
+      "stateCode": "23"
+   },
+   {
+      "name": "Kallifóni",
+      "countryCode": "GR",
+      "stateCode": "23"
+   },
+   {
+      "name": "Kallíthiro",
+      "countryCode": "GR",
+      "stateCode": "23"
+   },
+   {
+      "name": "Karditsomagoúla",
+      "countryCode": "GR",
+      "stateCode": "23"
+   },
+   {
+      "name": "Kardítsa",
+      "countryCode": "GR",
+      "stateCode": "23"
+   },
+   {
+      "name": "Karpochóri",
+      "countryCode": "GR",
+      "stateCode": "23"
+   },
+   {
+      "name": "Magoúla",
+      "countryCode": "GR",
+      "stateCode": "23"
+   },
+   {
+      "name": "Makrychóri",
+      "countryCode": "GR",
+      "stateCode": "23"
+   },
+   {
+      "name": "Mavrommáti",
+      "countryCode": "GR",
+      "stateCode": "23"
+   },
+   {
+      "name": "Mitrópoli",
+      "countryCode": "GR",
+      "stateCode": "23"
+   },
+   {
+      "name": "Morfovoúni",
+      "countryCode": "GR",
+      "stateCode": "23"
+   },
+   {
+      "name": "Mouzáki",
+      "countryCode": "GR",
+      "stateCode": "23"
+   },
+   {
+      "name": "Palamás",
+      "countryCode": "GR",
+      "stateCode": "23"
+   },
+   {
+      "name": "Proástio",
+      "countryCode": "GR",
+      "stateCode": "23"
+   },
+   {
+      "name": "Sofádes",
       "countryCode": "GR",
       "stateCode": "23"
    }

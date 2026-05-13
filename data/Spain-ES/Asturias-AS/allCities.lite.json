@@ -1,0 +1,387 @@
+[
+   {
+      "name": "Allande",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Aller",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Amieva",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Avilés",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Belmonte de Miranda",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Bimenes",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Boal",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Cabrales",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Cabranes",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Candamo",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Cangas del Narcea",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Cangas de Onís",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Caravia",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Carreño",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Caso",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Castrillón",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Castropol",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Coaña",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Colunga",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Corvera de Asturias",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Cudillero",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Degaña",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Franco El",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Gijón",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Gozón",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Grado",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Grandas de Salime",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Ibias",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Illano",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Illas",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Langreo",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Laviana",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Lena",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Valdés",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Llanera",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Llanes",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Morcín",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Muros de Nalón",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Nava",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Navia",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Noreña",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Onís",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Oviedo",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Parres",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Peñamellera Alta",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Peñamellera Baja",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Pesoz",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Piloña",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Ponga",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Pravia",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Proaza",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Quirós",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Regueras Las",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Ribadedeva",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Ribadesella",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Ribera de Arriba",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Riosa",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Salas",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "San Martín del Rey Aurelio",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "San Martín de Oscos",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Santa Eulalia de Oscos",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "San Tirso de Abres",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Santo Adriano",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Sariego",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Siero",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Sobrescobio",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Somiedo",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Soto del Barco",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Tapia de Casariego",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Taramundi",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Teverga",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Tineo",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Vegadeo",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Villanueva de Oscos",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Villaviciosa",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Villayón",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Yernes y Tameza",
+      "countryCode": "ES",
+      "stateCode": "AS"
+   }
+]
