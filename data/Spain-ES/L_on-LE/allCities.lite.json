@@ -1,597 +1,1242 @@
 [
-   {
-      "name": "Acebedo",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Algadefe",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Almanza",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Ardón",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Arganza",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Astorga",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Balboa",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Barjas",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Barraco",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Bembibre",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Benavides",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Benuza",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Bercianos del Páramo",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Bercianos del Real Camino",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Berlanga del Bierzo",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Boca de Huérgano",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Borrenes",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Boñar",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Brazuelo",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Burón",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Bustillo del Páramo",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Cabezón",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Cabreros del Río",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Cabrillanes",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Cacabelos",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Calzada del Coto",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Campazas",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Campo de Villavidel",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Camponaraya",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Candín",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Carracedelo",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Carrizo de la Ribera",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Carrocera",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Carucedo",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Castilfalé",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Castrillo de Cabrera",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Castrillo de la Valduerna",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Castrocalbón",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Castrocontrigo",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Castropodame",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Cebanico",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Cebrones del Río",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Chozas de Abajo",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Cimanes de la Vega",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Cimanes del Tejar",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Cistierna",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Congosto",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Corbillos de los Oteros",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Corrales",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Corullón",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Crémenes",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Cuadros",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Cubillas de Rueda",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Cubillas de los Oteros",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Cubillos del Sil",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Cármenes",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Destriana",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "El Barco de Ávila",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "El Burgo de Osma",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "El Hoyo de Pinares",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "El Tiemblo",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Encinedo",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Escobar de Campos",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Fabero",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Folgoso de la Ribera",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Fresno de la Vega",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Fuentes de Carbajal",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Gamonal",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Garrafe de Torío",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Gordaliza del Pino",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Gordoncillo",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Gradefes",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Grajal de Campos",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Gusendos de los Oteros",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Hospital de Órbigo",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Huerta del Rey",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Igüeña",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Izagre",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Joarilla de las Matas",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "La Adrada",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "La Alberca",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "La Bañeza",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "La Bouza",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "La Carrera",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "La Cuesta",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "La Fuente de San Esteban",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "La Lastrilla",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "La Pedraja de Portillo",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "La Pola de Gordón",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "La Robla",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "La Seca",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Laguna Dalga",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Laguna de Negrillos",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Las Navas del Marqués",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "León",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Llamas de la Ribera",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Luyego",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Magaz de Cepeda",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Mansilla Mayor",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Mansilla de las Mulas",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Maraña",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Matadeón de los Oteros",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Matallana de Torío",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Molinaseca",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Murias de Paredes",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Oencia",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Onzonilla",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Oseja de Sajambre",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Pajares de los Oteros",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Palacios de la Valduerna",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Palacios del Sil",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Peranzanes",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Pobladura de Pelayo García",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Ponferrada",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Posada de Valdeón",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Pozuelo del Páramo",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Prado de la Guzpeña",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Priaranza del Bierzo",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   },
-   {
-      "name": "Prioro",
-      "countryCode": "ES",
-      "stateCode": "LE"
-   }
+  {
+    "name": "Acebedo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Algadefe",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Almanza",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Ardón",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Arganza",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Astorga",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Balboa",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Barjas",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Barraco",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Bembibre",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Benavides",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Benuza",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Bercianos del Páramo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Bercianos del Real Camino",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Berlanga del Bierzo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Boca de Huérgano",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Borrenes",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Boñar",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Brazuelo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Burón",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Bustillo del Páramo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Cabezón",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Cabreros del Río",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Cabrillanes",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Cacabelos",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Calzada del Coto",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Campazas",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Campo de Villavidel",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Camponaraya",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Candín",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Carracedelo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Carrizo de la Ribera",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Carrocera",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Carucedo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Castilfalé",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Castrillo de Cabrera",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Castrillo de la Valduerna",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Castrocalbón",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Castrocontrigo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Castropodame",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Cebanico",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Cebrones del Río",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Chozas de Abajo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Cimanes de la Vega",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Cimanes del Tejar",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Cistierna",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Congosto",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Corbillos de los Oteros",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Corrales",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Corullón",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Crémenes",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Cuadros",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Cubillas de Rueda",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Cubillas de los Oteros",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Cubillos del Sil",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Cármenes",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Destriana",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "El Barco de Ávila",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "El Burgo de Osma",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "El Hoyo de Pinares",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "El Tiemblo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Encinedo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Escobar de Campos",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Fabero",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Folgoso de la Ribera",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Fresno de la Vega",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Fuentes de Carbajal",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Gamonal",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Garrafe de Torío",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Gordaliza del Pino",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Gordoncillo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Gradefes",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Grajal de Campos",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Gusendos de los Oteros",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Hospital de Órbigo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Huerta del Rey",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Igüeña",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Izagre",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Joarilla de las Matas",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "La Adrada",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "La Alberca",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "La Bañeza",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "La Bouza",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "La Carrera",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "La Cuesta",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "La Fuente de San Esteban",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "La Lastrilla",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "La Pedraja de Portillo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "La Pola de Gordón",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "La Robla",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "La Seca",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Laguna Dalga",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Laguna de Negrillos",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Las Navas del Marqués",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "León",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Llamas de la Ribera",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Luyego",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Magaz de Cepeda",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Mansilla Mayor",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Mansilla de las Mulas",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Maraña",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Matadeón de los Oteros",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Matallana de Torío",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Molinaseca",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Murias de Paredes",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Oencia",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Onzonilla",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Oseja de Sajambre",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Pajares de los Oteros",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Palacios de la Valduerna",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Palacios del Sil",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Peranzanes",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Pobladura de Pelayo García",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Ponferrada",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Posada de Valdeón",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Pozuelo del Páramo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Prado de la Guzpeña",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Priaranza del Bierzo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Prioro",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Provincia de Burgos",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Provincia de León",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Provincia de Palencia",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Provincia de Salamanca",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Provincia de Segovia",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Provincia de Soria",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Provincia de Valladolid",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Provincia de Zamora",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Provincia de Ávila",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Puebla de Lillo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Puente de Domingo Flórez",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Páramo del Sil",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Quintana del Castillo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Quintana del Marco",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Quintana y Congosto",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Regueras de Arriba",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Reyero",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Riaño",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Riego de la Vega",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Roperuelos del Páramo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Ruesga",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Sabero",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Sahagún",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "San Adrián del Valle",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "San Andrés del Rabanedo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "San Cristóbal de la Polantera",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "San Emiliano",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "San Esteban de Nogales",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "San Ildefonso",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "San Justo de la Vega",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "San Millán de los Caballeros",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "San Pedro Bercianos",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Sancedo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Santa Colomba de Curueño",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Santa Colomba de Somoza",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Santa Cristina de Valmadrigal",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Santa Elena de Jamuz",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Santa Marina del Rey",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Santa María de Ordás",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Santa María de la Isla",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Santa María del Monte de Cea",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Santa María del Páramo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Santas Martas",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Santiago Millas",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Sariegos",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Sena de Luna",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Sobrado",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Soto de la Vega",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Soto y Amío",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Toral de los Guzmanes",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Toreno",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Torre del Bierzo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Trabadelo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Truchas",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Turcia",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Urdiales del Páramo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Val de San Lorenzo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Valdefresno",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Valdefuentes del Páramo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Valdemora",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Valdepiélago",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Valdepolo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Valderas",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Valderrey",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Valderrueda",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Valdesamario",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Valdevimbre",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Valencia de Don Juan",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Vallecillo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Valverde de la Virgen",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Valverde-Enrique",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Vega de Espinareda",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Vega de Infanzones",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Vega de Valcarce",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Vegacervera",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Vegaquemada",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Villablino",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Villabraz",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Villadangos del Páramo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Villadecanes",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Villademor de la Vega",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Villafranca del Bierzo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Villagatón",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Villagonzalo-Pedernales",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Villamandos",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Villamanín",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Villamartín de Don Sancho",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Villamañán",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Villamejil",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Villamol",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Villamontán de la Valduerna",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Villamoratiel de las Matas",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Villanueva de las Manzanas",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Villaobispo de Otero",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Villaquejida",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Villaquilambre",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Villarejo de Órbigo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Villares de Órbigo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Villasabariego",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Villasana de Mena",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Villaselán",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Villaturiel",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Villazala",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Villazanzo de Valderaduey",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Zotes del Páramo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Alija del Infantado",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Antigua La",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Bañeza La",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Barrios de Luna Los",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Burgo Ranero El",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Cabañas Raras",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Carrizo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Castrotierra de Valmadrigal",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Cea",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Ercina La",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Lucillo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Matanza",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Noceda del Bierzo",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Omañas Las",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Pola de Gordón La",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Riello",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Rioseco de Tapia",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Robla La",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Santovenia de la Valdoncina",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Valdelugueros",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Vecilla La",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Vegas del Condado",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Toral de los Vados",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  },
+  {
+    "name": "Villaornate y Castro",
+    "countryCode": "ES",
+    "stateCode": "LE"
+  }
 ]

@@ -1,835 +1,1738 @@
 [
-   {
-      "name": "Acebedo",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "43.03969000",
-      "longitude": "-5.11600000"
-   },
-   {
-      "name": "Algadefe",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.21931000",
-      "longitude": "-5.58419000"
-   },
-   {
-      "name": "Almanza",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.65825000",
-      "longitude": "-5.03620000"
-   },
-   {
-      "name": "Ardón",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.43629000",
-      "longitude": "-5.56048000"
-   },
-   {
-      "name": "Arganza",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.64077000",
-      "longitude": "-6.68627000"
-   },
-   {
-      "name": "Astorga",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.45879000",
-      "longitude": "-6.05601000"
-   },
-   {
-      "name": "Balboa",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.70608000",
-      "longitude": "-6.92222000"
-   },
-   {
-      "name": "Barjas",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.61182000",
-      "longitude": "-6.97979000"
-   },
-   {
-      "name": "Barraco",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "40.47647000",
-      "longitude": "-4.64346000"
-   },
-   {
-      "name": "Bembibre",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.61771000",
-      "longitude": "-6.41545000"
-   },
-   {
-      "name": "Benavides",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.50442000",
-      "longitude": "-5.89442000"
-   },
-   {
-      "name": "Benuza",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.39941000",
-      "longitude": "-6.70969000"
-   },
-   {
-      "name": "Bercianos del Páramo",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.38017000",
-      "longitude": "-5.70834000"
-   },
-   {
-      "name": "Bercianos del Real Camino",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.38732000",
-      "longitude": "-5.14462000"
-   },
-   {
-      "name": "Berlanga del Bierzo",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.73104000",
-      "longitude": "-6.60565000"
-   },
-   {
-      "name": "Boca de Huérgano",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.97287000",
-      "longitude": "-4.92419000"
-   },
-   {
-      "name": "Borrenes",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.49019000",
-      "longitude": "-6.72338000"
-   },
-   {
-      "name": "Boñar",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.86680000",
-      "longitude": "-5.32386000"
-   },
-   {
-      "name": "Brazuelo",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.49702000",
-      "longitude": "-6.15734000"
-   },
-   {
-      "name": "Burón",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "43.02486000",
-      "longitude": "-5.05119000"
-   },
-   {
-      "name": "Bustillo del Páramo",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.44126000",
-      "longitude": "-5.79280000"
-   },
-   {
-      "name": "Cabezón",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "41.73369000",
-      "longitude": "-4.64510000"
-   },
-   {
-      "name": "Cabreros del Río",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.40205000",
-      "longitude": "-5.54154000"
-   },
-   {
-      "name": "Cabrillanes",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.95343000",
-      "longitude": "-6.14849000"
-   },
-   {
-      "name": "Cacabelos",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.60021000",
-      "longitude": "-6.72373000"
-   },
-   {
-      "name": "Calzada del Coto",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.38613000",
-      "longitude": "-5.07809000"
-   },
-   {
-      "name": "Campazas",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.14219000",
-      "longitude": "-5.49349000"
-   },
-   {
-      "name": "Campo de Villavidel",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.43906000",
-      "longitude": "-5.52808000"
-   },
-   {
-      "name": "Camponaraya",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.57799000",
-      "longitude": "-6.66709000"
-   },
-   {
-      "name": "Candín",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.81695000",
-      "longitude": "-6.72848000"
-   },
-   {
-      "name": "Carracedelo",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.55602000",
-      "longitude": "-6.73317000"
-   },
-   {
-      "name": "Carrizo de la Ribera",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.58395000",
-      "longitude": "-5.82881000"
-   },
-   {
-      "name": "Carrocera",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.79605000",
-      "longitude": "-5.74374000"
-   },
-   {
-      "name": "Carucedo",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.49029000",
-      "longitude": "-6.76565000"
-   },
-   {
-      "name": "Castilfalé",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.21991000",
-      "longitude": "-5.42122000"
-   },
-   {
-      "name": "Castrillo de Cabrera",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.34036000",
-      "longitude": "-6.54451000"
-   },
-   {
-      "name": "Castrillo de la Valduerna",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.32393000",
-      "longitude": "-6.13455000"
-   },
-   {
-      "name": "Castrocalbón",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.19706000",
-      "longitude": "-5.98226000"
-   },
-   {
-      "name": "Castrocontrigo",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.18363000",
-      "longitude": "-6.19022000"
-   },
-   {
-      "name": "Castropodame",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.57943000",
-      "longitude": "-6.46837000"
-   },
-   {
-      "name": "Cebanico",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.72526000",
-      "longitude": "-5.02568000"
-   },
-   {
-      "name": "Cebrones del Río",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.25726000",
-      "longitude": "-5.82622000"
-   },
-   {
-      "name": "Chozas de Abajo",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.50657000",
-      "longitude": "-5.68656000"
-   },
-   {
-      "name": "Cimanes de la Vega",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.11646000",
-      "longitude": "-5.59851000"
-   },
-   {
-      "name": "Cimanes del Tejar",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.61789000",
-      "longitude": "-5.80506000"
-   },
-   {
-      "name": "Cistierna",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.80344000",
-      "longitude": "-5.12664000"
-   },
-   {
-      "name": "Congosto",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.61755000",
-      "longitude": "-6.52048000"
-   },
-   {
-      "name": "Corbillos de los Oteros",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.40769000",
-      "longitude": "-5.45963000"
-   },
-   {
-      "name": "Corrales",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "41.35800000",
-      "longitude": "-5.72479000"
-   },
-   {
-      "name": "Corullón",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.57896000",
-      "longitude": "-6.81925000"
-   },
-   {
-      "name": "Crémenes",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.90357000",
-      "longitude": "-5.14374000"
-   },
-   {
-      "name": "Cuadros",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.71163000",
-      "longitude": "-5.63828000"
-   },
-   {
-      "name": "Cubillas de Rueda",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.65626000",
-      "longitude": "-5.17528000"
-   },
-   {
-      "name": "Cubillas de los Oteros",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.37199000",
-      "longitude": "-5.50877000"
-   },
-   {
-      "name": "Cubillos del Sil",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.62519000",
-      "longitude": "-6.56360000"
-   },
-   {
-      "name": "Cármenes",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.95863000",
-      "longitude": "-5.57346000"
-   },
-   {
-      "name": "Destriana",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.32729000",
-      "longitude": "-6.09573000"
-   },
-   {
-      "name": "El Barco de Ávila",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "40.35710000",
-      "longitude": "-5.52365000"
-   },
-   {
-      "name": "El Burgo de Osma",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "41.58619000",
-      "longitude": "-3.06522000"
-   },
-   {
-      "name": "El Hoyo de Pinares",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "40.50084000",
-      "longitude": "-4.42357000"
-   },
-   {
-      "name": "El Tiemblo",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "40.41533000",
-      "longitude": "-4.50156000"
-   },
-   {
-      "name": "Encinedo",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.27049000",
-      "longitude": "-6.59368000"
-   },
-   {
-      "name": "Escobar de Campos",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.31337000",
-      "longitude": "-4.96573000"
-   },
-   {
-      "name": "Fabero",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.76803000",
-      "longitude": "-6.62651000"
-   },
-   {
-      "name": "Folgoso de la Ribera",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.64693000",
-      "longitude": "-6.32035000"
-   },
-   {
-      "name": "Fresno de la Vega",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.34545000",
-      "longitude": "-5.53587000"
-   },
-   {
-      "name": "Fuentes de Carbajal",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.17776000",
-      "longitude": "-5.44606000"
-   },
-   {
-      "name": "Gamonal",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.35664000",
-      "longitude": "-3.67321000"
-   },
-   {
-      "name": "Garrafe de Torío",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.73285000",
-      "longitude": "-5.52360000"
-   },
-   {
-      "name": "Gordaliza del Pino",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.34357000",
-      "longitude": "-5.15731000"
-   },
-   {
-      "name": "Gordoncillo",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.13557000",
-      "longitude": "-5.40181000"
-   },
-   {
-      "name": "Gradefes",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.62396000",
-      "longitude": "-5.22691000"
-   },
-   {
-      "name": "Grajal de Campos",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.32073000",
-      "longitude": "-5.01938000"
-   },
-   {
-      "name": "Gusendos de los Oteros",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.37818000",
-      "longitude": "-5.43088000"
-   },
-   {
-      "name": "Hospital de Órbigo",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.46354000",
-      "longitude": "-5.88636000"
-   },
-   {
-      "name": "Huerta del Rey",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "41.83910000",
-      "longitude": "-3.34755000"
-   },
-   {
-      "name": "Igüeña",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.72853000",
-      "longitude": "-6.27738000"
-   },
-   {
-      "name": "Izagre",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.22410000",
-      "longitude": "-5.25727000"
-   },
-   {
-      "name": "Joarilla de las Matas",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.28755000",
-      "longitude": "-5.17855000"
-   },
-   {
-      "name": "La Adrada",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "40.29953000",
-      "longitude": "-4.63589000"
-   },
-   {
-      "name": "La Alberca",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "40.48908000",
-      "longitude": "-6.11107000"
-   },
-   {
-      "name": "La Bañeza",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.29099730",
-      "longitude": "-5.90927540"
-   },
-   {
-      "name": "La Bouza",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "40.83626000",
-      "longitude": "-6.79551000"
-   },
-   {
-      "name": "La Carrera",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "40.34777000",
-      "longitude": "-5.55474000"
-   },
-   {
-      "name": "La Cuesta",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "41.08280000",
-      "longitude": "-3.96017000"
-   },
-   {
-      "name": "La Fuente de San Esteban",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "40.80161000",
-      "longitude": "-6.25852000"
-   },
-   {
-      "name": "La Lastrilla",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "40.96817000",
-      "longitude": "-4.10468000"
-   },
-   {
-      "name": "La Pedraja de Portillo",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "41.47124000",
-      "longitude": "-4.64639000"
-   },
-   {
-      "name": "La Pola de Gordón",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.85658000",
-      "longitude": "-5.66768000"
-   },
-   {
-      "name": "La Robla",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.80124890",
-      "longitude": "-5.62739510"
-   },
-   {
-      "name": "La Seca",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "41.41364000",
-      "longitude": "-4.90552000"
-   },
-   {
-      "name": "Laguna Dalga",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.33192000",
-      "longitude": "-5.75220000"
-   },
-   {
-      "name": "Laguna de Negrillos",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.23889000",
-      "longitude": "-5.66066000"
-   },
-   {
-      "name": "Las Navas del Marqués",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "40.60244000",
-      "longitude": "-4.33449000"
-   },
-   {
-      "name": "León",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.60003000",
-      "longitude": "-5.57032000"
-   },
-   {
-      "name": "Llamas de la Ribera",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.63504000",
-      "longitude": "-5.82524000"
-   },
-   {
-      "name": "Luyego",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.36667000",
-      "longitude": "-6.23333000"
-   },
-   {
-      "name": "Magaz de Cepeda",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.53967000",
-      "longitude": "-6.07170000"
-   },
-   {
-      "name": "Mansilla Mayor",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.50943000",
-      "longitude": "-5.44271000"
-   },
-   {
-      "name": "Mansilla de las Mulas",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.49886000",
-      "longitude": "-5.41738000"
-   },
-   {
-      "name": "Maraña",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "43.04991000",
-      "longitude": "-5.17726000"
-   },
-   {
-      "name": "Matadeón de los Oteros",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.33776000",
-      "longitude": "-5.36887000"
-   },
-   {
-      "name": "Matallana de Torío",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.86560000",
-      "longitude": "-5.52034000"
-   },
-   {
-      "name": "Molinaseca",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.53829000",
-      "longitude": "-6.51997000"
-   },
-   {
-      "name": "Murias de Paredes",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.85027000",
-      "longitude": "-6.19164000"
-   },
-   {
-      "name": "Oencia",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.54758000",
-      "longitude": "-6.96859000"
-   },
-   {
-      "name": "Onzonilla",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.52435000",
-      "longitude": "-5.58160000"
-   },
-   {
-      "name": "Oseja de Sajambre",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "43.13671000",
-      "longitude": "-5.03786000"
-   },
-   {
-      "name": "Pajares de los Oteros",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.33010000",
-      "longitude": "-5.47313000"
-   },
-   {
-      "name": "Palacios de la Valduerna",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.32773000",
-      "longitude": "-5.93830000"
-   },
-   {
-      "name": "Palacios del Sil",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.87601000",
-      "longitude": "-6.43150000"
-   },
-   {
-      "name": "Peranzanes",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.87725000",
-      "longitude": "-6.63383000"
-   },
-   {
-      "name": "Pobladura de Pelayo García",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.30602000",
-      "longitude": "-5.68560000"
-   },
-   {
-      "name": "Ponferrada",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.54664000",
-      "longitude": "-6.59619000"
-   },
-   {
-      "name": "Posada de Valdeón",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "43.15154000",
-      "longitude": "-4.92102000"
-   },
-   {
-      "name": "Pozuelo del Páramo",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.17101000",
-      "longitude": "-5.76813000"
-   },
-   {
-      "name": "Prado de la Guzpeña",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.78309000",
-      "longitude": "-5.02554000"
-   },
-   {
-      "name": "Priaranza del Bierzo",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.50978000",
-      "longitude": "-6.67017000"
-   },
-   {
-      "name": "Prioro",
-      "countryCode": "ES",
-      "stateCode": "LE",
-      "latitude": "42.89481000",
-      "longitude": "-4.96349000"
-   }
+  {
+    "name": "Acebedo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "43.03969000",
+    "longitude": "-5.11600000"
+  },
+  {
+    "name": "Algadefe",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.21931000",
+    "longitude": "-5.58419000"
+  },
+  {
+    "name": "Almanza",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.65825000",
+    "longitude": "-5.03620000"
+  },
+  {
+    "name": "Ardón",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.43629000",
+    "longitude": "-5.56048000"
+  },
+  {
+    "name": "Arganza",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.64077000",
+    "longitude": "-6.68627000"
+  },
+  {
+    "name": "Astorga",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.45879000",
+    "longitude": "-6.05601000"
+  },
+  {
+    "name": "Balboa",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.70608000",
+    "longitude": "-6.92222000"
+  },
+  {
+    "name": "Barjas",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.61182000",
+    "longitude": "-6.97979000"
+  },
+  {
+    "name": "Barraco",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "40.47647000",
+    "longitude": "-4.64346000"
+  },
+  {
+    "name": "Bembibre",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.61771000",
+    "longitude": "-6.41545000"
+  },
+  {
+    "name": "Benavides",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.50442000",
+    "longitude": "-5.89442000"
+  },
+  {
+    "name": "Benuza",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.39941000",
+    "longitude": "-6.70969000"
+  },
+  {
+    "name": "Bercianos del Páramo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.38017000",
+    "longitude": "-5.70834000"
+  },
+  {
+    "name": "Bercianos del Real Camino",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.38732000",
+    "longitude": "-5.14462000"
+  },
+  {
+    "name": "Berlanga del Bierzo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.73104000",
+    "longitude": "-6.60565000"
+  },
+  {
+    "name": "Boca de Huérgano",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.97287000",
+    "longitude": "-4.92419000"
+  },
+  {
+    "name": "Borrenes",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.49019000",
+    "longitude": "-6.72338000"
+  },
+  {
+    "name": "Boñar",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.86680000",
+    "longitude": "-5.32386000"
+  },
+  {
+    "name": "Brazuelo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.49702000",
+    "longitude": "-6.15734000"
+  },
+  {
+    "name": "Burón",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "43.02486000",
+    "longitude": "-5.05119000"
+  },
+  {
+    "name": "Bustillo del Páramo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.44126000",
+    "longitude": "-5.79280000"
+  },
+  {
+    "name": "Cabezón",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "41.73369000",
+    "longitude": "-4.64510000"
+  },
+  {
+    "name": "Cabreros del Río",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.40205000",
+    "longitude": "-5.54154000"
+  },
+  {
+    "name": "Cabrillanes",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.95343000",
+    "longitude": "-6.14849000"
+  },
+  {
+    "name": "Cacabelos",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.60021000",
+    "longitude": "-6.72373000"
+  },
+  {
+    "name": "Calzada del Coto",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.38613000",
+    "longitude": "-5.07809000"
+  },
+  {
+    "name": "Campazas",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.14219000",
+    "longitude": "-5.49349000"
+  },
+  {
+    "name": "Campo de Villavidel",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.43906000",
+    "longitude": "-5.52808000"
+  },
+  {
+    "name": "Camponaraya",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.57799000",
+    "longitude": "-6.66709000"
+  },
+  {
+    "name": "Candín",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.81695000",
+    "longitude": "-6.72848000"
+  },
+  {
+    "name": "Carracedelo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.55602000",
+    "longitude": "-6.73317000"
+  },
+  {
+    "name": "Carrizo de la Ribera",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.58395000",
+    "longitude": "-5.82881000"
+  },
+  {
+    "name": "Carrocera",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.79605000",
+    "longitude": "-5.74374000"
+  },
+  {
+    "name": "Carucedo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.49029000",
+    "longitude": "-6.76565000"
+  },
+  {
+    "name": "Castilfalé",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.21991000",
+    "longitude": "-5.42122000"
+  },
+  {
+    "name": "Castrillo de Cabrera",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.34036000",
+    "longitude": "-6.54451000"
+  },
+  {
+    "name": "Castrillo de la Valduerna",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.32393000",
+    "longitude": "-6.13455000"
+  },
+  {
+    "name": "Castrocalbón",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.19706000",
+    "longitude": "-5.98226000"
+  },
+  {
+    "name": "Castrocontrigo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.18363000",
+    "longitude": "-6.19022000"
+  },
+  {
+    "name": "Castropodame",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.57943000",
+    "longitude": "-6.46837000"
+  },
+  {
+    "name": "Cebanico",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.72526000",
+    "longitude": "-5.02568000"
+  },
+  {
+    "name": "Cebrones del Río",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.25726000",
+    "longitude": "-5.82622000"
+  },
+  {
+    "name": "Chozas de Abajo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.50657000",
+    "longitude": "-5.68656000"
+  },
+  {
+    "name": "Cimanes de la Vega",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.11646000",
+    "longitude": "-5.59851000"
+  },
+  {
+    "name": "Cimanes del Tejar",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.61789000",
+    "longitude": "-5.80506000"
+  },
+  {
+    "name": "Cistierna",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.80344000",
+    "longitude": "-5.12664000"
+  },
+  {
+    "name": "Congosto",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.61755000",
+    "longitude": "-6.52048000"
+  },
+  {
+    "name": "Corbillos de los Oteros",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.40769000",
+    "longitude": "-5.45963000"
+  },
+  {
+    "name": "Corrales",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "41.35800000",
+    "longitude": "-5.72479000"
+  },
+  {
+    "name": "Corullón",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.57896000",
+    "longitude": "-6.81925000"
+  },
+  {
+    "name": "Crémenes",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.90357000",
+    "longitude": "-5.14374000"
+  },
+  {
+    "name": "Cuadros",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.71163000",
+    "longitude": "-5.63828000"
+  },
+  {
+    "name": "Cubillas de Rueda",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.65626000",
+    "longitude": "-5.17528000"
+  },
+  {
+    "name": "Cubillas de los Oteros",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.37199000",
+    "longitude": "-5.50877000"
+  },
+  {
+    "name": "Cubillos del Sil",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.62519000",
+    "longitude": "-6.56360000"
+  },
+  {
+    "name": "Cármenes",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.95863000",
+    "longitude": "-5.57346000"
+  },
+  {
+    "name": "Destriana",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.32729000",
+    "longitude": "-6.09573000"
+  },
+  {
+    "name": "El Barco de Ávila",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "40.35710000",
+    "longitude": "-5.52365000"
+  },
+  {
+    "name": "El Burgo de Osma",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "41.58619000",
+    "longitude": "-3.06522000"
+  },
+  {
+    "name": "El Hoyo de Pinares",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "40.50084000",
+    "longitude": "-4.42357000"
+  },
+  {
+    "name": "El Tiemblo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "40.41533000",
+    "longitude": "-4.50156000"
+  },
+  {
+    "name": "Encinedo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.27049000",
+    "longitude": "-6.59368000"
+  },
+  {
+    "name": "Escobar de Campos",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.31337000",
+    "longitude": "-4.96573000"
+  },
+  {
+    "name": "Fabero",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.76803000",
+    "longitude": "-6.62651000"
+  },
+  {
+    "name": "Folgoso de la Ribera",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.64693000",
+    "longitude": "-6.32035000"
+  },
+  {
+    "name": "Fresno de la Vega",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.34545000",
+    "longitude": "-5.53587000"
+  },
+  {
+    "name": "Fuentes de Carbajal",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.17776000",
+    "longitude": "-5.44606000"
+  },
+  {
+    "name": "Gamonal",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.35664000",
+    "longitude": "-3.67321000"
+  },
+  {
+    "name": "Garrafe de Torío",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.73285000",
+    "longitude": "-5.52360000"
+  },
+  {
+    "name": "Gordaliza del Pino",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.34357000",
+    "longitude": "-5.15731000"
+  },
+  {
+    "name": "Gordoncillo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.13557000",
+    "longitude": "-5.40181000"
+  },
+  {
+    "name": "Gradefes",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.62396000",
+    "longitude": "-5.22691000"
+  },
+  {
+    "name": "Grajal de Campos",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.32073000",
+    "longitude": "-5.01938000"
+  },
+  {
+    "name": "Gusendos de los Oteros",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.37818000",
+    "longitude": "-5.43088000"
+  },
+  {
+    "name": "Hospital de Órbigo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.46354000",
+    "longitude": "-5.88636000"
+  },
+  {
+    "name": "Huerta del Rey",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "41.83910000",
+    "longitude": "-3.34755000"
+  },
+  {
+    "name": "Igüeña",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.72853000",
+    "longitude": "-6.27738000"
+  },
+  {
+    "name": "Izagre",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.22410000",
+    "longitude": "-5.25727000"
+  },
+  {
+    "name": "Joarilla de las Matas",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.28755000",
+    "longitude": "-5.17855000"
+  },
+  {
+    "name": "La Adrada",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "40.29953000",
+    "longitude": "-4.63589000"
+  },
+  {
+    "name": "La Alberca",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "40.48908000",
+    "longitude": "-6.11107000"
+  },
+  {
+    "name": "La Bañeza",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.29099730",
+    "longitude": "-5.90927540"
+  },
+  {
+    "name": "La Bouza",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "40.83626000",
+    "longitude": "-6.79551000"
+  },
+  {
+    "name": "La Carrera",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "40.34777000",
+    "longitude": "-5.55474000"
+  },
+  {
+    "name": "La Cuesta",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "41.08280000",
+    "longitude": "-3.96017000"
+  },
+  {
+    "name": "La Fuente de San Esteban",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "40.80161000",
+    "longitude": "-6.25852000"
+  },
+  {
+    "name": "La Lastrilla",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "40.96817000",
+    "longitude": "-4.10468000"
+  },
+  {
+    "name": "La Pedraja de Portillo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "41.47124000",
+    "longitude": "-4.64639000"
+  },
+  {
+    "name": "La Pola de Gordón",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.85658000",
+    "longitude": "-5.66768000"
+  },
+  {
+    "name": "La Robla",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.80124890",
+    "longitude": "-5.62739510"
+  },
+  {
+    "name": "La Seca",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "41.41364000",
+    "longitude": "-4.90552000"
+  },
+  {
+    "name": "Laguna Dalga",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.33192000",
+    "longitude": "-5.75220000"
+  },
+  {
+    "name": "Laguna de Negrillos",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.23889000",
+    "longitude": "-5.66066000"
+  },
+  {
+    "name": "Las Navas del Marqués",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "40.60244000",
+    "longitude": "-4.33449000"
+  },
+  {
+    "name": "León",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.60003000",
+    "longitude": "-5.57032000"
+  },
+  {
+    "name": "Llamas de la Ribera",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.63504000",
+    "longitude": "-5.82524000"
+  },
+  {
+    "name": "Luyego",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.36667000",
+    "longitude": "-6.23333000"
+  },
+  {
+    "name": "Magaz de Cepeda",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.53967000",
+    "longitude": "-6.07170000"
+  },
+  {
+    "name": "Mansilla Mayor",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.50943000",
+    "longitude": "-5.44271000"
+  },
+  {
+    "name": "Mansilla de las Mulas",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.49886000",
+    "longitude": "-5.41738000"
+  },
+  {
+    "name": "Maraña",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "43.04991000",
+    "longitude": "-5.17726000"
+  },
+  {
+    "name": "Matadeón de los Oteros",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.33776000",
+    "longitude": "-5.36887000"
+  },
+  {
+    "name": "Matallana de Torío",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.86560000",
+    "longitude": "-5.52034000"
+  },
+  {
+    "name": "Molinaseca",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.53829000",
+    "longitude": "-6.51997000"
+  },
+  {
+    "name": "Murias de Paredes",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.85027000",
+    "longitude": "-6.19164000"
+  },
+  {
+    "name": "Oencia",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.54758000",
+    "longitude": "-6.96859000"
+  },
+  {
+    "name": "Onzonilla",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.52435000",
+    "longitude": "-5.58160000"
+  },
+  {
+    "name": "Oseja de Sajambre",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "43.13671000",
+    "longitude": "-5.03786000"
+  },
+  {
+    "name": "Pajares de los Oteros",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.33010000",
+    "longitude": "-5.47313000"
+  },
+  {
+    "name": "Palacios de la Valduerna",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.32773000",
+    "longitude": "-5.93830000"
+  },
+  {
+    "name": "Palacios del Sil",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.87601000",
+    "longitude": "-6.43150000"
+  },
+  {
+    "name": "Peranzanes",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.87725000",
+    "longitude": "-6.63383000"
+  },
+  {
+    "name": "Pobladura de Pelayo García",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.30602000",
+    "longitude": "-5.68560000"
+  },
+  {
+    "name": "Ponferrada",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.54664000",
+    "longitude": "-6.59619000"
+  },
+  {
+    "name": "Posada de Valdeón",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "43.15154000",
+    "longitude": "-4.92102000"
+  },
+  {
+    "name": "Pozuelo del Páramo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.17101000",
+    "longitude": "-5.76813000"
+  },
+  {
+    "name": "Prado de la Guzpeña",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.78309000",
+    "longitude": "-5.02554000"
+  },
+  {
+    "name": "Priaranza del Bierzo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.50978000",
+    "longitude": "-6.67017000"
+  },
+  {
+    "name": "Prioro",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.89481000",
+    "longitude": "-4.96349000"
+  },
+  {
+    "name": "Provincia de Burgos",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.33939000",
+    "longitude": "-3.70789000"
+  },
+  {
+    "name": "Provincia de León",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.66667000",
+    "longitude": "-6.00000000"
+  },
+  {
+    "name": "Provincia de Palencia",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.41667000",
+    "longitude": "-4.50000000"
+  },
+  {
+    "name": "Provincia de Salamanca",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "40.83333000",
+    "longitude": "-6.00000000"
+  },
+  {
+    "name": "Provincia de Segovia",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "41.16667000",
+    "longitude": "-4.00000000"
+  },
+  {
+    "name": "Provincia de Soria",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "41.66667000",
+    "longitude": "-2.66667000"
+  },
+  {
+    "name": "Provincia de Valladolid",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "41.58333000",
+    "longitude": "-4.66667000"
+  },
+  {
+    "name": "Provincia de Zamora",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "41.75000000",
+    "longitude": "-6.00000000"
+  },
+  {
+    "name": "Provincia de Ávila",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "40.58333000",
+    "longitude": "-5.00000000"
+  },
+  {
+    "name": "Puebla de Lillo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "43.00691000",
+    "longitude": "-5.27387000"
+  },
+  {
+    "name": "Puente de Domingo Flórez",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.41166000",
+    "longitude": "-6.82077000"
+  },
+  {
+    "name": "Páramo del Sil",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.82056000",
+    "longitude": "-6.48747000"
+  },
+  {
+    "name": "Quintana del Castillo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.65987000",
+    "longitude": "-6.04978000"
+  },
+  {
+    "name": "Quintana del Marco",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.20670000",
+    "longitude": "-5.85030000"
+  },
+  {
+    "name": "Quintana y Congosto",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.25585000",
+    "longitude": "-6.03636000"
+  },
+  {
+    "name": "Regueras de Arriba",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.29414000",
+    "longitude": "-5.85958000"
+  },
+  {
+    "name": "Reyero",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.94882000",
+    "longitude": "-5.19892000"
+  },
+  {
+    "name": "Riaño",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.97705000",
+    "longitude": "-5.00352000"
+  },
+  {
+    "name": "Riego de la Vega",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.39138000",
+    "longitude": "-5.98102000"
+  },
+  {
+    "name": "Roperuelos del Páramo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.23780000",
+    "longitude": "-5.78235000"
+  },
+  {
+    "name": "Ruesga",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.86413000",
+    "longitude": "-4.52942000"
+  },
+  {
+    "name": "Sabero",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.83593000",
+    "longitude": "-5.14875000"
+  },
+  {
+    "name": "Sahagún",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.37085000",
+    "longitude": "-5.02942000"
+  },
+  {
+    "name": "San Adrián del Valle",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.13033000",
+    "longitude": "-5.72905000"
+  },
+  {
+    "name": "San Andrés del Rabanedo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.61174000",
+    "longitude": "-5.61671000"
+  },
+  {
+    "name": "San Cristóbal de la Polantera",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.39041000",
+    "longitude": "-5.90732000"
+  },
+  {
+    "name": "San Emiliano",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.97164000",
+    "longitude": "-6.00075000"
+  },
+  {
+    "name": "San Esteban de Nogales",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.15995000",
+    "longitude": "-5.93065000"
+  },
+  {
+    "name": "San Ildefonso",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "40.90182000",
+    "longitude": "-4.00685000"
+  },
+  {
+    "name": "San Justo de la Vega",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.45696000",
+    "longitude": "-6.01825000"
+  },
+  {
+    "name": "San Millán de los Caballeros",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.28520000",
+    "longitude": "-5.56107000"
+  },
+  {
+    "name": "San Pedro Bercianos",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.39145000",
+    "longitude": "-5.71341000"
+  },
+  {
+    "name": "Sancedo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.66666000",
+    "longitude": "-6.63456000"
+  },
+  {
+    "name": "Santa Colomba de Curueño",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.75058000",
+    "longitude": "-5.41201000"
+  },
+  {
+    "name": "Santa Colomba de Somoza",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.44466000",
+    "longitude": "-6.24483000"
+  },
+  {
+    "name": "Santa Cristina de Valmadrigal",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.35446000",
+    "longitude": "-5.30929000"
+  },
+  {
+    "name": "Santa Elena de Jamuz",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.26064000",
+    "longitude": "-5.88762000"
+  },
+  {
+    "name": "Santa Marina del Rey",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.51334000",
+    "longitude": "-5.86065000"
+  },
+  {
+    "name": "Santa María de Ordás",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.72653000",
+    "longitude": "-5.82301000"
+  },
+  {
+    "name": "Santa María de la Isla",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.35533000",
+    "longitude": "-5.92870000"
+  },
+  {
+    "name": "Santa María del Monte de Cea",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.49137000",
+    "longitude": "-5.11689000"
+  },
+  {
+    "name": "Santa María del Páramo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.35512000",
+    "longitude": "-5.75151000"
+  },
+  {
+    "name": "Santas Martas",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.43220000",
+    "longitude": "-5.37066000"
+  },
+  {
+    "name": "Santiago Millas",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.38379000",
+    "longitude": "-6.10538000"
+  },
+  {
+    "name": "Sariegos",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.65000000",
+    "longitude": "-5.63333000"
+  },
+  {
+    "name": "Sena de Luna",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.92906000",
+    "longitude": "-5.95267000"
+  },
+  {
+    "name": "Sobrado",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.51667000",
+    "longitude": "-6.85000000"
+  },
+  {
+    "name": "Soto de la Vega",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.33227000",
+    "longitude": "-5.88225000"
+  },
+  {
+    "name": "Soto y Amío",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.77477000",
+    "longitude": "-5.88693000"
+  },
+  {
+    "name": "Toral de los Guzmanes",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.24274000",
+    "longitude": "-5.56771000"
+  },
+  {
+    "name": "Toreno",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.69955000",
+    "longitude": "-6.51236000"
+  },
+  {
+    "name": "Torre del Bierzo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.60769000",
+    "longitude": "-6.36675000"
+  },
+  {
+    "name": "Trabadelo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.64874000",
+    "longitude": "-6.88000000"
+  },
+  {
+    "name": "Truchas",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.26093000",
+    "longitude": "-6.43605000"
+  },
+  {
+    "name": "Turcia",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.53431000",
+    "longitude": "-5.87844000"
+  },
+  {
+    "name": "Urdiales del Páramo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.37034000",
+    "longitude": "-5.77297000"
+  },
+  {
+    "name": "Val de San Lorenzo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.41819000",
+    "longitude": "-6.12391000"
+  },
+  {
+    "name": "Valdefresno",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.59492000",
+    "longitude": "-5.49355000"
+  },
+  {
+    "name": "Valdefuentes del Páramo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.32370000",
+    "longitude": "-5.83097000"
+  },
+  {
+    "name": "Valdemora",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.19541000",
+    "longitude": "-5.42747000"
+  },
+  {
+    "name": "Valdepiélago",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.86895000",
+    "longitude": "-5.39763000"
+  },
+  {
+    "name": "Valdepolo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.57686000",
+    "longitude": "-5.22513000"
+  },
+  {
+    "name": "Valderas",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.07830000",
+    "longitude": "-5.44355000"
+  },
+  {
+    "name": "Valderrey",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.39408000",
+    "longitude": "-6.02151000"
+  },
+  {
+    "name": "Valderrueda",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.81558000",
+    "longitude": "-4.94731000"
+  },
+  {
+    "name": "Valdesamario",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.72094000",
+    "longitude": "-5.95104000"
+  },
+  {
+    "name": "Valdevimbre",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.41959000",
+    "longitude": "-5.61975000"
+  },
+  {
+    "name": "Valencia de Don Juan",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.29374000",
+    "longitude": "-5.51720000"
+  },
+  {
+    "name": "Vallecillo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.35604000",
+    "longitude": "-5.21088000"
+  },
+  {
+    "name": "Valverde de la Virgen",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.56823000",
+    "longitude": "-5.68461000"
+  },
+  {
+    "name": "Valverde-Enrique",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.30459000",
+    "longitude": "-5.29990000"
+  },
+  {
+    "name": "Vega de Espinareda",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.72537000",
+    "longitude": "-6.65439000"
+  },
+  {
+    "name": "Vega de Infanzones",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.48116000",
+    "longitude": "-5.53295000"
+  },
+  {
+    "name": "Vega de Valcarce",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.66068000",
+    "longitude": "-6.93785000"
+  },
+  {
+    "name": "Vegacervera",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.88808000",
+    "longitude": "-5.53549000"
+  },
+  {
+    "name": "Vegaquemada",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.81870000",
+    "longitude": "-5.33242000"
+  },
+  {
+    "name": "Villablino",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.93932000",
+    "longitude": "-6.31943000"
+  },
+  {
+    "name": "Villabraz",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.24658000",
+    "longitude": "-5.44593000"
+  },
+  {
+    "name": "Villadangos del Páramo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.51672000",
+    "longitude": "-5.76737000"
+  },
+  {
+    "name": "Villadecanes",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.57973000",
+    "longitude": "-6.75971000"
+  },
+  {
+    "name": "Villademor de la Vega",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.26964000",
+    "longitude": "-5.56808000"
+  },
+  {
+    "name": "Villafranca del Bierzo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.60601000",
+    "longitude": "-6.81069000"
+  },
+  {
+    "name": "Villagatón",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.63413000",
+    "longitude": "-6.16184000"
+  },
+  {
+    "name": "Villagonzalo-Pedernales",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.30145000",
+    "longitude": "-3.73539000"
+  },
+  {
+    "name": "Villamandos",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.18058000",
+    "longitude": "-5.59397000"
+  },
+  {
+    "name": "Villamanín",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.93864000",
+    "longitude": "-5.65669000"
+  },
+  {
+    "name": "Villamartín de Don Sancho",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.56943000",
+    "longitude": "-5.06056000"
+  },
+  {
+    "name": "Villamañán",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.32198000",
+    "longitude": "-5.58195000"
+  },
+  {
+    "name": "Villamejil",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.56205000",
+    "longitude": "-6.02514000"
+  },
+  {
+    "name": "Villamol",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.42766000",
+    "longitude": "-5.04832000"
+  },
+  {
+    "name": "Villamontán de la Valduerna",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.30962000",
+    "longitude": "-5.99656000"
+  },
+  {
+    "name": "Villamoratiel de las Matas",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.39755000",
+    "longitude": "-5.30064000"
+  },
+  {
+    "name": "Villanueva de las Manzanas",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.47264000",
+    "longitude": "-5.48043000"
+  },
+  {
+    "name": "Villaobispo de Otero",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.50065000",
+    "longitude": "-6.05809000"
+  },
+  {
+    "name": "Villaquejida",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.14500000",
+    "longitude": "-5.59699000"
+  },
+  {
+    "name": "Villaquilambre",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.64685000",
+    "longitude": "-5.55835000"
+  },
+  {
+    "name": "Villarejo de Órbigo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.44559000",
+    "longitude": "-5.90462000"
+  },
+  {
+    "name": "Villares de Órbigo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.46955000",
+    "longitude": "-5.91002000"
+  },
+  {
+    "name": "Villasabariego",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.53288000",
+    "longitude": "-5.41322000"
+  },
+  {
+    "name": "Villasana de Mena",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "43.10017000",
+    "longitude": "-3.28253000"
+  },
+  {
+    "name": "Villaselán",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.56105000",
+    "longitude": "-5.04820000"
+  },
+  {
+    "name": "Villaturiel",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.51819000",
+    "longitude": "-5.48615000"
+  },
+  {
+    "name": "Villazala",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.36146000",
+    "longitude": "-5.85600000"
+  },
+  {
+    "name": "Villazanzo de Valderaduey",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.53592000",
+    "longitude": "-4.96462000"
+  },
+  {
+    "name": "Zotes del Páramo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.27268000",
+    "longitude": "-5.73617000"
+  },
+  {
+    "name": "Alija del Infantado",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "name": "Antigua La",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "name": "Bañeza La",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.29099730",
+    "longitude": "-5.90927540"
+  },
+  {
+    "name": "Barrios de Luna Los",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "name": "Burgo Ranero El",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "name": "Cabañas Raras",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "name": "Carrizo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "name": "Castrotierra de Valmadrigal",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "name": "Cea",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "name": "Ercina La",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "name": "Lucillo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "name": "Matanza",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "name": "Noceda del Bierzo",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "name": "Omañas Las",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "name": "Pola de Gordón La",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.85658000",
+    "longitude": "-5.66768000"
+  },
+  {
+    "name": "Riello",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "name": "Rioseco de Tapia",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "name": "Robla La",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "42.80124890",
+    "longitude": "-5.62739510"
+  },
+  {
+    "name": "Santovenia de la Valdoncina",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "name": "Valdelugueros",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "name": "Vecilla La",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "name": "Vegas del Condado",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "name": "Toral de los Vados",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "name": "Villaornate y Castro",
+    "countryCode": "ES",
+    "stateCode": "LE",
+    "latitude": "",
+    "longitude": ""
+  }
 ]
